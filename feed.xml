@@ -258,21 +258,6 @@
 Самое время вкладываться в новые территории!</description>
         <param name="Общая площадь">21 м²</param>
       </offer>
-      <offer id="132690930" available="true">
-        <name>6-к квартира, 150 м², Красногорск г.</name>
-        <price>14000000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/78d3de7966f98b1bcb8a95be6ba48321951684bd74d5160059899afb5aa93c78</picture>
-        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
-Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
-Выезд и счет сметы для вас бесплатен!</description>
-        <param name="Общая площадь">150 м²</param>
-      </offer>
       <offer id="132690959" available="true">
         <name>4-к квартира, 90 м², Красногорск г.</name>
         <price>8000000</price>
@@ -522,6 +507,43 @@ Sky Sputnik расположен рядом с Живописной бухтой
 ДДУ, график платежей, планировку и схему расположения на 9-м этаже предоставлю для проверки. Звоните или пишите.</description>
         <param name="Общая площадь">24.88 м²</param>
         <param name="Адрес">Тенистых Аллей ул., 20</param>
+      </offer>
+      <offer id="143022645" available="true">
+        <name>Квартира, 26 м², Красногорск г.</name>
+        <price>42000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/1ca032f8f6c81c30c467897604ba996966bf236c453dc783e5f42ba4ec24c5d8</picture>
+        <picture>https://files-p.topnlab.ru/6d9a109cac9d45d31d7d3c6af4ded21675306b57a7b23c56759f8eced8d2e4d9</picture>
+        <picture>https://files-p.topnlab.ru/b7f2fa2a3aa4e1ad5f21a8c9ed6c68f828a9f6744fa87d8bc4435f1d725ce7da</picture>
+        <picture>https://files-p.topnlab.ru/13153f9e1212905208757b2f6ecd8256ad05354a9111a4b19a57de45cbfefeb1</picture>
+        <picture>https://files-p.topnlab.ru/a1491b97d0d4cb9fed820d52db475b9ad35ad97f212967848c6f696960480874</picture>
+        <picture>https://files-p.topnlab.ru/b7cd458ec8f14a51210f288b96c4efd455572e22e889ed96fef1bec40bb73d49</picture>
+        <picture>https://files-p.topnlab.ru/40628dae1136d1787e9f7f88cd116d2cf464ecd4f0257904e84899f6efd5dcb4</picture>
+        <picture>https://files-p.topnlab.ru/397b0a3ec67b4bf96fdc220db8be6577e0989ec4a94cec5739dd32b377109d2a</picture>
+        <picture>https://files-p.topnlab.ru/e7c403ebdcc6d21c703f39f9f639e0691f4424837ea0f83afb1dd236fa049337</picture>
+        <picture>https://files-p.topnlab.ru/4eb53489d9166896f241e30b289d884400b175fa12f523fc548dc6e8b50a6ef8</picture>
+        <picture>https://files-p.topnlab.ru/d6355419c93960b6f3cc842296f3b1949df5555c177ecb10581925a990ffef3d</picture>
+        <picture>https://files-p.topnlab.ru/53ed31a06aa3587858c09fb8bf8d410c88004d1201231a6cfde637a927a74c32</picture>
+        <picture>https://files-p.topnlab.ru/b2cca0941a670ff9208594593121a5ba641b347aca48d1bcc7a68934762f6148</picture>
+        <description>Александровская ул., 3. Сдается стильная и светлая студия на длительный срок&lt;br /&gt;
+Адрес и локация: Московская обл., Красногорск, Александровская ул., 2. Пешая доступность до ст. МЦД «Красногорская» — [10–15 минут]. Удобные выезды на Волоколамское, Ильинское и Новорижское шоссе, (5–7 минут) до МКАД. Рядом остановки транспорта до станций метро «Тушинская», «Строгино», «Митино» и «Мякинино».&lt;br /&gt;
+О квартире:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Свежий качественный ремонт, продуманное зонирование и высокий уровень уюта.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Мебель: удобное спальное место (двуспальная кровать / раскладной диван), вместительная система хранения для вещей, обеденная зона.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Техника: встроенный кухонный гарнитур, варочная панель, холодильник, стиральная машина, микроволновая печь, чайник, телевизор, проведен скоростной интернет.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Санузел совмещенный, с полноценной душевой зоной и качественной сантехникой.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+О комплексе и инфраструктуре:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Новый современный дом с чистыми входными группами и закрытым благоустроенным двором.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;На первых этажах и в шаговой доступности: супермаркеты, кофейни, аптеки, пункты выдачи заказов (OZON, WB, Яндекс Маркет), фитнес-клубы.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Рядом зеленые зоны, парки и набережная для прогулок и пробежек.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Условия аренды:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Арендная плата: 42 000 руб./месяц&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Дополнительно: интернет + полная коммуналка по квитанции.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Залог (депозит): в размере 1 месяца.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сдается аккуратным и платежеспособным нанимателям (одному человеку или паре).&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Проживание без домашних животных, курение в квартире запрещено.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Квартира полностью готова к заселению. Звоните или пишите, чтобы согласовать удобное время для просмотра!</description>
+        <param name="Общая площадь">26 м²</param>
+        <param name="Адрес">Александровская ул., 3</param>
       </offer>
       <offer id="143375004" available="true">
         <name>2-к квартира, 55.9 м², Чащь д.</name>
@@ -853,6 +875,21 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
 Ермолино (бул. Космонавтов, 8Б): ~122 м.</description>
         <param name="Общая площадь">41.2 м²</param>
         <param name="Адрес">Космонавтов б-р., 13</param>
+      </offer>
+      <offer id="132690930" available="true">
+        <name>6-к квартира, 150 м², Красногорск г.</name>
+        <price>14000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/78d3de7966f98b1bcb8a95be6ba48321951684bd74d5160059899afb5aa93c78</picture>
+        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
+Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
+Выезд и счет сметы для вас бесплатен!</description>
+        <param name="Общая площадь">150 м²</param>
       </offer>
     </offers>
   </shop>
