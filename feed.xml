@@ -1,0 +1,859 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="">
+  <shop>
+    <name>Самолет Плюс Красногорск</name>
+    <company>Самолет Плюс Красногорск</company>
+    <url>https://yandex.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Квартиры</category>
+    </categories>
+    <offers>
+      <offer id="66110152" available="true">
+        <name>4-к квартира, 219 м², Тимошкино д.</name>
+        <price>8500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/9dc0a7a0173942ee6eb94426554b5f23d8d2fd2065b11d054ba3096086cc4cf2</picture>
+        <picture>https://files-p.topnlab.ru/e10925d9eba2eb8159ac8b25865f4cc513f299d3d9a7520e774e1f5956b481ef</picture>
+        <picture>https://files-p.topnlab.ru/88e5078baaa1fdfe8f989e946bee6a993dcf38bec5af71bf492bf2995f694ff5</picture>
+        <picture>https://files-p.topnlab.ru/77792d4f45815d96b08121622f786c4664ad6a6bbf5b1f24b18bc307de14c094</picture>
+        <picture>https://files-p.topnlab.ru/4b02e26f66be9ae279c5871726f6a2909faec865f8408d5eae6c45565fc1ecd6</picture>
+        <picture>https://files-p.topnlab.ru/ab88a39da77b062a28e26863f5e074a41711504bdb839342c1642666b9f93879</picture>
+        <picture>https://files-p.topnlab.ru/9432b14a69e16b9cae509cfda4b5feec472759cb1122e697e174514df78aee43</picture>
+        <picture>https://files-p.topnlab.ru/9cd717cb2797d789453fda81f913159e516c96304dfb27b2f4d72d8d9798a424</picture>
+        <picture>https://files-p.topnlab.ru/b797d12731010480bd67d3ee4b45590ae555c28774f7fe35ac8be49b02341544</picture>
+        <picture>https://files-p.topnlab.ru/2a121dddb8f4f68aaec38ce9a6c6e4d9f12f3ebecae31aa71936acc6366a17ec</picture>
+        <picture>https://files-p.topnlab.ru/32b05d8ce2a2f1b8abe14365e7898917336b3c1e6324bd28ea14dc33218151f2</picture>
+        <picture>https://files-p.topnlab.ru/a9f0712cc659a0194e31e3b0bee62926db0ddfb64ac998bd173b6661ebcb4bc1</picture>
+        <picture>https://files-p.topnlab.ru/26392b25ef0b4d19379ccd11f0f481da043cbf770e6a2c2e7423aa2628f37003</picture>
+        <picture>https://files-p.topnlab.ru/8f7425f9d1a11aa818af83a10d0788812b76965077c9bac1119665162c46a180</picture>
+        <picture>https://files-p.topnlab.ru/95021039045e6cb78629aa9864a98df6eac2de13fba00cd963347e5bce334e80</picture>
+        <picture>https://files-p.topnlab.ru/0be022cbf7fccbcd23a671ea91599ef1bd7e81fb8df221c28a0b908701a1a074</picture>
+        <picture>https://files-p.topnlab.ru/892f886c771874670e41032863a8a97522e18a8540af0af486b3b63f8833bc16</picture>
+        <description>. Продаю двухэтажный дом для круглогодичного проживания, 219кв.м на участке 6 соток в огороженном, охраняемом СНТ "Земля" вблизи д. Тимошкино Красногорского района Московской области, 20 км. от МКАД по Новорижскому и Ильинскому шоссе. Категория земли садоводство.&lt;br /&gt;
+Электричество есть, напряжение сети 220 В. Вода из колодца.&lt;br /&gt;
+Асфальтированный подъезд к СНТ, дорога к участку - асфальтовая крошка, зимой чистятся трактором, многие члены СНТ живут круглогодично, рядом деревня Тимошкино, магазин.&lt;br /&gt;
+1 км до реки Истра, в 10 минутах езды пляж на Москва река, 200 м до леса. Общественный транспорт от м. Тушинская, м. Молодежная, м. Крылатское, остановка в 5 минут пешком от СНТ. Остановка автобусного маршрута 34 до станции Павшино МЦД-2. Торг. Кадастровый номер участка 50:11:0050102:338.</description>
+        <param name="Общая площадь">219 м²</param>
+      </offer>
+      <offer id="68106418" available="true">
+        <name>2-к квартира, 50 м², Шубино д.</name>
+        <price>900000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/94ff9e393aca4890b05110cbc4a1af06944db1227487e1832fa8db78da6e4231</picture>
+        <picture>https://files-p.topnlab.ru/c9b80f5aeea36eedeca9d951990ce82af38aa902ec216f2147f46878eab51479</picture>
+        <picture>https://files-p.topnlab.ru/8ba513c2bd7fa7a4d2a344412b888fd65a2c8cb31bb0d239efc362687ace8cd9</picture>
+        <picture>https://files-p.topnlab.ru/f239d32915392c60c0acb2b4cdce94779650bc837d0e3d408007c8c81a9bfce0</picture>
+        <description>. В продаже однокомнатный дом общей площадью 50 кв.м и площадью комнат 20 кв.м, расположенный на земельном участке размером 12 соток. Это одноэтажное деревянное строение, требующее ремонта.&lt;br /&gt;
+&lt;br /&gt;
+Категория земли — личное подсобное хозяйство. Дом полностью готов к заселению. Система отопления — печная, имеется локальная канализация. Электричество проведено, напряжение в сети составляет 220 В. Воду можно получать из колодца. Газификация отсутствует.&lt;br /&gt;
+К дому ведёт асфальтированная дорога.&lt;br /&gt;
+&lt;br /&gt;
+Кадастровый номер: 50:02:0040207:689.</description>
+        <param name="Общая площадь">50 м²</param>
+      </offer>
+      <offer id="109228151" available="true">
+        <name>3-к квартира, 104.6 м², Красногорск г.</name>
+        <price>23000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/fe425a03d8494e81fe717effad027bc47ad6e3ad8972d40daba65bb99037f3c9</picture>
+        <picture>https://files-p.topnlab.ru/186fb6abab47e4f6395f8b63a1877cecac0e7cb6c1f256144d488450e29bbe5b</picture>
+        <picture>https://files-p.topnlab.ru/26b42e7c712ad3e2b376bf976d14f4ba02a523eba65a49c2523a69d6edca9f55</picture>
+        <picture>https://files-p.topnlab.ru/a6705cc0b7f29b522fbdcc0e238283e62171da173a7500755aaf8e631ee969f4</picture>
+        <picture>https://files-p.topnlab.ru/33a2706d26b257ad0f9233a83e30a3b1b0036ac84abcf2a87c004bccad1913e4</picture>
+        <picture>https://files-p.topnlab.ru/47acc936c8647537889e6dd9e1514705ececd67bc811a2fe514eb1bb5e624ea6</picture>
+        <picture>https://files-p.topnlab.ru/e1adeb1298fb75c0489de045fd237964f5fe38382fb4db11b72342b011b80720</picture>
+        <picture>https://files-p.topnlab.ru/c3f6b895fe69eae5cc284866479fcf365e8ea3bc61e30031c004c6306e875bc9</picture>
+        <picture>https://files-p.topnlab.ru/75a928b94fb6eeb9350c50af17427141df4059ebf2bbb802e91c52c3d6bac261</picture>
+        <picture>https://files-p.topnlab.ru/4c3c89697d34fa7870c0801caaf1c8ae26a62584498558c7da33523de3d4fd87</picture>
+        <picture>https://files-p.topnlab.ru/d91c17d520db834a6e6c802c4532f500274f772986d38d69d8b00b875e025a22</picture>
+        <picture>https://files-p.topnlab.ru/d46d3cc7f0b889437d07f93481dc9aa909163c3d5cfdf008d594f26002e407bd</picture>
+        <picture>https://files-p.topnlab.ru/b1606ac5eb075e11213f28056694191f40aec51b8e2e42acbd16f1e92f907b4f</picture>
+        <picture>https://files-p.topnlab.ru/ab7aac2bc4994b3a4ebadcd9176ffb89bd13b1f5b5bb9829670e4e3d21e88e46</picture>
+        <picture>https://files-p.topnlab.ru/f039eb4b497b15988da2a20dad1175f74752624eec8651f957de67513ad99ddd</picture>
+        <picture>https://files-p.topnlab.ru/d1a369b104c3a969aea8b7c373a2d8fd32b816fdedf0136128d10d0cc101f94b</picture>
+        <picture>https://files-p.topnlab.ru/ef9c46a8ce91d07d28de857bcb4414ec266f5ef8311ef931d03a82b374e556d3</picture>
+        <picture>https://files-p.topnlab.ru/09ff79bcec61c23f1b003aa323f4b778e801ea2c2e512913ec5070ba47c5d998</picture>
+        <picture>https://files-p.topnlab.ru/2bba5a0c051b0b7d5f27048c4359911a6d91aea7bc042e7b14cd253d8e562db1</picture>
+        <picture>https://files-p.topnlab.ru/39da7c42a34f8e105e2580d30a9fe154a1c6f95e9a82830fd1a6778d9c09a89c</picture>
+        <picture>https://files-p.topnlab.ru/29ebad1094bceca33a565c2522d032bcc44e16e983bbf7d7c656f7f45799fd9a</picture>
+        <picture>https://files-p.topnlab.ru/e28ac982285ae96eb70005f613ef1f3869d38d158ca5ee69312d0cbdc512b587</picture>
+        <picture>https://files-p.topnlab.ru/a0489daffe828bb5bc3cce16f0bfd5d6a3a88d86c8f0172032a797469c2180c6</picture>
+        <picture>https://files-p.topnlab.ru/6753686048e0cfbb12b11f46d368476c260f1d41bedab6c4d4e2b86cf22c6947</picture>
+        <picture>https://files-p.topnlab.ru/110d717b8ece183019b545407af2d24963d1ac7c90cd32fa3d67f6322091fb43</picture>
+        <picture>https://files-p.topnlab.ru/2c4dcafb831bce0d5b4d610ade47d4d01f913fb2eec09ec3c671299aaf435d1b</picture>
+        <picture>https://files-p.topnlab.ru/8eb75129e361d208458ebfe759ee5fc7cc5e20881b4eab72ae6fdf7048c2a080</picture>
+        <picture>https://files-p.topnlab.ru/31225f8e65e86e0166c99e16799d6d1ea541b2e55e26e1947774a667d85e2824</picture>
+        <picture>https://files-p.topnlab.ru/2350055db76530aeb5c7da1636a3de945402621d4673cbe955995f029459f055</picture>
+        <picture>https://files-p.topnlab.ru/2b74b5bb9fd2e802668347acad0ef2c96cb6fbda108f68a0242505cc6d73c1d3</picture>
+        <picture>https://files-p.topnlab.ru/ad53d484b1aaa6de7aa385d0d816d3a563bf33895b820e1a3d84e3c399424ec9</picture>
+        <picture>https://files-p.topnlab.ru/d5873f494f5ba8456bca71f8d92986c197eb89918281d68a5e45c8ba193a5c4d</picture>
+        <picture>https://files-p.topnlab.ru/282bf83e740a9229bb50c9aeb66dbc6a77881690d904a883054e447b60fdde75</picture>
+        <picture>https://files-p.topnlab.ru/f1709dc9eb0f6ebd52e6bf1aca6a536daf0b164c1bf8fefc3bc225306f657a52</picture>
+        <picture>https://files-p.topnlab.ru/98ef29efb57bdade725d3e044b500bb8c52a3709283db475a9c26bd832d6a08a</picture>
+        <picture>https://files-p.topnlab.ru/231bdfc737e08c86f865228ade94fcdb6cfb5a43bae0e1f7878c72603e9f6425</picture>
+        <picture>https://files-p.topnlab.ru/a9668c7978c06c4c0a519f06cde8f21879d619b3feb98ee056459dde92141881</picture>
+        <picture>https://files-p.topnlab.ru/f5c3ec02879cf7d4ffca5d24b1f2ac476775553d08ec5b3103381fdf3f2ce365</picture>
+        <picture>https://files-p.topnlab.ru/90c303a1c042f1e540f717465da31ac711e65226b9059c3343857586df0533e0</picture>
+        <picture>https://files-p.topnlab.ru/4135d2cf218cfedb604b8aa3cc40701974e6b3e94f3dd98ff18e0a1f0f8eee75</picture>
+        <picture>https://files-p.topnlab.ru/760b02bbc71a77f76a79734f93d9c870f745b39e6550aa6d2fc5f0cd663ca3dc</picture>
+        <picture>https://files-p.topnlab.ru/209531ca40b42a02f81891b9e10ed542ef71d12386ab0a74f245b58c43fffb3b</picture>
+        <picture>https://files-p.topnlab.ru/5cd0b90449db370d24f85860945cdc6e922e964c58d6009fd012007b2a1cfa5c</picture>
+        <picture>https://files-p.topnlab.ru/a3635153b7e85f22ebdcca12db88b3727569f043953b6f2ef6cb77fd4f4a8932</picture>
+        <picture>https://files-p.topnlab.ru/3a459dee14a23ef24a1b57529e0e7261230f41f8221b0a94a95bcaa75ddbf9d3</picture>
+        <picture>https://files-p.topnlab.ru/96008ae1ce134e069f455bf1bcb785f86f4b02548462f51b0463a545ba0066d9</picture>
+        <picture>https://files-p.topnlab.ru/ab8508d5181c4d99a9057ea2203877b7cdaeaa794d0c1f5c8232775eb1282536</picture>
+        <picture>https://files-p.topnlab.ru/112d4dc8bd2b0f228fa1d442e7857cf7ea4a86e5bb8f08228ccbf63efdc82127</picture>
+        <description>Вилора Трифонова ул, 1. Просторная 3-комнатная квартира бизнес-класса в Красногорске — идеальное сочетание комфорта, безопасности и эстетики!&lt;br /&gt;
+Расположение: Московская область, г. Красногорск, мкр. Столичный, ул. Вилора Трифонова, д.1&lt;br /&gt;
+Этаж: 6 из 25 | Общая площадь: 104,6 м² | Потолки: 2,8 м&lt;br /&gt;
+Дом: кирпично-монолитный, индивидуальный проект, построен в 2009 году&lt;br /&gt;
+&lt;br /&gt;
+ Функциональная планировка с продуманными деталями&lt;br /&gt;
+Эта квартира — не просто жильё, а полноценный дом для семьи, ценящей комфорт, стиль и безопасность. Пространство включает:&lt;br /&gt;
+Просторная спальня&lt;br /&gt;
+Уютная детская комната&lt;br /&gt;
+Зал-гостиная объединённого формата&lt;br /&gt;
+Гардеробная&lt;br /&gt;
+Кабинет с встроенным оружейным сейфом&lt;br /&gt;
+Современная финская сауна с камином Hello (150 л камней)&lt;br /&gt;
+Тренажерный зал&lt;br /&gt;
+&lt;br /&gt;
+ Высокий уровень безопасности&lt;br /&gt;
+На этаже установлены система видеонаблюдения и датчики движения , обеспечивающие контроль за происходящим в подъезде.&lt;br /&gt;
+Входная дверь — VALIANT на заказ : бронированные пластины, 7 выдвижных штырей по всему периметру, три замка разной степени защиты и скрытые петли.&lt;br /&gt;
+&lt;br /&gt;
+ Дизайнерский ремонт с использованием натуральных материалов&lt;br /&gt;
+Квартира была спроектирована профессиональными дизайнерами. В отделке использованы только благородные материалы:&lt;br /&gt;
+Полы:&lt;br /&gt;
+Мрамор — в зале-гостиной, на кухне и балконе&lt;br /&gt;
+Керамогранит — в спортзале и прихожей&lt;br /&gt;
+Паркетная доска — в спальне, детской, кабинете, гардеробной и коридоре&lt;br /&gt;
+Тёплые полы в следующих зонах: кухня, зал-гостиная, спортзал, ванная комната, балкон&lt;br /&gt;
+Подоконники и столешница на кухне выполнены из натурального гранита&lt;br /&gt;
+Двери — из массива дерева&lt;br /&gt;
+Светильники — люстры из мурановского стекла и мрамора&lt;br /&gt;
+Кухня — ручной работы из цельного массива дерева, оснащена встроенной техникой&lt;br /&gt;
+&lt;br /&gt;
+️ Современные системы климат-контроля&lt;br /&gt;
+Кондиционер Toshiba (56 м²) — обслуживает зону гостиной и кухни&lt;br /&gt;
+Кондиционер Haier Premium (26 м²) — установлен в главной спальне&lt;br /&gt;
+&lt;br /&gt;
+‍️ Сауна уровня премиум&lt;br /&gt;
+Сауна полностью изготовлена из канадского кедра , известного своими антибактериальными и ароматическими свойствами. Полоки — из африканского абаша, который сохраняет приятную температуру даже в самых высоких режимах нагрева.&lt;br /&gt;
+Оборудована влагозащитной аудиосистемой ArtSound для максимального расслабления и комфорта.&lt;br /&gt;
+&lt;br /&gt;
+️ Отапливаемый балкон с панорамным остеклением&lt;br /&gt;
+Балкон застеклён современными стеклопакетами, оснащён мощным тёплым полом , способным работать даже в минусовые температуры. Идеальное место для отдыха или зимнего сада.&lt;br /&gt;
+&lt;br /&gt;
+ Ориентация окон на три стороны света&lt;br /&gt;
+Окна выходят на три стороны, что обеспечивает естественное освещение большинства помещений.&lt;br /&gt;
+Спальня и детская комнаты выходят во внутренний двор — тихое и спокойное место без городской суеты</description>
+        <param name="Общая площадь">104.6 м²</param>
+        <param name="Адрес">Вилора Трифонова ул, 1</param>
+      </offer>
+      <offer id="125186868" available="true">
+        <name>Квартира, 14.7 м², Красногорск г.</name>
+        <price>9000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/5cb0966725f77071352787c663446f98c8595464dcc8dbe384a9e66723e7ea72</picture>
+        <picture>https://files-p.topnlab.ru/33b00bfe11ddd21be7acc137507967418e285bf98d70494a0c1928c12273db62</picture>
+        <picture>https://files-p.topnlab.ru/e8cf016aca987285d24842acd8cc08f799453336bc51470c938efdb8a69d72ad</picture>
+        <picture>https://files-p.topnlab.ru/1741be3df1e7325753e596f52e6b70de9a233f68bb446c5d6c8c70a3934303c4</picture>
+        <description>Большая Воскресенская ул., 5. Сдается машиноместо 14,7 м² в ЖК Тетрис — ваш автомобиль в безопасности! Расположение: вторая очередь, башня - крайняя справа, если смотреть от станции в сторону Волоколамского шоссе.&lt;br /&gt;
+&lt;br /&gt;
+Почему выгодно выбрать именно это машиноместо?&lt;br /&gt;
+&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Идеальное расположение — 3 минуты пешком до станции МЦД Павшино, удобный выезд на МКАД (всего 3 км)!&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сухой и теплый подземный паркинг — защита от осадков и перепадов температур круглый год.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Безопасность и спокойствие — закрытая территория, видеонаблюдение, доступ только для владельцев.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Комфортный заезд и выезд — никакой суеты и пробок!&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Размер идеально подойдет для легкового автомобиля.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Выгодная цена: аренда всего 9 000 руб./мес.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Звоните прямо сейчас и запишитесь на просмотр! Агентство "Самолет Плюс" — надежные сделки с проверенными объектами.</description>
+        <param name="Общая площадь">14.7 м²</param>
+        <param name="Адрес">Большая Воскресенская ул., 5</param>
+      </offer>
+      <offer id="132100914" available="true">
+        <name>2-к квартира, 47.1 м², Бабинки д.</name>
+        <price>1800000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/064c98e4c0aec6e82f2064399b7e808fd794dad8689d1fbb95e267d373afffd3</picture>
+        <picture>https://files-p.topnlab.ru/55892766b713a8cc1b25e2300ab2e8ffa247c7f877900ea31c0fd8eb1c72cda2</picture>
+        <picture>https://files-p.topnlab.ru/5d8393fd0b7fec258815fb120147f85c65407e3a1400d41011c740a4424c1cf9</picture>
+        <picture>https://files-p.topnlab.ru/002e184ff0bf30fd49ce16b7bcc2be9b1f921ab85b8386d46e3e200a9faf26c1</picture>
+        <picture>https://files-p.topnlab.ru/2d40a72b3c8a2c52473d00b102773dfcf53967b92008dba5f750ffd0176550c8</picture>
+        <picture>https://files-p.topnlab.ru/2cabfe6ef23f78c4fd12d3406f5a31f49b98840b3bcf4a6f2e86f364e578c615</picture>
+        <picture>https://files-p.topnlab.ru/3736c7060bd9c12698ad42ce16441b346914aa957873a011f0943369eb3b8f6a</picture>
+        <picture>https://files-p.topnlab.ru/65b6e5b67285da5b7631817a91babcdebee7ccc17902f186828269f0336138e8</picture>
+        <picture>https://files-p.topnlab.ru/1b45f5d3c8cfb570367f87cc5ddb02b24297811e4a9493c37d7920e83e30674d</picture>
+        <picture>https://files-p.topnlab.ru/e655dbdd7db617b496f5318bf806eafff5e27593d743dff9e04558b1be67b2e2</picture>
+        <picture>https://files-p.topnlab.ru/5ee99030be9ffc0655092d0039ab2d4661a0c53ad8d58860c093766eef7c9406</picture>
+        <picture>https://files-p.topnlab.ru/f47f571fdeb060863cfdb8af79aba87ba58030fbc609a146f5226d360c5f2557</picture>
+        <picture>https://files-p.topnlab.ru/9a2923fb89c98863f50b976994dd849f82d269ca687082b3af3a3f40527113f8</picture>
+        <picture>https://files-p.topnlab.ru/35b5441f33e47cf161c37c68876dfd3088ae36501054ff4e74469a86bb6a2b07</picture>
+        <picture>https://files-p.topnlab.ru/430eff65ffc7b1c5256b18907d19188d90b51a89de31dd823dba1f671990c875</picture>
+        <picture>https://files-p.topnlab.ru/be641a9530fd2a325b91599913e3f39ac9ff39d638a72a4522c5cc2b27b89af1</picture>
+        <picture>https://files-p.topnlab.ru/a22fcabffaa0dc140a752187e63b7ced1019433cb64d309ce1ff95e2525151b9</picture>
+        <picture>https://files-p.topnlab.ru/14db64fa980b51aebe2e75107108017af65214c297b75b2fc83b0a0fbde8537e</picture>
+        <picture>https://files-p.topnlab.ru/4ac057e6c7e7cb5478f1e85168eb7388c38f4514b62c7fe056770851857e4410</picture>
+        <picture>https://files-p.topnlab.ru/3ede7078eb5aa0c0e121d4d9e69af81b0bb2868a67a674c36f227c7d5b301948</picture>
+        <picture>https://files-p.topnlab.ru/c840d68239e08066a710ec9e56bfad32ff5e2c3408f1f08c318f1db13bcd311f</picture>
+        <picture>https://files-p.topnlab.ru/a2a455dc393cfea3a880c65aeb03217cede8a64623b969a9d2d6a47d87cfd61d</picture>
+        <picture>https://files-p.topnlab.ru/f14096f2e96fc078e1b6d7de53ab26e505f75554260d9f5d056450445fbb6b5e</picture>
+        <picture>https://files-p.topnlab.ru/5a9885ebd68951c5ad22a56cb2d27097d2a6c511334e8d6f3be90b540d61fc7a</picture>
+        <picture>https://files-p.topnlab.ru/b4e7b30fd635412d4d71e144e0c572dba02bf865f05844179dc275357c05a3dd</picture>
+        <picture>https://files-p.topnlab.ru/76913ec660ec52de6837a4258222d9a17f48dcc08dff44a2a5372d559b0eb9b5</picture>
+        <picture>https://files-p.topnlab.ru/2278fcf011abd155a60fcb4301517e229d585927969b98dc818ff16b13c4d190</picture>
+        <picture>https://files-p.topnlab.ru/e5c917852628582a7139ff8117960d0e13811d5b4d6d203f1b2c2a070b3de9ac</picture>
+        <picture>https://files-p.topnlab.ru/207b6192510a2c0120ae5b7fc463c6b836585a7bdfddfbb2efaabda2f31cdd54</picture>
+        <picture>https://files-p.topnlab.ru/2af072721395903e9d167e86166f95cf34ce7a28a452132f28fdb6039f13343a</picture>
+        <description>. Продается уютный дом для летнего проживания, расположенный в живописной деревне Бабинки Шаховского района Московской области. Деревня обжитая, а некоторые соседи проживают здесь круглый год, что создает приятную и безопасную атмосферу.&lt;br /&gt;
+&lt;br /&gt;
+Фундамент дома выполнен из железобетонных блоков, а стены — из деревянного бруса 100х100. При желании, дом легко утеплить, превратив его в комфортное жилище для круглогодичного использования.&lt;br /&gt;
+&lt;br /&gt;
+Наслаждайтесь природой! Деревня Бабинки находится на левом берегу реки Лоби, впадающей в Шошу. Ниже деревни река перекрыта плотиной, образуя небольшое водохранилище, идеальное для рыбалки или летнего отдыха у воды. Ближайшие лесные массивы, богатые грибами и ягодами, находятся в непосредственной близости, предлагая прекрасные возможности для прогулок и активного отдыха.&lt;br /&gt;
+&lt;br /&gt;
+Удобная транспортная доступность: остановка общественного транспорта "Бабинки" находится в 1,3 км от дома (примерно 20 минут прогулочным шагом). Отсюда регулярно отправляются автобусы №33, №49 и №66, следующие до автостанции Шаховская и в направлении Раменья. &lt;br /&gt;
+&lt;br /&gt;
+В соседней деревне Елизарово расположена Экоферма с зоной отдыха и банным комплексом, посещение которой станет приятным дополнением к Вашей загородной жизни. Ближайшие сетевые магазины (продукты и хозтовары) расположены в ближайших более крупных населенных пунктах (от 6 до 10 км от дома).&lt;br /&gt;
+&lt;br /&gt;
+Данный дом с участком полностью подготовлена к продаже: зарегистрированных нет, один взрослый собственник, основание права собственности - свидетельство о праве на наследство по закону от 2021 года, свободная продажа.&lt;br /&gt;
+&lt;br /&gt;
+Гарантия юридической чистоты сделки от компании! &lt;br /&gt;
+Звоните! Записывайтесь на показ объекта прямо сейчас! &lt;br /&gt;
+Рады будем ответить на все ваши вопросы с 10:00 до 20:00.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Этот дом — идеальное место для тех, кто ищет спокойствия и близости к природе, не теряя при этом доступа к необходимой инфраструктуре.</description>
+        <param name="Общая площадь">47.1 м²</param>
+      </offer>
+      <offer id="132110113" available="true">
+        <name>Квартира, 21 м², Красногорск г.</name>
+        <price>6887219</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/a24887cb0ac257980b61f141458c9b5996ec4aaf7b0c9d3d87cb5d1187d03a8b</picture>
+        <description>. Представляем первый проект от федерального застройщика в Донецкой Народной Республике.&lt;br /&gt;
+&lt;br /&gt;
+Первая очередь сформирована тремя зданиями комфорт-класса, два корпуса возводятся вдоль улицы Артема, третий - более приватный и расположен в глубине от проезжей части.&lt;br /&gt;
+&lt;br /&gt;
+В продаже представлены три корпуса - дома в стиле современного минимализма, функциональные, идеально вписанные в исторический облик Мариуполя.&lt;br /&gt;
+&lt;br /&gt;
+Все квартиры передаются покупателям с отделкой «под ключ».&lt;br /&gt;
+&lt;br /&gt;
+Самое время вкладываться в новые территории!</description>
+        <param name="Общая площадь">21 м²</param>
+      </offer>
+      <offer id="132690930" available="true">
+        <name>6-к квартира, 150 м², Красногорск г.</name>
+        <price>14000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/78d3de7966f98b1bcb8a95be6ba48321951684bd74d5160059899afb5aa93c78</picture>
+        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
+Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
+Выезд и счет сметы для вас бесплатен!</description>
+        <param name="Общая площадь">150 м²</param>
+      </offer>
+      <offer id="132690959" available="true">
+        <name>4-к квартира, 90 м², Красногорск г.</name>
+        <price>8000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/d485318cfff9b5b6de5c28e7dacf01fa45041b4fe083300ac32ddbbab8b5ce37</picture>
+        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
+Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Брус&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
+Выезд и счет сметы для вас бесплатен!</description>
+        <param name="Общая площадь">90 м²</param>
+      </offer>
+      <offer id="132808461" available="true">
+        <name>Квартира,  м², ТСН Раздолье тер.</name>
+        <price>1200000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/8a37554a81888f8e9effb2f6c4eb61852a9c6d673a216cec6cdb67c26a253e8c</picture>
+        <picture>https://files-p.topnlab.ru/01d4bbd93abe6922b1ceef201c694c67b9e58fa02f213b061acb5e176cce9690</picture>
+        <picture>https://files-p.topnlab.ru/5bbb4b10afa0e582b0ec13c98d7e314c22e35fa06f0ffb78ab781b48a0995282</picture>
+        <picture>https://files-p.topnlab.ru/2a4d6ad8a6af938f8048ffd85d8795d58bf259ecf418dc6bccc572993f355570</picture>
+        <picture>https://files-p.topnlab.ru/6e529cf82703d8b620b46e96661aa024b02830930e47b9d08890653193a1f5fa</picture>
+        <picture>https://files-p.topnlab.ru/7161b4049b9bc415a09dac212cf9512872aaf57372317a008fb587f709e1adc3</picture>
+        <picture>https://files-p.topnlab.ru/f09f0aeb7b184a0ae74a16e6bb2f3f8464eea4a1341a169ea0a39a3b63a67f21</picture>
+        <picture>https://files-p.topnlab.ru/d0256cbd721fbf7387802c672562d7006a4a7432ad06aa0374f9f88121f8bfea</picture>
+        <picture>https://files-p.topnlab.ru/9b07ea951c944eb8a1946a7b902cddce967af617c407b062946df394c55adf4c</picture>
+        <picture>https://files-p.topnlab.ru/74cfc6306bb568780debfce7e611b1934d4bd0ebd42e09cfddd20917c3388a68</picture>
+        <picture>https://files-p.topnlab.ru/998d907e9c40056963146f1c26ac1f499be116b8aef06b2a4f999a2c82112de8</picture>
+        <picture>https://files-p.topnlab.ru/8578750a7178175172f76f4a98d2a7431bb31db828cd81c893cdb2e545d27329</picture>
+        <picture>https://files-p.topnlab.ru/043125027c84e409b9140a11618c099844306cb04012f201e587d47aec9dda3d</picture>
+        <picture>https://files-p.topnlab.ru/9457368e1da5aced9b709800aa5f6009622e26555db2be103cb72e586b4383a6</picture>
+        <picture>https://files-p.topnlab.ru/9ee863a779b8f872227f4d881261b151a0cfddce35ac75144984a449864dce93</picture>
+        <picture>https://files-p.topnlab.ru/f02b66469470c576b547ffe2b86d41eb216d16ed081ee163897576dd4ef6d29c</picture>
+        <picture>https://files-p.topnlab.ru/3ef173fc46fd799ef88dcb499a49fb42fade6db9a3f6f4a19cfc515f220f1345</picture>
+        <description>. Уникальный Участок Мечты в ТСН "Раздолье" – Ваш Оазис Природы и Комфорта!&lt;br /&gt;
+&lt;br /&gt;
+Продается просторный земельный участок площадью 17,89 соток (почти 18 соток) в живописном месте Клинского района Московской области, в обжитом товариществе собственников недвижимости "Раздолье", расположенном всего в 100 метрах к юго-западу от деревни Юрьевка.&lt;br /&gt;
+&lt;br /&gt;
+Забудьте о городской суете и погрузитесь в атмосферу спокойствия и гармонии с природой! Этот участок — идеальное место для строительства дома вашей мечты и создания семейного гнездышка.&lt;br /&gt;
+&lt;br /&gt;
+Что вас ждет:&lt;br /&gt;
+Идеальное расположение: ТСН "Раздолье" – это уже сформировавшийся поселок, где многие соседи проживают круглогодично. Подъездные пути до самого участка выполнены асфальтовой крошкой, обеспечивая комфортный доступ в любое время года.&lt;br /&gt;
+Собственный водоем: На территории поселка расположен ухоженный пруд с чистой водой, где водится рыба! Здесь оборудованы уютные зоны отдыха и пляжи со спусками в воду, включая мелководье для безопасного купания детей.&lt;br /&gt;
+Природное изобилие: Прямо за границей поселка начинается первозданный лес, богатый грибами и ягодами. Наслаждайтесь прогулками по лесным тропам и собирайте дары природы в шаговой доступности от вашего будущего дома.&lt;br /&gt;
+Коммуникации: электричество - по границе, водоснабжение - возможно устройство колодца или скважины, канализация - возможно устройство септика любой конструкции и объема под нужды будущего хозяина и его семьи, газификация поселка - в ближайшей перспективе, нынешние собственники оплачивали соответствующий взнос при приобретении участка у девелопера.&lt;br /&gt;
+Транспорт: Ближайшая автобусная остановка находится в деревне Юрьевка (ориентировочно 1,5-2 км), откуда регулярно ходят автобусы до города Клин (дорога занимает около 20-30 минут).&lt;br /&gt;
+Магазины: В деревне Юрьевка есть небольшой продуктовый магазин (примерно 1,5-2 км). Крупные сетевые супермаркеты («Пятёрочка», «Магнит») и хозяйственные магазины доступны в городе Клин (15-20 минут на автомобиле).&lt;br /&gt;
+&lt;br /&gt;
+Возможности для строительства и ипотеки:&lt;br /&gt;
+Категория земель – земли сельскохозяйственного назначения, вид разрешенного использования – под дачное строительство. Это позволяет официально построить индивидуальный жилой дом.&lt;br /&gt;
+Хорошие новости для семей с двумя и более несовершеннолетними детьми: данный земельный участок подходит для строительства жилого дома с использованием семейной ипотеки. Основные условия для оформления семейной ипотеки на строительство:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Участок должен быть в собственности заемщика или приобретаться одновременно с ипотекой.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Строительство дома должно осуществляться по договору подряда с юридическим лицом или индивидуальным предпринимателем, часто с использованием эскр</description>
+      </offer>
+      <offer id="133674286" available="true">
+        <name>Квартира,  м², садоводческого некоммерческого товарищества Ворсинка тер.</name>
+        <price>650000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/e0604acd97b208867c6fe00e50743d89b3dc938c308040a1523cd5b85c9588c3</picture>
+        <picture>https://files-p.topnlab.ru/232f6bd3686584038eb011c85b0837fd1337c4a3ebf4b4cfb0c0d948c7bca46d</picture>
+        <picture>https://files-p.topnlab.ru/482dad54d3c7cfc1699379f5de4943c028a9ae20b080206a5633b7a8cc742c81</picture>
+        <picture>https://files-p.topnlab.ru/70facb5e02a20f93ff14d5e07047de4f37f90d0d6f8bdd173580b732c3cefaa7</picture>
+        <picture>https://files-p.topnlab.ru/8075cb66dbec83160df5940af4ef61ff1060307946a6fd4ac02586d4271f2af7</picture>
+        <picture>https://files-p.topnlab.ru/f0cad95bf4f41e81df883b06b6a0cf17c547aa5e72853f9e8a3a3d8dd70b7e51</picture>
+        <picture>https://files-p.topnlab.ru/4ab9a60b799a5e121b7d6b54976c4cb79dd3c99ce3d5ad76e52035d576f8c348</picture>
+        <picture>https://files-p.topnlab.ru/1a15448f72e67b80ae1cf4169b59fba881041fa071f10fcea9de8721fcb8d619</picture>
+        <picture>https://files-p.topnlab.ru/68404cd2158273c981935129e2a6377a07445a8964d60da604467b92f041ef48</picture>
+        <picture>https://files-p.topnlab.ru/a87fe95def76ca0502028d21ca418956cbf017d8cda7d6c802903f7a4d38a4e0</picture>
+        <picture>https://files-p.topnlab.ru/7c58c5754a37a99e5383b428c28acb569effb69d582adfa8388d34ca47658e44</picture>
+        <picture>https://files-p.topnlab.ru/d2ca9c771d9a9330cbf366eac4cd92ee2e28503a403f10f400384ba73fd1ae2a</picture>
+        <picture>https://files-p.topnlab.ru/a666df7a4f20ea7034783605aa2159283ec7a90d577ff100c79a29728c486bbb</picture>
+        <picture>https://files-p.topnlab.ru/a6cd45167a7097789a47223f02dd73d16f6268823b95b2736f034f1485a6cfaf</picture>
+        <picture>https://files-p.topnlab.ru/8bb022b4e4692b9964ec24e0417d5e61f049d44b9ac896ebf21d05c681b401f8</picture>
+        <description>. Уникальный участок 8 соток в СНТ "Ворсинка" – ваш уголок природы рядом с цивилизацией!&lt;br /&gt;
+&lt;br /&gt;
+Мечтаете о собственном кусочке земли в живописном, экологически чистом районе, где можно отдохнуть от городской суеты? Представляем вашему вниманию неосвоенный земельный участок площадью 8 соток, расположенный в Волоколамском районе, Анинском сельском округе, в районе деревни Амельфино, СНТ "Ворсинка"! На участке произрастают дикие, преимущественно лиственные деревья, которые могут стать удачным дополнением ландшафта для любителей лесной романтики.&lt;br /&gt;
+&lt;br /&gt;
+Это идеальное место для строительства дачи или загородного дома. СНТ "Ворсинка" граничит с лесом с юга и запада, обеспечивая чистейший воздух и возможность наслаждаться пешими прогулками и сбором грибов и ягод прямо у вашего порога. &lt;br /&gt;
+Подъездные дороги к участку находятся в хорошем состоянии, что гарантирует удобный доступ в любое время года. &lt;br /&gt;
+Территория СНТ охраняется, установлен КПП, что обеспечивает вашу безопасность и спокойствие. Электричество подведено по границе участка, а плодородная лесная невозделываемая ранее почва станет отличной основой для вашего сада или огорода.&lt;br /&gt;
+&lt;br /&gt;
+Инфраструктура поблизости (в г. Волоколамск, около 11.5 км от СНТ "Ворсинка"):&lt;br /&gt;
+Вся необходимая городская инфраструктура находится в городе Волоколамске, до которого всего около 11.5 км:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Детские сады и школы;&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Продуктовые магазины: Супермаркеты "Чижик", "Перекрёсток" и множество других;&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Магазины хозтоваров и строительные магазины;&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Большое количество пунктов выдачи заказов Wildberries, Ozon, Яндекс Маркет.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Как добраться:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Из Москвы:&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;На автомобиле - около 105 км по Новорижскому шоссе, это около 1 часа 15 минут &lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Общественным транспортом: сначала электропоездом с Рижского вокзала до станции Волоколамск. Время в пути на электричке составляет от 2 часов 19 минут до 2 часов 44 минут. Далее &lt;u&gt;от станции Волоколамск&lt;/u&gt; до деревни Лысцево можно доехать на местном автобусе № 24. После этого от деревни Лысцево до СНТ "Ворсинка" пешком около 5,5 км.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Звоните! Ответим на все интересующие вопросы и согласуем удобное время просмотра! &lt;br /&gt;
+Не упустите возможность приобрести этот перспективный участок в тихом и уютном месте, сочетающем преимущества загородной жизни с доступностью городско</description>
+      </offer>
+      <offer id="135562295" available="true">
+        <name>Квартира,  м², ДНП УДачный тер.</name>
+        <price>4700000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/c774323918de558f815d3c1ef7daff37a50989ff3c0ee27215d2134e782edba6</picture>
+        <picture>https://files-p.topnlab.ru/f332ffeb8556c8396872706658dae372c3135fdd514cffc844182f38d172b0e8</picture>
+        <picture>https://files-p.topnlab.ru/e132b1b8f2d6185a2653063411075540350daa4fea8ba0bdb6c2674a3bc4db14</picture>
+        <picture>https://files-p.topnlab.ru/21c76d17ca834fca1fe49f620a416552a465e93c1873164f6ee8d4c97ae530da</picture>
+        <picture>https://files-p.topnlab.ru/3ab7255c896f963b8b4965a2f811e0cd161f8f965136832db2c79264efc5e80d</picture>
+        <picture>https://files-p.topnlab.ru/1dd292f2fbd3a9e2c5df439866786a3ce76ae06eee265eeee545ba2eb20206e8</picture>
+        <picture>https://files-p.topnlab.ru/1be7b3771b17415effef126f2ca1986573252b960bd46e58301b80bfc28452dd</picture>
+        <picture>https://files-p.topnlab.ru/183f08fef3d74a7f162f05cb777bd20b62bbf800d16a60358de82bf59c269d76</picture>
+        <picture>https://files-p.topnlab.ru/e3cf7a152fb5ee70fd76787cd04244288a4827ddd3a15a6781918f6e16e60a7a</picture>
+        <picture>https://files-p.topnlab.ru/f41dd55a0170f3ece0e5aecd64f177542cbb652528d4f14160df459318843dd8</picture>
+        <picture>https://files-p.topnlab.ru/435c75a814ae1a74f993e745f76a11074c997c949694506026bad7c89a1cf61e</picture>
+        <picture>https://files-p.topnlab.ru/176295cd02979a810ac44fdf8d9ca8c88d9689fd1c4b042c817714c48f0328ed</picture>
+        <picture>https://files-p.topnlab.ru/d64da2fe0336b3bb5c5a419aa9c78e22bf33091044f04676ac3bf386e66391c4</picture>
+        <picture>https://files-p.topnlab.ru/b98313293aa9632f171819daccdf9c7715df199cb17e5070cdd0149e84b2ada8</picture>
+        <picture>https://files-p.topnlab.ru/dcd5ea4df97bd2abd62f73d6c82aaadb2d172537c3d94db4996022c0c32d58b5</picture>
+        <picture>https://files-p.topnlab.ru/93848c5e8f419bdea5561e92f49b1f2a6b32c540446fca7dc7ad7b59a9fab815</picture>
+        <description>. Мечтаете о собственном уголке природы, где можно отдохнуть от городской суеты? Представляем вашему вниманию уникальный земельный участок, расположенный в живописном месте Московской области, Наро-Фоминский район, возле деревни Таширово, в ДНП "УДачный".&lt;br /&gt;
+&lt;br /&gt;
+Этот участок правильной прямоугольной формы, ровный и ухоженный, уже готов к вашим смелым проектам. С трех сторон он огорожен современным забором из евроштакетника с удобной калиткой и откатными воротами. Но самое главное — четвертая сторона участка примыкает к небольшому пруду, где водится рыба, а сразу за ним начинается густой лес, богатый грибами и ягодами!&lt;br /&gt;
+&lt;br /&gt;
+На участке уже есть всё для комфортного начала дачной жизни:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Современная бытовка длиной 8 метров с уютной комнатой отдыха и санузлом.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Выкопан колодец глубиной 8 колец для бесперебойного водоснабжения.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Оборудованный септик, рассчитанный на семью из 3 человек.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Подведено электричество с выделенной мощностью 15 кВт.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Добраться до этого райского уголка легко! На автомобиле — всего около 65 км от МКАД по скоростному Киевскому шоссе. Для тех, кто предпочитает общественный транспорт, путь тоже не составит труда: до станции Нара Киевского направления, а затем на автобусе или маршрутном такси до остановки "Таширово" (пешком около 30 минут).&lt;br /&gt;
+&lt;br /&gt;
+Документы полностью готовы к сделке: свободная продажа, один взрослый собственник, основание права собственности - ДКП от 2020 года, полная цена в договоре купли-продажи. &lt;br /&gt;
+Не упустите свой шанс создать идеальное место для жизни и отдыха в окружении нетронутой природы! Звоните, чтобы задать уточняющие вопросы и записаться на показ!</description>
+      </offer>
+      <offer id="137738533" available="true">
+        <name>3-к квартира, 40.5 м², Клишино д.</name>
+        <price>4500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/c47ba1b8e0acbeea424eb46ffbb04c64e9e2f939171c382ef63b6b7720f1a9f8</picture>
+        <picture>https://files-p.topnlab.ru/6f91e1b431f076053e5175c0133b385cac8b4a818249107a8711087914ae9166</picture>
+        <picture>https://files-p.topnlab.ru/b96e68c8717653fc9067622f53a42c349dd593ade65dc2084faf67e29058023e</picture>
+        <picture>https://files-p.topnlab.ru/ab46f0bfa2ef2d0926d26d112214f5f8e060930485641b67aa01daa5073f678b</picture>
+        <picture>https://files-p.topnlab.ru/7a8ee8d7e8cdd40e88521476f4900dc2c1efd77b95714803df208339b1142e16</picture>
+        <picture>https://files-p.topnlab.ru/add7dfdd6533b53851018bfeb612b3fbe09628233ac5a53bbb19fab2a3e2d90b</picture>
+        <picture>https://files-p.topnlab.ru/b4b3cc793c47c8a0e5fcf8f5318b8b26e2d2f36a426b2615f1df55293411d374</picture>
+        <picture>https://files-p.topnlab.ru/7573ad7c8eda8555007c04a8ae7b300deda3e740ae7016a58ad5bf1c8ac95ceb</picture>
+        <picture>https://files-p.topnlab.ru/08af8a3f2dcb8fbde496b69efd6d574d0563c3d331def5e2bf4bc1a46d7b12b6</picture>
+        <picture>https://files-p.topnlab.ru/9fa7eda501566f9409f838cfd46422b99d988ea5259ec091c15b14fe346ef47d</picture>
+        <picture>https://files-p.topnlab.ru/7be768d6556ae3b665b09fc80169a6a183eacfbea813dbf4f24419e869e0dfba</picture>
+        <picture>https://files-p.topnlab.ru/ed6a23ec5c025adbf440d93e8b59668e03ef21d7dcd9d45f4a6321ff047638ab</picture>
+        <picture>https://files-p.topnlab.ru/866d861e7122a14361de780d57529367fc6f1c55ba42e4fe4f10deea3c483f1b</picture>
+        <picture>https://files-p.topnlab.ru/0137a1a5b2c643b109b408810f87d7e1c5720ed596f0adbc9c1771c7ea5d81b9</picture>
+        <picture>https://files-p.topnlab.ru/2e32083fb81228ce121831c70a33efb8a0785a5f49ae2fac6b02befee9f7dfff</picture>
+        <picture>https://files-p.topnlab.ru/b1ebf273cd7cfe273303044b3343c17e65d6a859c275aef248f8d6188d06b2ba</picture>
+        <picture>https://files-p.topnlab.ru/50d4d1af539b5743d08c4d073c61a0d2f09f14f50667201a80f8f68b94a52b22</picture>
+        <picture>https://files-p.topnlab.ru/215dc63490bda0f10d0411fa22c92b0ea88fe1904ec96fb232df48dca0769119</picture>
+        <picture>https://files-p.topnlab.ru/bed880da0525b0144ce2d6bdad268fb4a98c90c1ac1103c038718956e8a9d4c1</picture>
+        <picture>https://files-p.topnlab.ru/b2f03f80b362013b9c892cf416ab804ce030f5265de241f543f3b313757c7a7e</picture>
+        <picture>https://files-p.topnlab.ru/ae7b7ca848399605299db62366a88d77e82494fd02826782caf188dccf57b1b4</picture>
+        <picture>https://files-p.topnlab.ru/15dbcd84a6bad911191fd29bddb726c1342df9e6dd7312ea3a81578c0f193b6f</picture>
+        <picture>https://files-p.topnlab.ru/a3da2b1374512391fd3be39e318c16f3eb63d5477dd71fa0dac507eb42fd92bd</picture>
+        <picture>https://files-p.topnlab.ru/e8f161f3edbab1c91d05a1e89cfe9d2ce416f95d42f7bf0da57e829f666dc75f</picture>
+        <picture>https://files-p.topnlab.ru/28ca665b0853b92965f83e46b6d836b816b9f3b1a467e24fbafd2b05729ac761</picture>
+        <picture>https://files-p.topnlab.ru/e692dfea41063d3ffd52836c26d0ca71e0242a87e7a50efc747256a13a1782d0</picture>
+        <picture>https://files-p.topnlab.ru/c66009709d6de1775af8be7e280440fbce6b10b832082cef36da50528937eb8e</picture>
+        <picture>https://files-p.topnlab.ru/201ab6070e42dcf4068678e534aec55a8ffbeab582d9a716fa6aefdda11bb8f4</picture>
+        <picture>https://files-p.topnlab.ru/b3b7798e25e3998d5ab1a6db44e7cfd494fe2fd46b2d8271c6a773e87735c2c9</picture>
+        <picture>https://files-p.topnlab.ru/08c981fcf19638ce4ba340bb51db1188089b761416e9d2f8acb88ff38dd21545</picture>
+        <description>Садовая ул., 7А. Продаётся дачный дом на ухоженном участке 8,34 сотки в д. Клишино Волоколамского района. Категория земли — земли населённых пунктов, ВРИ — ЛПХ.&lt;br /&gt;
+&lt;br /&gt;
+Дом из бруса, утеплён, на ленточном фундаменте, отделан сайдингом. По ЕГРН площадь дома 40,5 м², фактически используется дополнительное мансардное пространство. В доме 4 комнаты, помещения меблированы, есть всё необходимое для проживания. Отопление электрическое. &lt;br /&gt;
+Примыкающих соседских участков нет, есть вероятность увеличить площадь участка.  Возможность и условия определяются администрацией.&lt;br /&gt;
+&lt;br /&gt;
+Участок ровный, сухой, правильной формы, полностью разработан и ухожен. Территория огорожена профлистом. Много зелени: плодовые деревья, цветники, хвойные деревья и кустарники.&lt;br /&gt;
+На участке есть баня с душевой, раковиной и бойлером 100 л, просторная летняя кухня, теплица 6×3 м, хозблок, беседка, мини-пруд, оцинкованные грядки, ворота и стоянка для автомобиля, курятник.&lt;br /&gt;
+&lt;br /&gt;
+Коммуникации: центральный поселковый водопровод, артезианская скважина 51 м, электричество 8 кВт, газ по границе участка. Вода разведена по участку, заведена на кухню, в душевую и к уличной раковине.&lt;br /&gt;
+&lt;br /&gt;
+Тихое экологичное место. В пешей доступности река, пляж, рыбалка, лес. До автобусной остановки 5 минут пешком. Рядом школа, детский сад, почта, медпункт, магазины, Ozon и Wildberries.&lt;br /&gt;
+&lt;br /&gt;
+Дом зарегистрирован как жилой, возможна прописка. Один взрослый собственник. Обременений нет.</description>
+        <param name="Общая площадь">40.5 м²</param>
+        <param name="Адрес">Садовая ул., 7А</param>
+      </offer>
+      <offer id="138606754" available="true">
+        <name>Квартира, 13.5 м², Красногорск г.</name>
+        <price>9000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/f3946ff2fb173b002397e6716c9029de680ab2f63ef59c7fa3d85cd8e0dc9e1a</picture>
+        <picture>https://files-p.topnlab.ru/2c8614bbe05437926c035aec9dafda986e8d15b8e8679ac7e89c61e25536cc32</picture>
+        <picture>https://files-p.topnlab.ru/950405cff9f2a8b77c56d5a1a5519c5550eaf29a50a4b7f7f51aa5f08cb1323f</picture>
+        <picture>https://files-p.topnlab.ru/b937d9b304b81579bab61c325bcc3b21c793a09a99bb84f5c568b53d1c74f098</picture>
+        <description>Большая Воскресенская ул., 5. Сдается машиноместо 13.5 м² в ЖК Тетрис — ваш автомобиль в безопасности! Расположение: вторая очередь, башня - крайняя справа, если смотреть от станции в сторону Волоколамского шоссе.&lt;br /&gt;
+&lt;br /&gt;
+Почему выгодно выбрать именно это машиноместо?&lt;br /&gt;
+&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Идеальное расположение — 3 минуты пешком до станции МЦД Павшино, удобный выезд на МКАД (всего 3 км)!&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сухой и теплый подземный паркинг — защита от осадков и перепадов температур круглый год.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Безопасность и спокойствие — закрытая территория, видеонаблюдение, доступ только для владельцев.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Комфортный заезд и выезд — никакой суеты и пробок!&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Размер идеально подойдет для легкового автомобиля.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Выгодная цена: аренда всего 9 000 руб./мес.&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
+&lt;br /&gt;
+Звоните прямо сейчас и запишитесь на просмотр! Агентство "Самолет Плюс" — надежные сделки с проверенными объектами.</description>
+        <param name="Общая площадь">13.5 м²</param>
+        <param name="Адрес">Большая Воскресенская ул., 5</param>
+      </offer>
+      <offer id="139894533" available="true">
+        <name>Квартира, 24.88 м², Раздоры д.</name>
+        <price>9600000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/a0c2d7cae8c35795136e33abd42f36c992dc6261a6325e84ed4598b9d3aea800</picture>
+        <picture>https://files-p.topnlab.ru/3df9bb538ce4f66b55f325959172a2952f59f2324b1ee9b27edcf6d6aa6c1dcd</picture>
+        <picture>https://files-p.topnlab.ru/032e2d45dfbd5b2ed08e65a82593221cbc5030d5a80ea70fb29915e569300ce2</picture>
+        <picture>https://files-p.topnlab.ru/ed841576cb2ec99b807c208de52aff704103d23cb8f836d60558e8469b6d305b</picture>
+        <picture>https://files-p.topnlab.ru/9f510f0469f52f33281c31832b0f915b614ec5abbdbc63f2765c1dc28ab49564</picture>
+        <picture>https://files-p.topnlab.ru/469ac61b7d5d5d292e0243f34292ec6b30b23da12cada6652ab02353cf833f9a</picture>
+        <picture>https://files-p.topnlab.ru/ef4a918b1883ee7f4358d705eba68390e83b9384ccde7aa7608d4342a5f112f9</picture>
+        <picture>https://files-p.topnlab.ru/8dca44e7bd66bd8e549e8c134c74ae406bf8ac3c2e33b8eed28b9f284f484bc8</picture>
+        <picture>https://files-p.topnlab.ru/4ab77842f4672fe911f8cc466112048d2d8d10f9d1a8d03a2d6ee0bf04f13d2f</picture>
+        <picture>https://files-p.topnlab.ru/5a3d40559ed1db58d407071aa47ae8e37d68f4e31496f45765297f2469ea31bf</picture>
+        <picture>https://files-p.topnlab.ru/df7d643cbb4aa378e4b48b46a1f1e2195937f4a1dc36fa736a1576a7944c8b03</picture>
+        <picture>https://files-p.topnlab.ru/a3aa16eb8d8814a536ce47877a3a8c7f53178b2e2468cbc215ad104f229fc861</picture>
+        <picture>https://files-p.topnlab.ru/2c48b7c8d36c885829a65b02e9c0d245fdb02a7205e13dee5552c64ed994deee</picture>
+        <description>Тенистых Аллей ул., 20. Продаются по переуступке студия-апартаменты 24,88 м² в корпусе 20 квартала Sky Sputnik.&lt;br /&gt;
+9 этаж, помещение № 20.119. &lt;br /&gt;
+Удобная планировка: &lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;кухня-ниша 10,39 м²; &lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;жилая зона 6,68 м²; &lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;коридор 4,92 м²;&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;санузел 2,89 м².&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Помещение передаётся без отделки — можно выполнить ремонт и зонирование под собственный проект.&lt;br /&gt;
+&lt;br /&gt;
+Sky Sputnik расположен рядом с Живописной бухтой и Липовой рощей. Современная архитектура, стильные входные группы, прогулочные зоны и сформированная инфраструктура квартала.&lt;br /&gt;
+&lt;br /&gt;
+Плановый ввод корпуса — IV квартал 2026 года. Передача помещения по ДДУ — не позднее 30 сентября 2027 года, возможна досрочно.&lt;br /&gt;
+&lt;br /&gt;
+Юридический статус — нежилое помещение, апартаменты. Продажа оформляется договором уступки права требования.&lt;br /&gt;
+&lt;br /&gt;
+ДДУ, график платежей, планировку и схему расположения на 9-м этаже предоставлю для проверки. Звоните или пишите.</description>
+        <param name="Общая площадь">24.88 м²</param>
+        <param name="Адрес">Тенистых Аллей ул., 20</param>
+      </offer>
+      <offer id="143375004" available="true">
+        <name>2-к квартира, 55.9 м², Чащь д.</name>
+        <price>4500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/43837d969a2c5af9ec208f3c5fa3c9a75a0a2d64ec8ee9275e7b9fae01001b65</picture>
+        <picture>https://files-p.topnlab.ru/5e342400832265d71a17b1d21d6c73811870ef2951c57cfa6f84a745c4b2bc8a</picture>
+        <picture>https://files-p.topnlab.ru/a7b4ef3395eba59c4f871ed79570aff4eef5e67c87305c8438fc8890b07e03b5</picture>
+        <picture>https://files-p.topnlab.ru/83a454cda9eade5c439607e6541ef5a046c903aa1d70050eef3793aeb1b69aa1</picture>
+        <picture>https://files-p.topnlab.ru/82308374973d617ba801e8d224d3618cae5965acab97cb3c52eb0c696ea99ef9</picture>
+        <picture>https://files-p.topnlab.ru/3c42d9abe97529c96a271f958343be6036e71f673c166d90bb503cfb666a6570</picture>
+        <picture>https://files-p.topnlab.ru/6359e49eb81db3c34042e381dec7214d86f26c7bc4fb9894deea442027acfc5d</picture>
+        <picture>https://files-p.topnlab.ru/703a703427124a8c19aaa87b877aa5eba2949c071769f81a376b2fffcad1c458</picture>
+        <picture>https://files-p.topnlab.ru/33abaa83c3404b489c190038089cde0bde243ce96890a85c64c38632095e5791</picture>
+        <picture>https://files-p.topnlab.ru/a7f7216ab59b49d2ae68d322215fd53ce00f5fc1bccbcb5b8a5c373a699464d5</picture>
+        <picture>https://files-p.topnlab.ru/14b58029da2dc8aa53b0043284ea6d7ef81554c7d5ddf0d833f5a5ed7329b8ba</picture>
+        <picture>https://files-p.topnlab.ru/0b5f3b9e21e316e7273b9732b573909a61dd57a47c6cc772f10ee5b71fb27eb6</picture>
+        <picture>https://files-p.topnlab.ru/e660772d5d57b17c423b5c943ef240c9206514b6807f710d35893237142c2325</picture>
+        <picture>https://files-p.topnlab.ru/23daeadeee59d57c908cb675fc546e26d1f239f5d8c30947c7ce950827406437</picture>
+        <picture>https://files-p.topnlab.ru/12370b51c1648999a7c9f648d271adf83a759d47783e14d9e292f21d3e8e19cc</picture>
+        <picture>https://files-p.topnlab.ru/f3182fbb7e0ef58b28ff8a5563f95bb26961828b5ed4ccdbf77645cde2b08f43</picture>
+        <picture>https://files-p.topnlab.ru/bc6454340f30ed750483f68c78c7dd72c3f9f053c259d4aeceafaa3bf3627339</picture>
+        <picture>https://files-p.topnlab.ru/63f1d073acf6c394348c8431e051b5c3df6deeb632e10731d2b41ae6635ca2e9</picture>
+        <picture>https://files-p.topnlab.ru/365a9cf386d8dcdc9fc5195930a00240993f624c576075f037136813864d3675</picture>
+        <picture>https://files-p.topnlab.ru/317dd9bb383771d5caafbe094c04cbc5f954283360bd6606a17fbfdc48d33bc9</picture>
+        <picture>https://files-p.topnlab.ru/9c9cb80af2e55c9316a98a25346508cbaf720f24b90bbdcf5444e81a363fc21c</picture>
+        <picture>https://files-p.topnlab.ru/d3733564e9bcf6dba8bfbe91e6502abeee5c589962dd29ba29e7fb364987c4f7</picture>
+        <picture>https://files-p.topnlab.ru/ea5fc80a91b81c9b4295a01bdf09315dd8cd2eebf1b78a60145d8435d08ce72a</picture>
+        <picture>https://files-p.topnlab.ru/bc102730c369abb8e0cda98a7e264adfe08902a30e59217fdb4479f873647015</picture>
+        <picture>https://files-p.topnlab.ru/bfc3e8d1da723d008477f77ddca0d59638a38c7ab1940ae83cdf44649b2474d6</picture>
+        <picture>https://files-p.topnlab.ru/4eb7e1eb7f751631db36b41b5e2b5b43284bc304fc25cad9e42905ea17147227</picture>
+        <picture>https://files-p.topnlab.ru/f3e1d20382086efa74cdb9f75c82a1ad4a6df16c37a118fb0c6ac86aceb2f314</picture>
+        <description>Центральная ул., 114. Уютный каркасный дом для круглогодичного проживания в КП "Рижские дворики 2"!&lt;br /&gt;
+&lt;br /&gt;
+Представляем вашему вниманию прекрасный одноэтажный каркасный дом, идеально подходящий для круглогодичного проживания или комфортного дачного отдыха. Расположенный в живописном месте Московской области, этот дом станет вашим уютным семейным гнездышком. Дом зарегистрирован как "жилой" - возможна регистрация по месту жительства.&lt;br /&gt;
+&lt;br /&gt;
+Особенности дома:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Готов к заселению: утеплен, толщина стен 150 мм, высота потолков в жилых помещениях 2,5 м, что обеспечивает комфорт в любое время года.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Возможна прописка: дом имеет статус "Жилой дом"&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Все коммуникации: электричество 15 кВт, чистейшая вода из собственного колодца (9 колец на участке) и современный септик слив-перелив (по 3 кольца).&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Полностью оборудован: новым хозяевам остается вся мебель, бытовая и садовая техника. Наслаждайтесь отдыхом у мангальной зоны с первого дня!&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Преимущества расположения: Коттеджный поселок "Рижские дворики 2" — это обжитое место, где многие соседи проживают круглогодично. Отличное расположение в 111 км по Новорижскому шоссе гарантирует идеальные условия для тихой загородной жизни.&lt;br /&gt;
+Инфраструктура и дополнительные возможности для комфортной жизни:&lt;br /&gt;
+&lt;br /&gt;
+Магазины:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ближайшие продуктовые и хозяйственные магазины, а также аптеки расположены в селе Теряево, примерно в 1500 метрах от поселка.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Образовательные учреждения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Детский сад и общеобразовательная школа находятся в селе Теряево, на расстоянии около 1500 метров.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Общественный транспорт:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Остановка общественного транспорта "Чащь" находится в деревне Чащь. От КП "Рижские дворики 2" до остановки примерно 1,2 км пешком. Через остановку проходит автобус №31. Он следует до села Теряево и до города Волоколамска.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Иная значимая информация:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Природа и экология: Поселок расположен в живописном месте, в окружении хвойного леса заповедника "Завидово", который является природной территорией федерального значения со статусом национального парка. Также неподалеку протекает река Локнаш и находятся Теряевские пруды, являющиеся природным заказником.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui</description>
+        <param name="Общая площадь">55.9 м²</param>
+        <param name="Адрес">Центральная ул., 114</param>
+      </offer>
+      <offer id="143427335" available="true">
+        <name>1-к квартира, 39.1 м², Красногорск г.</name>
+        <price>15300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/face5c5ce52014df306b7fa70b0e619717195b37eccb789ddbfeb458ee62d0e8</picture>
+        <picture>https://files-p.topnlab.ru/425fe32c612e88c2174844d436b647f35775e3f28c56f43eb25d86d7971fb010</picture>
+        <picture>https://files-p.topnlab.ru/293c0a36824e6cdca5e4c3bb105b8331d4e4ea25edb567240d0104c57dd59968</picture>
+        <picture>https://files-p.topnlab.ru/32082765be9368e1dda80ffef284d89f58942ddb5c1033683fc47cb42d378599</picture>
+        <picture>https://files-p.topnlab.ru/542746a1eb8d25c626161772bbb059d988f0f3c37f6bc3feb1d27d33f96646d3</picture>
+        <picture>https://files-p.topnlab.ru/edf2064b13232bfe05e480c2982e27d2b0c8ec78bea2a251f020a4de9bfdb0d8</picture>
+        <picture>https://files-p.topnlab.ru/16b5710f8c1e3e599bcb7666e84b28be9e1b758204f05c89fa2e96f30a44202b</picture>
+        <picture>https://files-p.topnlab.ru/56d1244da347b12be5a1aeb42caf249bdae1596be9000e6145ed5e711e8feae0</picture>
+        <picture>https://files-p.topnlab.ru/ed7aae7def0adde70619910273779cc061375fda39c93d031e6bd505de85731a</picture>
+        <picture>https://files-p.topnlab.ru/0ea0b6ad09d362937cef6d969120195fd6938e8b85bf7c679872b29820065111</picture>
+        <picture>https://files-p.topnlab.ru/20fc0799a11c4ca4b16e3ce07904633a77dcfcce46db1901223ef9d197bae907</picture>
+        <picture>https://files-p.topnlab.ru/db83d89e95e276cb95b4919d05d73997ace7bf88e3f2b6de621e0b9c529db58a</picture>
+        <picture>https://files-p.topnlab.ru/8137c66bd7e01f977c6bf7f23b8dfca30e3220c729855c11f8063603ddae3b49</picture>
+        <picture>https://files-p.topnlab.ru/79d0a6c205d4ab8f4f2626d061f082897f9eec404653efe1f9c4ccdf47919f6d</picture>
+        <picture>https://files-p.topnlab.ru/ac7dc12c9fa57796a7c962c1d725b69036aaef139f355aa5d5b2c67c32575a31</picture>
+        <picture>https://files-p.topnlab.ru/0b0db33edda856f3a571d550832c2865fcba2a0bfe8840b1ab2037af7710bb7a</picture>
+        <picture>https://files-p.topnlab.ru/2922f5e865338bb233e2cd6f647a1e667bb3ba94881da46042fd441aec501829</picture>
+        <picture>https://files-p.topnlab.ru/eef84c02ccc1fe4c3e4081fcde1b387807bf5027f41fc973281938b805d60ed2</picture>
+        <picture>https://files-p.topnlab.ru/f760c2cc37d3361a323363aaffb4230e51c1420fd897da4786a7885331316169</picture>
+        <picture>https://files-p.topnlab.ru/26a765277161bea335ac6c7a6fc2dca4a506a60763c023c35d31d9256e9f77eb</picture>
+        <picture>https://files-p.topnlab.ru/bd09425a280d7e6309b6560cf23e17dabc562bd0ef133d5a4fe4cbe814c03282</picture>
+        <picture>https://files-p.topnlab.ru/90ee4f23636b0c5e068550c903c5e325c397b219f85ef9993dc5b761752cc9b8</picture>
+        <picture>https://files-p.topnlab.ru/49c3bc35960782f62450cac5b595940a0fb226f2634e6e598c43295f3a044ddf</picture>
+        <picture>https://files-p.topnlab.ru/bae8f37f9e3627cd746a98ead587b9d40aa19ab8d54c72b53fa59cd698a6fd6d</picture>
+        <picture>https://files-p.topnlab.ru/7cf0cdb5714a46c4ad912e8894e95ec604591b603e0d6e84903720c623766aca</picture>
+        <picture>https://files-p.topnlab.ru/da53be25b3bc153806a9d32aa004fe3b284b4258cd5d1b472ae6e62d4263baf8</picture>
+        <picture>https://files-p.topnlab.ru/32ffd441c98c604b733c78dc48d15d23ba0e2ed759f68db63d5b0b8502d66254</picture>
+        <picture>https://files-p.topnlab.ru/5299d7752f13ecff5523d738807357843e276c437ce0c6eeb91afe523331426c</picture>
+        <picture>https://files-p.topnlab.ru/91f5b6c016f8d142ec77c14fbdd72b007af4f9a8d6f0522ecfca706b305fe2a2</picture>
+        <picture>https://files-p.topnlab.ru/c4e3c0b56db9a7b6d2b21b0c01cf517e246941cf47d71e7f8fda5c8b495056f3</picture>
+        <picture>https://files-p.topnlab.ru/3119aa678d5ef26b332eb6147141c55ac644ba27a8b6a71575ad96064349a804</picture>
+        <picture>https://files-p.topnlab.ru/6c6e71b372001b61a674abb1fb9ce42c263f78b5a549fa7afcc6909766d9e4b3</picture>
+        <picture>https://files-p.topnlab.ru/bb0b15cd0cadfc5c7bcbd792de795bdef2b8c0a016e2993e7dcbc5f023de222d</picture>
+        <picture>https://files-p.topnlab.ru/147dd9827f74ee89b2af74c1b0c78b27930af3973da7b835c52b2c2ba5d93296</picture>
+        <picture>https://files-p.topnlab.ru/a8ea1acc3eee862963098f3f1df6694eb95b8b3785c3909c7180b74dab2b05db</picture>
+        <picture>https://files-p.topnlab.ru/d93c1ceaac2e35c6942aa09095ded3861f40597b00a2da316a40258445878c5f</picture>
+        <picture>https://files-p.topnlab.ru/ccee4a3aeb67b98c469273fc2297e0f903873f212599a7f3b0c92ba75d76d095</picture>
+        <picture>https://files-p.topnlab.ru/fb7521a984ea76f47be2f699b9753b37199ef210e18220c6e974232ca43b2be9</picture>
+        <picture>https://files-p.topnlab.ru/e1f9e58d2ec3011476e67861b46b090fdd77055d70c7440c27b1c4b47077cfec</picture>
+        <description>Липовой Рощи ул., 4, к 1. Добро пожаловать в мир комфорта и стиля! Представляем вашему вниманию уникальные однокомнатные апартаменты в современном ЖК "Спутник".&lt;br /&gt;
+&lt;br /&gt;
+Это идеальное предложение для тех, кто ценит время, качество и продуманный дизайн. &lt;br /&gt;
+Апартаменты с оптимальной планировкой: просторная жилая комната площадью 19 кв.м и уютная кухня 12.3 кв.м. &lt;br /&gt;
+Особое внимание уделено лоджии площадью 2.8 кв.м, которая утеплена и оборудована теплыми полами, что позволяет использовать ее круглый год как полноценную зону отдыха. &lt;br /&gt;
+Здесь выполнен эксклюзивный дизайнерский ремонт с использованием дорогих и качественных итальянских отделочных материалов, создающих атмосферу роскоши и уюта. &lt;br /&gt;
+Вам не придется беспокоиться о переезде – новым хозяевам остаются вся мебель и высококачественная встроенная бытовая техника. &lt;br /&gt;
+Прямо под окнами расположены зоны с детскими игровыми комплексами и уличными тренажерами для занятий спортом, обеспечивая удобство и безопасность для всей семьи.&lt;br /&gt;
+&lt;br /&gt;
+Развитая инфраструктура:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Транспортная доступность: К концу 2027 года всего в 400 метрах от подъезда запланировано открытие новой станции метро "Липовая Роща", что значительно улучшит транспортное сообщение. Уже сейчас в 290 метрах от дома находится ближайшая остановка общественного транспорта «По требованию». От остановок "ЖК Спутник" или "Липовая роща" курсируют автобусы и маршрутки до таких конечных точек, как Рублёво, ТЦ Европарк, Мякинино парк, Крылатское, Строгино и Щукинская. Автобус № 640 довезет до станций Трикотажная и Тушинская (остановка "Трамвайное депо").&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Магазины: Вам всегда будет доступно все необходимое в шаговой доступности. Прямо в здании по адресу ул. Липовой Рощи, 4, корп. 1 находится пункт выдачи "Яндекс Маркет", а буквально в 50-100 метрах расположены пекарня "Буханка" и супермаркеты "Мираторг" (ул. Липовой Рощи, 2, корп. 1, около 108 м) и "ВкусВилл" (ул. Липовой Рощи, 5, корп. 6). Также поблизости есть супермаркет "Дикси" (ул. Липовой Рощи, 6 к2). Хозяйственный магазин "МногоВсего" находится на ул. Липовой Рощи, 1 к1, примерно в 200 метрах.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Образование и развитие: В центре ЖК расположена частная школа "Самолетум" (ул. Тенистых Аллей, 2). Расстояние до нее составляет около 400 метров). Школа имеет высокий рейтинг 5.0/5. Отзывы родителей смешанные: отмечают высокое качество обучения, обширный выбор секций (бадминтон, баскетбол, джиу-джитсу, спортивно-бальные танцы, футбол, художественная гимнастика, шахматы, робототехника, курсы творчества) и хорошую атмосферу, а также профессионализм некоторых педагогов. Рядом расположены многочисленные детские сады: "Детский сад Полет" (ул. </description>
+        <param name="Общая площадь">39.1 м²</param>
+        <param name="Адрес">Липовой Рощи ул., 4, к 1</param>
+      </offer>
+      <offer id="143511227" available="true">
+        <name>2-к квартира, 43.1 м², Красногорск г.</name>
+        <price>50000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/84e0bc1754c2c2b972a034f3ab689ab95e9dfeea35c3611d5b13d2f9b075c25c</picture>
+        <picture>https://files-p.topnlab.ru/f8feb5a09541c8037401315871be0259d77ea67c8ead7fbacff41831b2e25244</picture>
+        <picture>https://files-p.topnlab.ru/415f13d1618b3bddf436cf1429e6d45b06b76dfbb5d06976da53b9a259d3d10f</picture>
+        <picture>https://files-p.topnlab.ru/16fb0870ddb4a5c037111f232769e273ab626d6f1b3ca185096120f33297a5c1</picture>
+        <picture>https://files-p.topnlab.ru/36790595472eabdbcdf66f6d57df4eeb367f2d15ff3d24de145375400acec762</picture>
+        <picture>https://files-p.topnlab.ru/26b247bab3dd4c747cc74a3435b046d11616ed19c686a0fc8c209acb1ecf3a91</picture>
+        <picture>https://files-p.topnlab.ru/a49e0d3bb06a514ad4368caeb9f0fd88508f5f460eeba623f7e6f0e3b3fe2a5f</picture>
+        <picture>https://files-p.topnlab.ru/957067b57678e201b436e9bf16b67c686eb4a4b2a1b24ffdd1cf6ab372172cf1</picture>
+        <picture>https://files-p.topnlab.ru/535ddea9b6cc371278410dfdd676d791ee978a2a04f7fd365d5e17eb501fb4dc</picture>
+        <picture>https://files-p.topnlab.ru/1b1944827ff7cc353f0e44caef5ea22e3085f3c2bf6fac7a8dc7da37fcc5c59f</picture>
+        <picture>https://files-p.topnlab.ru/58ceea981198d3d6f9452bec15ae747affdfc389d43936ed668bceec53dff819</picture>
+        <picture>https://files-p.topnlab.ru/d3437352c327517eab5c826bd7f93fd894a63fc464a3264ab2c6832cfa3dad8f</picture>
+        <picture>https://files-p.topnlab.ru/ea16ed76783c26433aaedcec796dc8283a1305a214276be33ea28005d5a418b1</picture>
+        <picture>https://files-p.topnlab.ru/e4325e0888b829ad89ca25b8d3c64952675d0eff633752b8a1be904739dcc167</picture>
+        <picture>https://files-p.topnlab.ru/cb2c2aeff861a9e300d97608031297c5a31e7123b26ae5c5000597acea1427c7</picture>
+        <picture>https://files-p.topnlab.ru/8a50253dc0b42d278adb72c60a22251e603e1774106c72a8b14e62613f9a3995</picture>
+        <picture>https://files-p.topnlab.ru/422efde4fecc60a6a83cdc0cce354bb2f14b28e52f590d913fbf0a4ac0eb0648</picture>
+        <picture>https://files-p.topnlab.ru/f733b7f78c88dd3cf734ec5a932785ee77754054ef0fa4826a79ea184b60b5d8</picture>
+        <picture>https://files-p.topnlab.ru/8090428353568c05622653077f345afb3adda6c82895ab7c923cd7159c8cf3e8</picture>
+        <picture>https://files-p.topnlab.ru/49dd0d2156cfc95b28253c456b7122085b447bb47c9b0980a14986cddd5b71a6</picture>
+        <picture>https://files-p.topnlab.ru/cb09235e70aeace43055b5955f0d5254cfbc6995ae8ff48df7a98bbb9477f9d2</picture>
+        <picture>https://files-p.topnlab.ru/1f778c579971be44b3a1002cadd72b46a0e91123705faef1a7500f166bbeaedb</picture>
+        <picture>https://files-p.topnlab.ru/97be4a78dc7d434e077e34f781325cf6f1078e5de278c6f6dc7bd14e4a3da8b4</picture>
+        <picture>https://files-p.topnlab.ru/05a6873508c02ef2f6e1e44a14d99bd9a1fdfcdb14ace29ee2e4d3c3b03cf05e</picture>
+        <picture>https://files-p.topnlab.ru/99adc41ba469b47cdc404241c9d468a154a4d5f03d614ae7704af3bad36e9b55</picture>
+        <picture>https://files-p.topnlab.ru/47095ab0a836f080d3f4cbada82a73b5f20175f4293e8d5cef8367c1ce74919b</picture>
+        <description>Павшино в/г ул., 15. Сдается в аренду светлая, уютная двухкомнатная квартира в Красногорске, идеально подходящая для комфортной семейной жизни!&lt;br /&gt;
+&lt;br /&gt;
+О квартире: Эта теплая квартира расположена на 7 этаже 9-этажного кирпичного дома. В ней выполнен свежий косметический ремонт и полностью обновлены коммуникации, что гарантирует ваше спокойствие и комфорт. Квартира полностью оборудована всей необходимой бытовой техникой для беззаботного проживания: кондиционер, телевизоры, посудомоечная машина, холодильник и стиральная машина. Мы рассматриваем семьи, в том числе с 1-2 детьми (максимальное количество проживающих — не более 4 человек), а также рады арендаторам с небольшой собакой.&lt;br /&gt;
+&lt;br /&gt;
+Развитая инфраструктура и удобство в шаговой доступности: В непосредственной близости от дома находятся продуктовые магазины. Например, магазин "Авокадо" расположен по улице Военный Городок Павшино, 17, что буквально в нескольких шагах. Крупные гипермаркеты, такие как "Глобус", "Леруа Мерлен" и "Твой дом", а также торгово-развлекательные комплексы "Рига Молл" и "Юнимолл", легко доступны на автомобиле благодаря удобным выездам на Новорижское и Ильинское шоссе. В самом военном городке Павшино есть все необходимое для повседневной жизни: школа через дорогу (5 минут пешком), детский сад, взрослая и детская поликлиники, а также пункты выдачи различных маркетплейсов. Для владельцев питомцев есть ветклиника в соседнем микрорайоне.&lt;br /&gt;
+&lt;br /&gt;
+Отличная транспортная доступность:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Железнодорожная станция: Станция МЦД-2 "Павшино" находится примерно в 1,87–1,9 км от дома, что составляет около 20-25 минут пешком.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Автобусные остановки: Ближайшая автобусная остановка "Павшинский механический з-д" расположена всего в 228–392 метрах (4-6 минут пешком). Через нее проходят автобусы маршрутов 540, 541, 151 (конечная остановка – Дачный пос. Архангельское). Также имеются маршруты, следующие до станций метро Тушинская и Строгино.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Для автомобилистов: Удобные выезды на Новорижское и Ильинское шоссе.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Отдых и развлечения рядом с домом: На территории городка расположена Москва-река с оборудованной пляжной зоной, где можно насладиться отдыхом на свежем воздухе. Этот пляж, расположенный на реке Синичка, оснащен раздевалками, туалетами, кабинами для переодевания, кафе и пунктом проката сапбордов, а также площадкой для волейбола. Для прогулок и активного отдыха поблизости находится "Мякинино парк", до которого около 2,12 км.&lt;br /&gt;
+&lt;br /&gt;
+Оплата при въезде: первый месяц проживания, комиссия агентства 60% и депозит (равен одномесячному платежу, оплату возможно разбить на 2 месяца).&lt;br /&gt;
+&lt;br /&gt;
+Требования к потенциальным пр</description>
+        <param name="Общая площадь">43.1 м²</param>
+        <param name="Адрес">Павшино в/г ул., 15</param>
+      </offer>
+      <offer id="143651362" available="true">
+        <name>Квартира, 43.8 м², Марьино д.</name>
+        <price>85000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/890ce7b29d877ae141eab8e75fe3b7809987eae0ab4b7202206869d4b0ae9134</picture>
+        <picture>https://files-p.topnlab.ru/b9b398446c7374972681f8e71925a5de8c8f97cb25b0c0ee55ae9d9ec49316ea</picture>
+        <picture>https://files-p.topnlab.ru/a5216143224b317cd8bb9db597884bf80f3ca99b40fddf849fe3154e45b0efc1</picture>
+        <picture>https://files-p.topnlab.ru/910b3d7d730ca018cfe318ccca370aceafaeac394b4609919f73eea3bf5338f4</picture>
+        <picture>https://files-p.topnlab.ru/bac934b57a43231451fee3933fea33838661de7721558a22e6e15cee71f56d5c</picture>
+        <picture>https://files-p.topnlab.ru/fa7ec0688476eb182aa708e58cd0b72d8285ea9b99f87a1a6090c93361ffd62a</picture>
+        <picture>https://files-p.topnlab.ru/20765dcd604edab8d50bc687b29678ec30311af78f8d07d3d9fa71aca6d45aa1</picture>
+        <picture>https://files-p.topnlab.ru/aabae4b68e0401d662c527374f0e6d15cb433311ccd767c6c7dd6ee51ee99bd8</picture>
+        <picture>https://files-p.topnlab.ru/fd29e6d7687a7a53b581d94eff64ad9475eb754005c721cf14fa62c9e038b996</picture>
+        <picture>https://files-p.topnlab.ru/48e467b9677cf064c07cff4941fcc95ef7253f92bbeffe834c5412d2bd9ee0a5</picture>
+        <picture>https://files-p.topnlab.ru/b651764db0e4612ba0758cad6d1ee6d9ff942467e0968b0013d93ba76fddeee9</picture>
+        <picture>https://files-p.topnlab.ru/4f53ba2bb722a7f4134e33b1cfde05a1b6f9b52ddd31069063e39fb12b89e8c6</picture>
+        <picture>https://files-p.topnlab.ru/17cf6df450d057096ea1507665cca7aa0290991efc8aeea1c7aa3871c7a44a2c</picture>
+        <picture>https://files-p.topnlab.ru/413db0c167743fb606253e54275d18f159ad9c19f30a032541a7c5fb3524d9f4</picture>
+        <picture>https://files-p.topnlab.ru/bc4aec04dfeb9c3aab6f9f4365ece537e95c03ed2d9287bc9863f0ffd46492ca</picture>
+        <picture>https://files-p.topnlab.ru/1b74243e1736943adad07c3af71be6aca514a20f23b1c36bef594872f5945a24</picture>
+        <picture>https://files-p.topnlab.ru/79887a78ce3c54ce71d455d7c8f012b6939580926e9c111fb891533c1a1ba68a</picture>
+        <picture>https://files-p.topnlab.ru/d96f2009d511666ef9e0d682b55fc8156590ffd384f00c592c680f8066a23b39</picture>
+        <description>Родниковая ул., 1. Аренда коммерческого помещения в Клубном Доме Бизнес-Класса "Отрада на Реке"!&lt;br /&gt;
+&lt;br /&gt;
+Не упустите уникальную возможность открыть свой бизнес в престижном клубном доме бизнес-класса "Отрада на Реке"! Здание уже введено в эксплуатацию, активно идут ремонты и заселение, что обеспечивает отличную проходимость и постоянный поток потенциальных клиентов.&lt;br /&gt;
+&lt;br /&gt;
+Преимущества помещения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Расположение: Угловое помещение с отдельным входом и витринными окнами, обеспечивающими высокую заметность.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Площадь: 30.23 кв.м. основной площади + просторная терраса 13.57 кв.м.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Высокие потолки: Высота потолка в черновом варианте 3.3 м, что даёт простор для реализации любых дизайнерских решений.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Состояние: Помещение свободного назначения, без отделки, что позволяет создать интерьер, идеально соответствующий концепции вашего бизнеса.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Привлекательное окружение: Закрытый двор-патио и статус бизнес-класса привлекают платежеспособную аудиторию.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Идеально подходит для:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кафе, кофейни, другого общепита&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Офиса&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Магазина (продукты, промышленные/хозтовары, цветы и ландшафтные растения)&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Аптеки&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Пункта выдачи заказов (Wildberries, Ozon, Яндекс.Маркет, СДЭК)&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Салона красоты (маникюр/педикюр/парикмахерская)&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Рассмотрим также Ваши предложения!&lt;br /&gt;
+&lt;br /&gt;
+Условия аренды: Арендная плата + коммунальные услуги (по счетчикам). Предоставляются арендные каникулы до 2 месяцев, чтобы вы могли спокойно подготовить помещение к открытию.&lt;br /&gt;
+&lt;br /&gt;
+Торопитесь! Не упустите уникальную возможность открыть свою точку для бизнеса раньше конкурентов!</description>
+        <param name="Общая площадь">43.8 м²</param>
+        <param name="Адрес">Родниковая ул., 1</param>
+      </offer>
+      <offer id="144017114" available="true">
+        <name>Квартира,  м², Чащь д.</name>
+        <price>1300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/7554c61c07fcbf18f0d6e495b354ef3c7d1ce6bb6767664207bb867a17c44405</picture>
+        <picture>https://files-p.topnlab.ru/094fcc1cb35d5a70c02ac8437208a7a8d54ef2535493ff3b2c8569989d0435f3</picture>
+        <picture>https://files-p.topnlab.ru/8a57131ca0bd55bed1aed8e5d6906342b5dd2777698c1b717369a82a054625ab</picture>
+        <picture>https://files-p.topnlab.ru/36a94557332b3efc4ab5c2db3bc7026707916be86dde8885f75f901f1f1e94ac</picture>
+        <picture>https://files-p.topnlab.ru/14cc1f38f4e484b06d1fc84498ddd3f056564512e2e4dccab196c3fa19569636</picture>
+        <picture>https://files-p.topnlab.ru/d08e8bf424ae64dd616f81ad98b302070813fd323dd4ff09d850a083da4bf191</picture>
+        <picture>https://files-p.topnlab.ru/0160551a457c24a3b1c854e1bf5e9b658addc1d9704dc0c514e4ae8339c3963b</picture>
+        <picture>https://files-p.topnlab.ru/77375bb3f3e01bbaa8b4d18f52598fada6ec4333ce9422726ae0ccb5619894be</picture>
+        <picture>https://files-p.topnlab.ru/e5cceac9f6ff7f8417b2d1e26214f22b258a62b9d7a260b2c2b8af54726d8f33</picture>
+        <picture>https://files-p.topnlab.ru/db322f377a89e9afb04e6f96e3233e6094a0ab428c8687141ce1f75c6aa4bbfa</picture>
+        <picture>https://files-p.topnlab.ru/a5e38a162f3c0b61526be1ad73d35f157a947ab2a79e59a8a116507be5c477e3</picture>
+        <picture>https://files-p.topnlab.ru/8419e9a1d68140feda1a95d045b2ddb4593e4d0c9f36db4a5abdfb2ba7c2bd86</picture>
+        <picture>https://files-p.topnlab.ru/01a0e93ca91486e849b579d645f07ad8021d629443d242929ed9f82a9ca1e4a2</picture>
+        <picture>https://files-p.topnlab.ru/9225b5bc1903029f6badbed3543e03e13dc030ee642aea04b003034f5edaa007</picture>
+        <picture>https://files-p.topnlab.ru/48926b643f3393db258a8ecabc772a4cc1358c9b740bac6af7e349999afa9a9d</picture>
+        <picture>https://files-p.topnlab.ru/cb1542c578bc848c4f53dbf14b2b920c4ee960a4cfcb171f6c5deef09449236c</picture>
+        <picture>https://files-p.topnlab.ru/8f15c4a9888a34b0f61027ea62c9cfeb3bf29d8b0d718fbc5bef2028ceccc6be</picture>
+        <description>Центральная ул.. Предлагаем Вашему вниманию земельный участок правильной прямоугольной формы в обжитом коттеджном поселке в экологически чистом районе Московской области!&lt;br /&gt;
+&lt;br /&gt;
+На участке расположена бытовка на винтовых сваях с толщиной стен 150 мм: жилая часть общей площадью 16.5 кв.м, и просторная открытая веранда площадью более 11 кв.м. Со стороны внутрипоселковой дороги участок огорожен забором из профнастила с въездными воротами и калиткой. Электричество - 15 кВт, ящик со счетчиком расположен на столбе рядом с участком, подключение оплачено, оформлено, но на участок не заведено.&lt;br /&gt;
+&lt;br /&gt;
+Преимущества расположения: Коттеджный поселок "Рижские дворики 2" — это обжитое место, где многие соседи проживают круглогодично. Отличное расположение в 111 км по Новорижскому шоссе гарантирует идеальные условия для тихой загородной жизни.&lt;br /&gt;
+Инфраструктура и дополнительные возможности для комфортной жизни:&lt;br /&gt;
+&lt;br /&gt;
+Магазины:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ближайшие продуктовые и хозяйственные магазины, а также аптеки расположены в селе Теряево, примерно в 1500 метрах от поселка.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Образовательные учреждения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Детский сад и общеобразовательная школа находятся в селе Теряево, на расстоянии около 1500 метров.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Общественный транспорт:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Остановка общественного транспорта "Чащь" находится в деревне Чащь. От КП "Рижские дворики 2" до остановки примерно 1,2 км пешком. Через остановку проходит автобус №31. Он следует до села Теряево и до города Волоколамска.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Иная значимая информация:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Природа и экология: Поселок расположен в живописном месте, в окружении хвойного леса заповедника "Завидово", который является природной территорией федерального значения со статусом национального парка. Также неподалеку протекает река Локнаш и находятся Теряевские пруды, являющиеся природным заказником.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Исторические достопримечательности: Рядом с поселком расположен древний Иосифо-Волоцкий монастырь, основанный в 1479 году, который считается одним из красивейших архитектурных памятников.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Отдых и развлечения: В деревне Чащь работает охотничье-рыболовное хозяйство, предлагающее соответствующие услуги, включая размещение в коттеджных домах и трассы для любителей снегоходов и квадроциклов. В деревне также есть двухэтажный дореволюционный особняк — местная достопримечательность.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Постройте дом мечты на Вашем участке! Мы предлагаем уникальную возможно</description>
+        <param name="Адрес">Центральная ул.</param>
+      </offer>
+      <offer id="144103481" available="true">
+        <name>1-к квартира, 41.2 м², Красногорск г.</name>
+        <price>11000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/b23dcd800e39e622d1efa1207e740ce488e1438e1593ce2870e205cefd73dbad</picture>
+        <picture>https://files-p.topnlab.ru/c4b291ccc82bc7ca2f83171f2b6b65e37e01b73d1b619afec5f823c0716d8d96</picture>
+        <picture>https://files-p.topnlab.ru/92dc0ff9d65d9f6108a10319c8f5a699861021a17037983338ad081803b0e271</picture>
+        <picture>https://files-p.topnlab.ru/c947a254353f0103e071691040e13240d90f35f09fa7b8c92f7cbd6e2b46c9a4</picture>
+        <picture>https://files-p.topnlab.ru/cc6709bf5e2d8aaf96ffb9f06d140c2686be4efafa74f37fe46defc952107953</picture>
+        <picture>https://files-p.topnlab.ru/e03844868f3e9ac8adb820721f6d46b905a1415cc9bc55c1e1c64383ae56ef6d</picture>
+        <picture>https://files-p.topnlab.ru/6173f752bbcdb32126d963345ab0c42c8f1701a8b5745f3cfd1536faadf8e29e</picture>
+        <picture>https://files-p.topnlab.ru/127288f68766d2e00c1668e0cab18de5dc91e2f07c408b1f22064a2ff42ef8c3</picture>
+        <picture>https://files-p.topnlab.ru/46c213b6b65c99c59112a227d737ba41d12d4abcbaf4cbfb56798fadfe03686f</picture>
+        <picture>https://files-p.topnlab.ru/c860a975107058ed0190384572d0540d76790bc8e143f4ff3b94a98e68abd9ff</picture>
+        <picture>https://files-p.topnlab.ru/90b8e019bc60eabd86bef0a23efba87c9b674e4b54b65b2185cfe134f409f00b</picture>
+        <picture>https://files-p.topnlab.ru/d337cd829f6def798511ee91f8f1887c58f9db6684f65ddd137b569148acef98</picture>
+        <picture>https://files-p.topnlab.ru/9d13b841ed463b1e3fa3ce70e361523f614c4570e93bf77f27fb842f64aff29a</picture>
+        <picture>https://files-p.topnlab.ru/7ba70ff08054522b5f63e215c098b591c92ee833b4029e829d1c0fd04f76eed9</picture>
+        <picture>https://files-p.topnlab.ru/639cdfa62eeece8aeed60b06be5e4173fbc80e2a77feaf10a8a99945553b9f05</picture>
+        <picture>https://files-p.topnlab.ru/a283dc13a3bba488436733c351c2c69f9e33607d4f3570b947f53a4653a6ce25</picture>
+        <picture>https://files-p.topnlab.ru/ddcfe6518f614952b2b637278149a51002dda5ba4888e9185104708378d3e0ba</picture>
+        <picture>https://files-p.topnlab.ru/0ce190bd4b89d4ed9a4ab74b7492df095f0228b285f807e82290881b0679782e</picture>
+        <picture>https://files-p.topnlab.ru/bd02bf7348a37973c0b46b975b7487daf95b915ffb04422538aa6e4e40769dbb</picture>
+        <picture>https://files-p.topnlab.ru/e530d78d0936a64c8d7aa8f8968b365dee18970c751e42aecdefe2d6b6461123</picture>
+        <picture>https://files-p.topnlab.ru/2711600849d32f5f56b7c9e3b5909452c2727e9de2ad658e8240790eb33b2894</picture>
+        <picture>https://files-p.topnlab.ru/fb06a634f9df5717ccc27985876a3b3097af1dbdd30846b800d97012c9062326</picture>
+        <picture>https://files-p.topnlab.ru/432f5373da060da0dc3d98ea504a0d319629f4944aff5ae7e986761f2ab499e9</picture>
+        <picture>https://files-p.topnlab.ru/3ed71d7c685a1fec94386d08716fcc052ac8885825cfe83e148363ee84a532cc</picture>
+        <picture>https://files-p.topnlab.ru/85d27074b05478254716c58b97f13c0092ea4cb5f6fb3a4753d1239b98e085b1</picture>
+        <picture>https://files-p.topnlab.ru/b899818c69c88d6feb693bddd94b51ba8fdac46806accc77b042a6fb3e62270c</picture>
+        <picture>https://files-p.topnlab.ru/4f0eb5fd284eba2d1fa599085fa60bf421dd00a0f5002df6146193878ecba265</picture>
+        <picture>https://files-p.topnlab.ru/da2fa370811ccf2cd24394773ad8243eaa36393b8c79e468992bc6e27fb50ecd</picture>
+        <picture>https://files-p.topnlab.ru/6ac8a3d20b9311696d4f7aedc62425ece2d2cb34f13a6712b576320c0db8fba6</picture>
+        <description>Космонавтов б-р., 13. Мечта ждет! Просторная 1-комнатная квартира с потрясающим видом в ЖК "Изумрудные холмы"!&lt;br /&gt;
+&lt;br /&gt;
+Эта квартира – готовое решение для комфортной жизни: вся мебель и бытовая техника остаются новому собственнику! Вам останется только завезти личные вещи и наслаждаться жизнью.&lt;br /&gt;
+&lt;br /&gt;
+ДАННЫЙ ОБЪЕКТ МОЖНО КУПИТЬ В ИПОТЕКУ на стандартных условиях с первоначальным взносом от 20,1%, &lt;br /&gt;
+ПО СТАВКЕ 12,25% НА ВЕСЬ СРОК с первоначальным взносом от 30%.&lt;br /&gt;
+&lt;br /&gt;
+Преимущества, которые Вы оцените:&lt;br /&gt;
+Видовой этаж: Ежедневно наслаждайтесь живописными закатами и панорамными видами из окон своей квартиры.&lt;br /&gt;
+Полностью укомплектована: Вся необходимая мебель и современная бытовая техника включены в стоимость – переезд без лишних хлопот!&lt;br /&gt;
+Юридическая чистота: Свободная продажа, собственность от января 2019 года, все документы проверены. Гарантия чистоты сделки от федерального агентства недвижимости обеспечивает Ваше спокойствие.&lt;br /&gt;
+Развитая инфраструктура: Жилой комплекс "Изумрудные холмы" — это полноценный город в городе с собственной развитой инфраструктурой, включая школы, детские сады, магазины, кафе и прогулочные зоны.&lt;br /&gt;
+Безопасность и комфорт: Закрытая, охраняемая территория, видеонаблюдение по периметру и в подъездах, консьерж, подземный паркинг.&lt;br /&gt;
+&lt;br /&gt;
+Транспортная доступность:&lt;br /&gt;
+Ближайшая станция МЦД: "Опалиха". Расстояние: 2750 метров (примерно 41 минута пешком). От станции МЦД "Опалиха" можно доехать на маршрутке № 120к (5 остановок) или на автобусе № 833 (6 остановок) до остановки "Госпиталь". От остановки "Госпиталь" до дома около 289 метров (4 минуты пешком).&lt;br /&gt;
+Автобусные маршруты в сторону Москвы:&lt;br /&gt;
+Маршрутка № 120к до станции метро "Тушинская" (13 остановок от остановки "Госпиталь", время в пути 25-30 минут).&lt;br /&gt;
+Автобус № 372 до станции метро "Тушинская" (14 остановок).&lt;br /&gt;
+Автобус № 542 до станции метро "Тушинская" (17 остановок).&lt;br /&gt;
+Маршрутка № 492к до станции метро "Митино" (19 остановок от остановки "Госпиталь", время в пути около 30 минут).&lt;br /&gt;
+&lt;br /&gt;
+Инфраструктура в шаговой доступности:&lt;br /&gt;
+Школы:&lt;br /&gt;
+Начальная школа №17 (бул. Космонавтов, 2): ~112 м.&lt;br /&gt;
+Начальная школа № 17, корпус № 2 (бул. Космонавтов, 15): ~112 м.&lt;br /&gt;
+Средняя общеобразовательная школа № 18 (бул. Космонавтов, 9): ~272 м.&lt;br /&gt;
+Детские сады:&lt;br /&gt;
+Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
+Виртуоз, академия искусств (бул. Космонавтов, 17): ~220 м. (также детский сад)&lt;br /&gt;
+Детский сад №8 (бул. Космонавтов, 3 и 5): ~233 м (бул. Космонавтов, 5) и ~710-740 м (бул. Космонавтов, 3).&lt;br /&gt;
+Развивайка (бул. Космонавтов, 7): ~400 м.&lt;br /&gt;
+Совенок (бул. Космонавтов, 1): ~220 м (на том же бульваре, что и Baby Land).&lt;br /&gt;
+Продуктовые магазины:&lt;br /&gt;
+Ярче! (бул. Космонавтов, 13): прямо в доме.&lt;br /&gt;
+Москвичка (ул. Игоря Мерлушкина, 8): ~100-200 м.&lt;br /&gt;
+Ермолино (бул. Космонавтов, 8Б): ~122 м.</description>
+        <param name="Общая площадь">41.2 м²</param>
+        <param name="Адрес">Космонавтов б-р., 13</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
