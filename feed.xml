@@ -240,40 +240,6 @@
 Этот дом — идеальное место для тех, кто ищет спокойствия и близости к природе, не теряя при этом доступа к необходимой инфраструктуре.</description>
         <param name="Общая площадь">47.1 м²</param>
       </offer>
-      <offer id="132110113" available="true">
-        <name>Квартира, 21 м², Красногорск г.</name>
-        <price>6887219</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/a24887cb0ac257980b61f141458c9b5996ec4aaf7b0c9d3d87cb5d1187d03a8b</picture>
-        <description>. Представляем первый проект от федерального застройщика в Донецкой Народной Республике.&lt;br /&gt;
-&lt;br /&gt;
-Первая очередь сформирована тремя зданиями комфорт-класса, два корпуса возводятся вдоль улицы Артема, третий - более приватный и расположен в глубине от проезжей части.&lt;br /&gt;
-&lt;br /&gt;
-В продаже представлены три корпуса - дома в стиле современного минимализма, функциональные, идеально вписанные в исторический облик Мариуполя.&lt;br /&gt;
-&lt;br /&gt;
-Все квартиры передаются покупателям с отделкой «под ключ».&lt;br /&gt;
-&lt;br /&gt;
-Самое время вкладываться в новые территории!</description>
-        <param name="Общая площадь">21 м²</param>
-      </offer>
-      <offer id="132690959" available="true">
-        <name>4-к квартира, 90 м², Красногорск г.</name>
-        <price>8000000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/d485318cfff9b5b6de5c28e7dacf01fa45041b4fe083300ac32ddbbab8b5ce37</picture>
-        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
-Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Брус&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
-Выезд и счет сметы для вас бесплатен!</description>
-        <param name="Общая площадь">90 м²</param>
-      </offer>
       <offer id="132808461" available="true">
         <name>Квартира,  м², ТСН Раздолье тер.</name>
         <price>1200000</price>
@@ -876,6 +842,105 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
         <param name="Общая площадь">41.2 м²</param>
         <param name="Адрес">Космонавтов б-р., 13</param>
       </offer>
+      <offer id="144934772" available="true">
+        <name>1-к квартира, 31.1 м², Инженерный 1 п.</name>
+        <price>5000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/cca8b9dacd76a54af706cef5edb6427b7db948a28e92627f074c7fedf346d17e</picture>
+        <picture>https://files-p.topnlab.ru/56d730866b7b7abe9ffa1bd3c7eef1cce076170663bb56d233356e971ccedf80</picture>
+        <picture>https://files-p.topnlab.ru/f77ee57a3759c148cd28b148e0f9bab3d193cc2298214ab79739074c33adbdf1</picture>
+        <picture>https://files-p.topnlab.ru/6bbe21483a28771f7b737daea3e441f262ed215d11b4fd3da2cdd993a0e05e28</picture>
+        <picture>https://files-p.topnlab.ru/2779f2d36d5cc0b252cfa0e719539859751c2ec8e8e61cea6ad31549460b8d60</picture>
+        <picture>https://files-p.topnlab.ru/75152545f2598b30573b306f83044571e99f4c1e9d2044518d5a15459f996db3</picture>
+        <picture>https://files-p.topnlab.ru/35657a944c956ffbc9949d1ab602dafaf5b70705e70651efb799ed106671b4e7</picture>
+        <picture>https://files-p.topnlab.ru/d03a1d185039b53172b844c183cd85fb5061bc41fbf9d7c05eab266f9d0dbe33</picture>
+        <picture>https://files-p.topnlab.ru/a8a76ede9d34c584916e26800082ae18a487a8f1b6d048126b64f1c6347c62bc</picture>
+        <picture>https://files-p.topnlab.ru/e9fd3dad2ee1a00a856c6a8f2457e96f86842c8271a520273305c32091e7174a</picture>
+        <picture>https://files-p.topnlab.ru/e9c4dbbec383dfed3cbf4179aded7ead1001e464f91b2f1c01204ca6104878b4</picture>
+        <picture>https://files-p.topnlab.ru/3d7128c6d6c6e3fb19a728f371a3b1f1afd55b18e450156ec68f77678b07bd0e</picture>
+        <picture>https://files-p.topnlab.ru/f575c8e07da899f3dc9191f308d955b9afd2e8492e1a2d2ecc54d37a01142009</picture>
+        <picture>https://files-p.topnlab.ru/2895f2a58687e26dd24f80f2a5998035606d892b888198eda2c18fc62f4e431d</picture>
+        <picture>https://files-p.topnlab.ru/f8c89a99361491ec9f856874880d6fc04b98d1df0732a16217f3b7bd8958db2f</picture>
+        <picture>https://files-p.topnlab.ru/149a2f8898a7f06e664e9dffb64d2d5be6cc36ba8f74f56c2a3145ff9bafdcff</picture>
+        <picture>https://files-p.topnlab.ru/7a4d2703938bb6844d5456b6179448132eee04406d273ee82e889cadb28cdc6c</picture>
+        <picture>https://files-p.topnlab.ru/4fc2bda46c4e81e49e4f833b5227acda3551bbbf1ed654f17f18309b778f120a</picture>
+        <picture>https://files-p.topnlab.ru/bd65f3e0ae9f400d5f1328a8fe77e4c96362030185f9514a95181e52fa0ca81d</picture>
+        <picture>https://files-p.topnlab.ru/fbf37e5930e2470ce21ce8e8d23fc409f5691370cfba686fe2b7294d4896830c</picture>
+        <picture>https://files-p.topnlab.ru/c9ac1835ba4230d746281dd446caf2b6ac11573c14a7980b99c9ef788b73aa84</picture>
+        <picture>https://files-p.topnlab.ru/efe576d275bf362cd5964c16ceb78ded2ffb550c1272ab518417a554fa0dd019</picture>
+        <picture>https://files-p.topnlab.ru/398a7c3018892c4c14db623145b4972d34e3e651a8280ebb69300ab4c7b45de1</picture>
+        <picture>https://files-p.topnlab.ru/5fdee8c643f9a7651cbdc78eed6982ceb69bb728aa1331b2dfdc63f213af55af</picture>
+        <picture>https://files-p.topnlab.ru/bc541a781614f45b4d83907f9dd9d6b45afe03b37b23da3cd47218cc03fa104e</picture>
+        <picture>https://files-p.topnlab.ru/212fc7928d7c210dfe03d4c11175941ce9629537d550bd0f81c81e9b9d02a1c2</picture>
+        <picture>https://files-p.topnlab.ru/4300205fce36f10d069ec749a3acd8aea32824bfe610aef6adc56f05b4867b64</picture>
+        <description>. Представляем вашему вниманию уютную однокомнатную квартиру в живописном поселке!&lt;br /&gt;
+&lt;br /&gt;
+ДАННЫЙ ОБЪЕКТ МОЖНО КУПИТЬ В ИПОТЕКУ на стандартных условиях с первоначальным взносом от 20,1%, а также -&lt;br /&gt;
+ПО СУБСИДИРОВАННОЙ СТАВКЕ от 12,25% НА ВЕСЬ СРОК с первоначальным взносом от 30%.&lt;br /&gt;
+&lt;br /&gt;
+Эта светлая и теплая однокомнатная квартира расположена на высоком 1 этаже 5-этажного панельного дома. В квартире остается вся мебель и бытовая техника, что позволит новым собственникам сразу заехать и наслаждаться комфортом без лишних хлопот. &lt;br /&gt;
+&lt;br /&gt;
+Местоположение: Поселок Инженерный 1 находится в окружении пышной лесопарковой зоны, обеспечивая свежий воздух и спокойную атмосферу, при этом всего в 13 км от МКАД по Новорижскому шоссе, что гарантирует удобную транспортную доступность.&lt;br /&gt;
+&lt;br /&gt;
+Инфраструктура в шаговой доступности (пос. Инженерный 1, дом 3):&lt;br /&gt;
+Дошкольные и школьные учреждения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;До ближайшего детского сада (на территории поселка) – около 200 метров.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;До лицея "Ковчег-XXI" – около 180 метров.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Магазины:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Продуктовые магазины ("Фасоль", местный продуктовый) – в пределах 100-200 метров.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Хозяйственные магазины и крупные супермаркеты расположены в пос. Ильинское-Усово и дер. Глухово, на противоположной стороне от Новорижского шоссе (около 4 км на автомобиле).&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Транспортная доступность:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ближайшая остановка общественного транспорта "Военный городок" находится всего в 250 метрах от дома.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;От остановки курсируют маршрутные такси № 41к, 1541. &lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;На них можно доехать до станции метро Тушинская, а также до станции МЦД Павшино.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Дополнительная инфраструктура и зоны отдыха:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Поселок окружен густой лесопарковой зоной, идеальной для прогулок и отдыха на природе.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Недалеко находится историческая Усадьба Никольское-Урюпино – прекрасное место для культурного досуга. &lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;В Красногорске (примерно 9 км) расположены крупные торговые центры, такие как "Крокус Экспо", "Box city", "Солнечный Рай" и "Клён", предлагающие широкий выбор магазинов, развлечений и кафе.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Основание приобретени</description>
+        <param name="Общая площадь">31.1 м²</param>
+      </offer>
+      <offer id="144964832" available="true">
+        <name>Квартира, 14 м², Красногорск г.</name>
+        <price>9000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/889a44e2bbf8d86f2d8aa1c7f14851601ab2a9246e2a3d8d59330928170ee00c</picture>
+        <picture>https://files-p.topnlab.ru/6df25718cf1e08bf1f7ceafb8fc28b53b24ece62beabf4e70f5d03b2ab3c9f55</picture>
+        <picture>https://files-p.topnlab.ru/ec874b7d39a48c1e596c7ff6a0f2614e088d5df47e31e977a87ac6012226e1d8</picture>
+        <description>Жуковского ул., 19. Сдается на зимний период (по май 2027 года включительно) машиноместо в ЖК Red Hills, площадь 14 кв.м.&lt;br /&gt;
+&lt;br /&gt;
+Почему выгодно выбрать именно это машиноместо?&lt;br /&gt;
+&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сухой и теплый подземный паркинг — защита от осадков и перепадов температур круглый год.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Безопасность и спокойствие — закрытая территория, видеонаблюдение, доступ только для владельцев.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Комфортный заезд и выезд — никакой суеты и пробок!&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Размер идеально подойдет для легкового автомобиля.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Выгодная цена: аренда всего 9 000 руб./мес.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Оплата при подписании договора - первый месяц + комиссия агентства (50% от одномесячного платежа). &lt;br /&gt;
+&lt;br /&gt;
+Звоните прямо сейчас и запишитесь на просмотр! Агентство "Самолет Плюс" — надежные сделки с проверенными объектами.</description>
+        <param name="Общая площадь">14 м²</param>
+        <param name="Адрес">Жуковского ул., 19</param>
+      </offer>
+      <offer id="132110113" available="true">
+        <name>Квартира, 21 м², Красногорск г.</name>
+        <price>6887219</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/a24887cb0ac257980b61f141458c9b5996ec4aaf7b0c9d3d87cb5d1187d03a8b</picture>
+        <description>. Представляем первый проект от федерального застройщика в Донецкой Народной Республике.&lt;br /&gt;
+&lt;br /&gt;
+Первая очередь сформирована тремя зданиями комфорт-класса, два корпуса возводятся вдоль улицы Артема, третий - более приватный и расположен в глубине от проезжей части.&lt;br /&gt;
+&lt;br /&gt;
+В продаже представлены три корпуса - дома в стиле современного минимализма, функциональные, идеально вписанные в исторический облик Мариуполя.&lt;br /&gt;
+&lt;br /&gt;
+Все квартиры передаются покупателям с отделкой «под ключ».&lt;br /&gt;
+&lt;br /&gt;
+Самое время вкладываться в новые территории!</description>
+        <param name="Общая площадь">21 м²</param>
+      </offer>
       <offer id="132690930" available="true">
         <name>6-к квартира, 150 м², Красногорск г.</name>
         <price>14000000</price>
@@ -890,6 +955,22 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
 &lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
 Выезд и счет сметы для вас бесплатен!</description>
         <param name="Общая площадь">150 м²</param>
+      </offer>
+      <offer id="132690959" available="true">
+        <name>4-к квартира, 90 м², Красногорск г.</name>
+        <price>8000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/d485318cfff9b5b6de5c28e7dacf01fa45041b4fe083300ac32ddbbab8b5ce37</picture>
+        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
+Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Брус&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
+Выезд и счет сметы для вас бесплатен!</description>
+        <param name="Общая площадь">90 м²</param>
       </offer>
     </offers>
   </shop>
