@@ -185,62 +185,6 @@
         <param name="Общая площадь">14.7 м²</param>
         <param name="Адрес">Большая Воскресенская ул., 5</param>
       </offer>
-      <offer id="132100914" available="true">
-        <name>2-к квартира, 47.1 м², Бабинки д.</name>
-        <price>1800000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/064c98e4c0aec6e82f2064399b7e808fd794dad8689d1fbb95e267d373afffd3</picture>
-        <picture>https://files-p.topnlab.ru/55892766b713a8cc1b25e2300ab2e8ffa247c7f877900ea31c0fd8eb1c72cda2</picture>
-        <picture>https://files-p.topnlab.ru/5d8393fd0b7fec258815fb120147f85c65407e3a1400d41011c740a4424c1cf9</picture>
-        <picture>https://files-p.topnlab.ru/002e184ff0bf30fd49ce16b7bcc2be9b1f921ab85b8386d46e3e200a9faf26c1</picture>
-        <picture>https://files-p.topnlab.ru/2d40a72b3c8a2c52473d00b102773dfcf53967b92008dba5f750ffd0176550c8</picture>
-        <picture>https://files-p.topnlab.ru/2cabfe6ef23f78c4fd12d3406f5a31f49b98840b3bcf4a6f2e86f364e578c615</picture>
-        <picture>https://files-p.topnlab.ru/3736c7060bd9c12698ad42ce16441b346914aa957873a011f0943369eb3b8f6a</picture>
-        <picture>https://files-p.topnlab.ru/65b6e5b67285da5b7631817a91babcdebee7ccc17902f186828269f0336138e8</picture>
-        <picture>https://files-p.topnlab.ru/1b45f5d3c8cfb570367f87cc5ddb02b24297811e4a9493c37d7920e83e30674d</picture>
-        <picture>https://files-p.topnlab.ru/e655dbdd7db617b496f5318bf806eafff5e27593d743dff9e04558b1be67b2e2</picture>
-        <picture>https://files-p.topnlab.ru/5ee99030be9ffc0655092d0039ab2d4661a0c53ad8d58860c093766eef7c9406</picture>
-        <picture>https://files-p.topnlab.ru/f47f571fdeb060863cfdb8af79aba87ba58030fbc609a146f5226d360c5f2557</picture>
-        <picture>https://files-p.topnlab.ru/9a2923fb89c98863f50b976994dd849f82d269ca687082b3af3a3f40527113f8</picture>
-        <picture>https://files-p.topnlab.ru/35b5441f33e47cf161c37c68876dfd3088ae36501054ff4e74469a86bb6a2b07</picture>
-        <picture>https://files-p.topnlab.ru/430eff65ffc7b1c5256b18907d19188d90b51a89de31dd823dba1f671990c875</picture>
-        <picture>https://files-p.topnlab.ru/be641a9530fd2a325b91599913e3f39ac9ff39d638a72a4522c5cc2b27b89af1</picture>
-        <picture>https://files-p.topnlab.ru/a22fcabffaa0dc140a752187e63b7ced1019433cb64d309ce1ff95e2525151b9</picture>
-        <picture>https://files-p.topnlab.ru/14db64fa980b51aebe2e75107108017af65214c297b75b2fc83b0a0fbde8537e</picture>
-        <picture>https://files-p.topnlab.ru/4ac057e6c7e7cb5478f1e85168eb7388c38f4514b62c7fe056770851857e4410</picture>
-        <picture>https://files-p.topnlab.ru/3ede7078eb5aa0c0e121d4d9e69af81b0bb2868a67a674c36f227c7d5b301948</picture>
-        <picture>https://files-p.topnlab.ru/c840d68239e08066a710ec9e56bfad32ff5e2c3408f1f08c318f1db13bcd311f</picture>
-        <picture>https://files-p.topnlab.ru/a2a455dc393cfea3a880c65aeb03217cede8a64623b969a9d2d6a47d87cfd61d</picture>
-        <picture>https://files-p.topnlab.ru/f14096f2e96fc078e1b6d7de53ab26e505f75554260d9f5d056450445fbb6b5e</picture>
-        <picture>https://files-p.topnlab.ru/5a9885ebd68951c5ad22a56cb2d27097d2a6c511334e8d6f3be90b540d61fc7a</picture>
-        <picture>https://files-p.topnlab.ru/b4e7b30fd635412d4d71e144e0c572dba02bf865f05844179dc275357c05a3dd</picture>
-        <picture>https://files-p.topnlab.ru/76913ec660ec52de6837a4258222d9a17f48dcc08dff44a2a5372d559b0eb9b5</picture>
-        <picture>https://files-p.topnlab.ru/2278fcf011abd155a60fcb4301517e229d585927969b98dc818ff16b13c4d190</picture>
-        <picture>https://files-p.topnlab.ru/e5c917852628582a7139ff8117960d0e13811d5b4d6d203f1b2c2a070b3de9ac</picture>
-        <picture>https://files-p.topnlab.ru/207b6192510a2c0120ae5b7fc463c6b836585a7bdfddfbb2efaabda2f31cdd54</picture>
-        <picture>https://files-p.topnlab.ru/2af072721395903e9d167e86166f95cf34ce7a28a452132f28fdb6039f13343a</picture>
-        <description>. Продается уютный дом для летнего проживания, расположенный в живописной деревне Бабинки Шаховского района Московской области. Деревня обжитая, а некоторые соседи проживают здесь круглый год, что создает приятную и безопасную атмосферу.&lt;br /&gt;
-&lt;br /&gt;
-Фундамент дома выполнен из железобетонных блоков, а стены — из деревянного бруса 100х100. При желании, дом легко утеплить, превратив его в комфортное жилище для круглогодичного использования.&lt;br /&gt;
-&lt;br /&gt;
-Наслаждайтесь природой! Деревня Бабинки находится на левом берегу реки Лоби, впадающей в Шошу. Ниже деревни река перекрыта плотиной, образуя небольшое водохранилище, идеальное для рыбалки или летнего отдыха у воды. Ближайшие лесные массивы, богатые грибами и ягодами, находятся в непосредственной близости, предлагая прекрасные возможности для прогулок и активного отдыха.&lt;br /&gt;
-&lt;br /&gt;
-Удобная транспортная доступность: остановка общественного транспорта "Бабинки" находится в 1,3 км от дома (примерно 20 минут прогулочным шагом). Отсюда регулярно отправляются автобусы №33, №49 и №66, следующие до автостанции Шаховская и в направлении Раменья. &lt;br /&gt;
-&lt;br /&gt;
-В соседней деревне Елизарово расположена Экоферма с зоной отдыха и банным комплексом, посещение которой станет приятным дополнением к Вашей загородной жизни. Ближайшие сетевые магазины (продукты и хозтовары) расположены в ближайших более крупных населенных пунктах (от 6 до 10 км от дома).&lt;br /&gt;
-&lt;br /&gt;
-Данный дом с участком полностью подготовлена к продаже: зарегистрированных нет, один взрослый собственник, основание права собственности - свидетельство о праве на наследство по закону от 2021 года, свободная продажа.&lt;br /&gt;
-&lt;br /&gt;
-Гарантия юридической чистоты сделки от компании! &lt;br /&gt;
-Звоните! Записывайтесь на показ объекта прямо сейчас! &lt;br /&gt;
-Рады будем ответить на все ваши вопросы с 10:00 до 20:00.&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-Этот дом — идеальное место для тех, кто ищет спокойствия и близости к природе, не теряя при этом доступа к необходимой инфраструктуре.</description>
-        <param name="Общая площадь">47.1 м²</param>
-      </offer>
       <offer id="132808461" available="true">
         <name>Квартира,  м², ТСН Раздолье тер.</name>
         <price>1200000</price>
@@ -784,6 +728,63 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
         <param name="Общая площадь">41.2 м²</param>
         <param name="Адрес">Космонавтов б-р., 13</param>
       </offer>
+      <offer id="144934772" available="true">
+        <name>1-к квартира, 31.1 м², Инженерный 1 п.</name>
+        <price>5000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/cca8b9dacd76a54af706cef5edb6427b7db948a28e92627f074c7fedf346d17e</picture>
+        <picture>https://files-p.topnlab.ru/56d730866b7b7abe9ffa1bd3c7eef1cce076170663bb56d233356e971ccedf80</picture>
+        <picture>https://files-p.topnlab.ru/f77ee57a3759c148cd28b148e0f9bab3d193cc2298214ab79739074c33adbdf1</picture>
+        <picture>https://files-p.topnlab.ru/6bbe21483a28771f7b737daea3e441f262ed215d11b4fd3da2cdd993a0e05e28</picture>
+        <picture>https://files-p.topnlab.ru/2779f2d36d5cc0b252cfa0e719539859751c2ec8e8e61cea6ad31549460b8d60</picture>
+        <picture>https://files-p.topnlab.ru/75152545f2598b30573b306f83044571e99f4c1e9d2044518d5a15459f996db3</picture>
+        <picture>https://files-p.topnlab.ru/35657a944c956ffbc9949d1ab602dafaf5b70705e70651efb799ed106671b4e7</picture>
+        <picture>https://files-p.topnlab.ru/d03a1d185039b53172b844c183cd85fb5061bc41fbf9d7c05eab266f9d0dbe33</picture>
+        <picture>https://files-p.topnlab.ru/a8a76ede9d34c584916e26800082ae18a487a8f1b6d048126b64f1c6347c62bc</picture>
+        <picture>https://files-p.topnlab.ru/e9fd3dad2ee1a00a856c6a8f2457e96f86842c8271a520273305c32091e7174a</picture>
+        <picture>https://files-p.topnlab.ru/e9c4dbbec383dfed3cbf4179aded7ead1001e464f91b2f1c01204ca6104878b4</picture>
+        <picture>https://files-p.topnlab.ru/3d7128c6d6c6e3fb19a728f371a3b1f1afd55b18e450156ec68f77678b07bd0e</picture>
+        <picture>https://files-p.topnlab.ru/f575c8e07da899f3dc9191f308d955b9afd2e8492e1a2d2ecc54d37a01142009</picture>
+        <picture>https://files-p.topnlab.ru/2895f2a58687e26dd24f80f2a5998035606d892b888198eda2c18fc62f4e431d</picture>
+        <picture>https://files-p.topnlab.ru/f8c89a99361491ec9f856874880d6fc04b98d1df0732a16217f3b7bd8958db2f</picture>
+        <picture>https://files-p.topnlab.ru/149a2f8898a7f06e664e9dffb64d2d5be6cc36ba8f74f56c2a3145ff9bafdcff</picture>
+        <picture>https://files-p.topnlab.ru/7a4d2703938bb6844d5456b6179448132eee04406d273ee82e889cadb28cdc6c</picture>
+        <picture>https://files-p.topnlab.ru/4fc2bda46c4e81e49e4f833b5227acda3551bbbf1ed654f17f18309b778f120a</picture>
+        <picture>https://files-p.topnlab.ru/bd65f3e0ae9f400d5f1328a8fe77e4c96362030185f9514a95181e52fa0ca81d</picture>
+        <picture>https://files-p.topnlab.ru/fbf37e5930e2470ce21ce8e8d23fc409f5691370cfba686fe2b7294d4896830c</picture>
+        <picture>https://files-p.topnlab.ru/c9ac1835ba4230d746281dd446caf2b6ac11573c14a7980b99c9ef788b73aa84</picture>
+        <picture>https://files-p.topnlab.ru/efe576d275bf362cd5964c16ceb78ded2ffb550c1272ab518417a554fa0dd019</picture>
+        <picture>https://files-p.topnlab.ru/398a7c3018892c4c14db623145b4972d34e3e651a8280ebb69300ab4c7b45de1</picture>
+        <picture>https://files-p.topnlab.ru/5fdee8c643f9a7651cbdc78eed6982ceb69bb728aa1331b2dfdc63f213af55af</picture>
+        <picture>https://files-p.topnlab.ru/bc541a781614f45b4d83907f9dd9d6b45afe03b37b23da3cd47218cc03fa104e</picture>
+        <picture>https://files-p.topnlab.ru/212fc7928d7c210dfe03d4c11175941ce9629537d550bd0f81c81e9b9d02a1c2</picture>
+        <picture>https://files-p.topnlab.ru/4300205fce36f10d069ec749a3acd8aea32824bfe610aef6adc56f05b4867b64</picture>
+        <description>. Представляем вашему вниманию уютную однокомнатную квартиру в живописном поселке!&lt;br /&gt;
+&lt;br /&gt;
+ДАННЫЙ ОБЪЕКТ МОЖНО КУПИТЬ В ИПОТЕКУ на стандартных условиях с первоначальным взносом от 20,1%, а также -&lt;br /&gt;
+ПО СУБСИДИРОВАННОЙ СТАВКЕ от 12,25% НА ВЕСЬ СРОК с первоначальным взносом от 30%.&lt;br /&gt;
+&lt;br /&gt;
+Эта светлая и теплая однокомнатная квартира расположена на высоком 1 этаже 5-этажного панельного дома. В квартире остается вся мебель и бытовая техника, что позволит новым собственникам сразу заехать и наслаждаться комфортом без лишних хлопот. &lt;br /&gt;
+&lt;br /&gt;
+Местоположение: Поселок Инженерный 1 находится в окружении пышной лесопарковой зоны, обеспечивая свежий воздух и спокойную атмосферу, при этом всего в 13 км от МКАД по Новорижскому шоссе, что гарантирует удобную транспортную доступность.&lt;br /&gt;
+&lt;br /&gt;
+Инфраструктура в шаговой доступности (пос. Инженерный 1, дом 3):&lt;br /&gt;
+Дошкольные и школьные учреждения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;До ближайшего детского сада (на территории поселка) – около 200 метров.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;До лицея "Ковчег-XXI" – около 180 метров.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Магазины:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Продуктовые магазины ("Фасоль", местный продуктовый) – в пределах 100-200 метров.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Хозяйственные магазины и крупные супермаркеты расположены в пос. Ильинское-Усово и дер. Глухово, на противоположной стороне от Новорижского шоссе (около 4 км на автомобиле).&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Транспортная доступность:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ближайшая остановка общественного транспорта "Военный городок" находится всего в 250 метрах от дома.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;От остановки курсируют маршрутные такси № 41к, 1541. &lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;На них можно доехать до станции метро Тушинская, а также до станции МЦД Павшино.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Дополнительная инфраструктура и зоны отдыха:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Поселок окружен густой лесопарковой зоной, идеальной для прогулок и отдыха на природе.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Недалеко находится историческая Усадьба Никольское-Урюпино – прекрасное место для культурного досуга. &lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;В Красногорске (примерно 9 км) расположены крупные торговые центры, такие как "Крокус Экспо", "Box city", "Солнечный Рай" и "Клён", предлагающие широкий выбор магазинов, развлечений и кафе.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Основание приобретени</description>
+        <param name="Общая площадь">31.1 м²</param>
+      </offer>
       <offer id="144964832" available="true">
         <name>Квартира, 14 м², Красногорск г.</name>
         <price>9000</price>
@@ -982,63 +983,6 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Образование и развитие: В центре ЖК расположена частная школа "Самолетум" (ул. Тенистых Аллей, 2). Расстояние до нее составляет около 400 метров). Школа имеет высокий рейтинг 5.0/5. Отзывы родителей смешанные: отмечают высокое качество обучения, обширный выбор секций (бадминтон, баскетбол, джиу-джитсу, спортивно-бальные танцы, футбол, художественная гимнастика, шахматы, робототехника, курсы творчества) и хорошую атмосферу, а также профессионализм некоторых педагогов. Рядом расположены многочисленные детские сады: "Детский сад Полет" (ул. </description>
         <param name="Общая площадь">39.1 м²</param>
         <param name="Адрес">Липовой Рощи ул., 4, к 1</param>
-      </offer>
-      <offer id="144934772" available="true">
-        <name>1-к квартира, 31.1 м², Инженерный 1 п.</name>
-        <price>5000000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/cca8b9dacd76a54af706cef5edb6427b7db948a28e92627f074c7fedf346d17e</picture>
-        <picture>https://files-p.topnlab.ru/56d730866b7b7abe9ffa1bd3c7eef1cce076170663bb56d233356e971ccedf80</picture>
-        <picture>https://files-p.topnlab.ru/f77ee57a3759c148cd28b148e0f9bab3d193cc2298214ab79739074c33adbdf1</picture>
-        <picture>https://files-p.topnlab.ru/6bbe21483a28771f7b737daea3e441f262ed215d11b4fd3da2cdd993a0e05e28</picture>
-        <picture>https://files-p.topnlab.ru/2779f2d36d5cc0b252cfa0e719539859751c2ec8e8e61cea6ad31549460b8d60</picture>
-        <picture>https://files-p.topnlab.ru/75152545f2598b30573b306f83044571e99f4c1e9d2044518d5a15459f996db3</picture>
-        <picture>https://files-p.topnlab.ru/35657a944c956ffbc9949d1ab602dafaf5b70705e70651efb799ed106671b4e7</picture>
-        <picture>https://files-p.topnlab.ru/d03a1d185039b53172b844c183cd85fb5061bc41fbf9d7c05eab266f9d0dbe33</picture>
-        <picture>https://files-p.topnlab.ru/a8a76ede9d34c584916e26800082ae18a487a8f1b6d048126b64f1c6347c62bc</picture>
-        <picture>https://files-p.topnlab.ru/e9fd3dad2ee1a00a856c6a8f2457e96f86842c8271a520273305c32091e7174a</picture>
-        <picture>https://files-p.topnlab.ru/e9c4dbbec383dfed3cbf4179aded7ead1001e464f91b2f1c01204ca6104878b4</picture>
-        <picture>https://files-p.topnlab.ru/3d7128c6d6c6e3fb19a728f371a3b1f1afd55b18e450156ec68f77678b07bd0e</picture>
-        <picture>https://files-p.topnlab.ru/f575c8e07da899f3dc9191f308d955b9afd2e8492e1a2d2ecc54d37a01142009</picture>
-        <picture>https://files-p.topnlab.ru/2895f2a58687e26dd24f80f2a5998035606d892b888198eda2c18fc62f4e431d</picture>
-        <picture>https://files-p.topnlab.ru/f8c89a99361491ec9f856874880d6fc04b98d1df0732a16217f3b7bd8958db2f</picture>
-        <picture>https://files-p.topnlab.ru/149a2f8898a7f06e664e9dffb64d2d5be6cc36ba8f74f56c2a3145ff9bafdcff</picture>
-        <picture>https://files-p.topnlab.ru/7a4d2703938bb6844d5456b6179448132eee04406d273ee82e889cadb28cdc6c</picture>
-        <picture>https://files-p.topnlab.ru/4fc2bda46c4e81e49e4f833b5227acda3551bbbf1ed654f17f18309b778f120a</picture>
-        <picture>https://files-p.topnlab.ru/bd65f3e0ae9f400d5f1328a8fe77e4c96362030185f9514a95181e52fa0ca81d</picture>
-        <picture>https://files-p.topnlab.ru/fbf37e5930e2470ce21ce8e8d23fc409f5691370cfba686fe2b7294d4896830c</picture>
-        <picture>https://files-p.topnlab.ru/c9ac1835ba4230d746281dd446caf2b6ac11573c14a7980b99c9ef788b73aa84</picture>
-        <picture>https://files-p.topnlab.ru/efe576d275bf362cd5964c16ceb78ded2ffb550c1272ab518417a554fa0dd019</picture>
-        <picture>https://files-p.topnlab.ru/398a7c3018892c4c14db623145b4972d34e3e651a8280ebb69300ab4c7b45de1</picture>
-        <picture>https://files-p.topnlab.ru/5fdee8c643f9a7651cbdc78eed6982ceb69bb728aa1331b2dfdc63f213af55af</picture>
-        <picture>https://files-p.topnlab.ru/bc541a781614f45b4d83907f9dd9d6b45afe03b37b23da3cd47218cc03fa104e</picture>
-        <picture>https://files-p.topnlab.ru/212fc7928d7c210dfe03d4c11175941ce9629537d550bd0f81c81e9b9d02a1c2</picture>
-        <picture>https://files-p.topnlab.ru/4300205fce36f10d069ec749a3acd8aea32824bfe610aef6adc56f05b4867b64</picture>
-        <description>. Представляем вашему вниманию уютную однокомнатную квартиру в живописном поселке!&lt;br /&gt;
-&lt;br /&gt;
-ДАННЫЙ ОБЪЕКТ МОЖНО КУПИТЬ В ИПОТЕКУ на стандартных условиях с первоначальным взносом от 20,1%, а также -&lt;br /&gt;
-ПО СУБСИДИРОВАННОЙ СТАВКЕ от 12,25% НА ВЕСЬ СРОК с первоначальным взносом от 30%.&lt;br /&gt;
-&lt;br /&gt;
-Эта светлая и теплая однокомнатная квартира расположена на высоком 1 этаже 5-этажного панельного дома. В квартире остается вся мебель и бытовая техника, что позволит новым собственникам сразу заехать и наслаждаться комфортом без лишних хлопот. &lt;br /&gt;
-&lt;br /&gt;
-Местоположение: Поселок Инженерный 1 находится в окружении пышной лесопарковой зоны, обеспечивая свежий воздух и спокойную атмосферу, при этом всего в 13 км от МКАД по Новорижскому шоссе, что гарантирует удобную транспортную доступность.&lt;br /&gt;
-&lt;br /&gt;
-Инфраструктура в шаговой доступности (пос. Инженерный 1, дом 3):&lt;br /&gt;
-Дошкольные и школьные учреждения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;До ближайшего детского сада (на территории поселка) – около 200 метров.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;До лицея "Ковчег-XXI" – около 180 метров.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-Магазины:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Продуктовые магазины ("Фасоль", местный продуктовый) – в пределах 100-200 метров.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Хозяйственные магазины и крупные супермаркеты расположены в пос. Ильинское-Усово и дер. Глухово, на противоположной стороне от Новорижского шоссе (около 4 км на автомобиле).&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-Транспортная доступность:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ближайшая остановка общественного транспорта "Военный городок" находится всего в 250 метрах от дома.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;От остановки курсируют маршрутные такси № 41к, 1541. &lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;На них можно доехать до станции метро Тушинская, а также до станции МЦД Павшино.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-Дополнительная инфраструктура и зоны отдыха:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Поселок окружен густой лесопарковой зоной, идеальной для прогулок и отдыха на природе.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Недалеко находится историческая Усадьба Никольское-Урюпино – прекрасное место для культурного досуга. &lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;В Красногорске (примерно 9 км) расположены крупные торговые центры, такие как "Крокус Экспо", "Box city", "Солнечный Рай" и "Клён", предлагающие широкий выбор магазинов, развлечений и кафе.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Основание приобретени</description>
-        <param name="Общая площадь">31.1 м²</param>
       </offer>
     </offers>
   </shop>
