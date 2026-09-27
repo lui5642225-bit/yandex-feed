@@ -185,6 +185,22 @@
         <param name="Общая площадь">14.7 м²</param>
         <param name="Адрес">Большая Воскресенская ул., 5</param>
       </offer>
+      <offer id="132690959" available="true">
+        <name>4-к квартира, 90 м², Красногорск г.</name>
+        <price>8000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/d485318cfff9b5b6de5c28e7dacf01fa45041b4fe083300ac32ddbbab8b5ce37</picture>
+        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
+Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Брус&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
+Выезд и счет сметы для вас бесплатен!</description>
+        <param name="Общая площадь">90 м²</param>
+      </offer>
       <offer id="132808461" available="true">
         <name>Квартира,  м², ТСН Раздолье тер.</name>
         <price>1200000</price>
@@ -304,58 +320,6 @@
 &lt;br /&gt;
 Документы полностью готовы к сделке: свободная продажа, один взрослый собственник, основание права собственности - ДКП от 2020 года, полная цена в договоре купли-продажи. &lt;br /&gt;
 Не упустите свой шанс создать идеальное место для жизни и отдыха в окружении нетронутой природы! Звоните, чтобы задать уточняющие вопросы и записаться на показ!</description>
-      </offer>
-      <offer id="137738533" available="true">
-        <name>3-к квартира, 40.5 м², Клишино д.</name>
-        <price>4500000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/c47ba1b8e0acbeea424eb46ffbb04c64e9e2f939171c382ef63b6b7720f1a9f8</picture>
-        <picture>https://files-p.topnlab.ru/6f91e1b431f076053e5175c0133b385cac8b4a818249107a8711087914ae9166</picture>
-        <picture>https://files-p.topnlab.ru/b96e68c8717653fc9067622f53a42c349dd593ade65dc2084faf67e29058023e</picture>
-        <picture>https://files-p.topnlab.ru/ab46f0bfa2ef2d0926d26d112214f5f8e060930485641b67aa01daa5073f678b</picture>
-        <picture>https://files-p.topnlab.ru/7a8ee8d7e8cdd40e88521476f4900dc2c1efd77b95714803df208339b1142e16</picture>
-        <picture>https://files-p.topnlab.ru/add7dfdd6533b53851018bfeb612b3fbe09628233ac5a53bbb19fab2a3e2d90b</picture>
-        <picture>https://files-p.topnlab.ru/b4b3cc793c47c8a0e5fcf8f5318b8b26e2d2f36a426b2615f1df55293411d374</picture>
-        <picture>https://files-p.topnlab.ru/7573ad7c8eda8555007c04a8ae7b300deda3e740ae7016a58ad5bf1c8ac95ceb</picture>
-        <picture>https://files-p.topnlab.ru/08af8a3f2dcb8fbde496b69efd6d574d0563c3d331def5e2bf4bc1a46d7b12b6</picture>
-        <picture>https://files-p.topnlab.ru/9fa7eda501566f9409f838cfd46422b99d988ea5259ec091c15b14fe346ef47d</picture>
-        <picture>https://files-p.topnlab.ru/7be768d6556ae3b665b09fc80169a6a183eacfbea813dbf4f24419e869e0dfba</picture>
-        <picture>https://files-p.topnlab.ru/ed6a23ec5c025adbf440d93e8b59668e03ef21d7dcd9d45f4a6321ff047638ab</picture>
-        <picture>https://files-p.topnlab.ru/866d861e7122a14361de780d57529367fc6f1c55ba42e4fe4f10deea3c483f1b</picture>
-        <picture>https://files-p.topnlab.ru/0137a1a5b2c643b109b408810f87d7e1c5720ed596f0adbc9c1771c7ea5d81b9</picture>
-        <picture>https://files-p.topnlab.ru/2e32083fb81228ce121831c70a33efb8a0785a5f49ae2fac6b02befee9f7dfff</picture>
-        <picture>https://files-p.topnlab.ru/b1ebf273cd7cfe273303044b3343c17e65d6a859c275aef248f8d6188d06b2ba</picture>
-        <picture>https://files-p.topnlab.ru/50d4d1af539b5743d08c4d073c61a0d2f09f14f50667201a80f8f68b94a52b22</picture>
-        <picture>https://files-p.topnlab.ru/215dc63490bda0f10d0411fa22c92b0ea88fe1904ec96fb232df48dca0769119</picture>
-        <picture>https://files-p.topnlab.ru/bed880da0525b0144ce2d6bdad268fb4a98c90c1ac1103c038718956e8a9d4c1</picture>
-        <picture>https://files-p.topnlab.ru/b2f03f80b362013b9c892cf416ab804ce030f5265de241f543f3b313757c7a7e</picture>
-        <picture>https://files-p.topnlab.ru/ae7b7ca848399605299db62366a88d77e82494fd02826782caf188dccf57b1b4</picture>
-        <picture>https://files-p.topnlab.ru/15dbcd84a6bad911191fd29bddb726c1342df9e6dd7312ea3a81578c0f193b6f</picture>
-        <picture>https://files-p.topnlab.ru/a3da2b1374512391fd3be39e318c16f3eb63d5477dd71fa0dac507eb42fd92bd</picture>
-        <picture>https://files-p.topnlab.ru/e8f161f3edbab1c91d05a1e89cfe9d2ce416f95d42f7bf0da57e829f666dc75f</picture>
-        <picture>https://files-p.topnlab.ru/28ca665b0853b92965f83e46b6d836b816b9f3b1a467e24fbafd2b05729ac761</picture>
-        <picture>https://files-p.topnlab.ru/e692dfea41063d3ffd52836c26d0ca71e0242a87e7a50efc747256a13a1782d0</picture>
-        <picture>https://files-p.topnlab.ru/c66009709d6de1775af8be7e280440fbce6b10b832082cef36da50528937eb8e</picture>
-        <picture>https://files-p.topnlab.ru/201ab6070e42dcf4068678e534aec55a8ffbeab582d9a716fa6aefdda11bb8f4</picture>
-        <picture>https://files-p.topnlab.ru/b3b7798e25e3998d5ab1a6db44e7cfd494fe2fd46b2d8271c6a773e87735c2c9</picture>
-        <picture>https://files-p.topnlab.ru/08c981fcf19638ce4ba340bb51db1188089b761416e9d2f8acb88ff38dd21545</picture>
-        <description>Садовая ул., 7А. Продаётся дачный дом на ухоженном участке 8,34 сотки в д. Клишино Волоколамского района. Категория земли — земли населённых пунктов, ВРИ — ЛПХ.&lt;br /&gt;
-&lt;br /&gt;
-Дом из бруса, утеплён, на ленточном фундаменте, отделан сайдингом. По ЕГРН площадь дома 40,5 м², фактически используется дополнительное мансардное пространство. В доме 4 комнаты, помещения меблированы, есть всё необходимое для проживания. Отопление электрическое. &lt;br /&gt;
-Примыкающих соседских участков нет, есть вероятность увеличить площадь участка.  Возможность и условия определяются администрацией.&lt;br /&gt;
-&lt;br /&gt;
-Участок ровный, сухой, правильной формы, полностью разработан и ухожен. Территория огорожена профлистом. Много зелени: плодовые деревья, цветники, хвойные деревья и кустарники.&lt;br /&gt;
-На участке есть баня с душевой, раковиной и бойлером 100 л, просторная летняя кухня, теплица 6×3 м, хозблок, беседка, мини-пруд, оцинкованные грядки, ворота и стоянка для автомобиля, курятник.&lt;br /&gt;
-&lt;br /&gt;
-Коммуникации: центральный поселковый водопровод, артезианская скважина 51 м, электричество 8 кВт, газ по границе участка. Вода разведена по участку, заведена на кухню, в душевую и к уличной раковине.&lt;br /&gt;
-&lt;br /&gt;
-Тихое экологичное место. В пешей доступности река, пляж, рыбалка, лес. До автобусной остановки 5 минут пешком. Рядом школа, детский сад, почта, медпункт, магазины, Ozon и Wildberries.&lt;br /&gt;
-&lt;br /&gt;
-Дом зарегистрирован как жилой, возможна прописка. Один взрослый собственник. Обременений нет.</description>
-        <param name="Общая площадь">40.5 м²</param>
-        <param name="Адрес">Садовая ул., 7А</param>
       </offer>
       <offer id="138606754" available="true">
         <name>Квартира, 13.5 м², Красногорск г.</name>
@@ -512,6 +476,66 @@ Sky Sputnik расположен рядом с Живописной бухтой
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui</description>
         <param name="Общая площадь">55.9 м²</param>
         <param name="Адрес">Центральная ул., 114</param>
+      </offer>
+      <offer id="143427335" available="true">
+        <name>1-к квартира, 39.1 м², Красногорск г.</name>
+        <price>15300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/face5c5ce52014df306b7fa70b0e619717195b37eccb789ddbfeb458ee62d0e8</picture>
+        <picture>https://files-p.topnlab.ru/425fe32c612e88c2174844d436b647f35775e3f28c56f43eb25d86d7971fb010</picture>
+        <picture>https://files-p.topnlab.ru/293c0a36824e6cdca5e4c3bb105b8331d4e4ea25edb567240d0104c57dd59968</picture>
+        <picture>https://files-p.topnlab.ru/32082765be9368e1dda80ffef284d89f58942ddb5c1033683fc47cb42d378599</picture>
+        <picture>https://files-p.topnlab.ru/542746a1eb8d25c626161772bbb059d988f0f3c37f6bc3feb1d27d33f96646d3</picture>
+        <picture>https://files-p.topnlab.ru/edf2064b13232bfe05e480c2982e27d2b0c8ec78bea2a251f020a4de9bfdb0d8</picture>
+        <picture>https://files-p.topnlab.ru/16b5710f8c1e3e599bcb7666e84b28be9e1b758204f05c89fa2e96f30a44202b</picture>
+        <picture>https://files-p.topnlab.ru/56d1244da347b12be5a1aeb42caf249bdae1596be9000e6145ed5e711e8feae0</picture>
+        <picture>https://files-p.topnlab.ru/ed7aae7def0adde70619910273779cc061375fda39c93d031e6bd505de85731a</picture>
+        <picture>https://files-p.topnlab.ru/0ea0b6ad09d362937cef6d969120195fd6938e8b85bf7c679872b29820065111</picture>
+        <picture>https://files-p.topnlab.ru/20fc0799a11c4ca4b16e3ce07904633a77dcfcce46db1901223ef9d197bae907</picture>
+        <picture>https://files-p.topnlab.ru/db83d89e95e276cb95b4919d05d73997ace7bf88e3f2b6de621e0b9c529db58a</picture>
+        <picture>https://files-p.topnlab.ru/8137c66bd7e01f977c6bf7f23b8dfca30e3220c729855c11f8063603ddae3b49</picture>
+        <picture>https://files-p.topnlab.ru/79d0a6c205d4ab8f4f2626d061f082897f9eec404653efe1f9c4ccdf47919f6d</picture>
+        <picture>https://files-p.topnlab.ru/ac7dc12c9fa57796a7c962c1d725b69036aaef139f355aa5d5b2c67c32575a31</picture>
+        <picture>https://files-p.topnlab.ru/0b0db33edda856f3a571d550832c2865fcba2a0bfe8840b1ab2037af7710bb7a</picture>
+        <picture>https://files-p.topnlab.ru/2922f5e865338bb233e2cd6f647a1e667bb3ba94881da46042fd441aec501829</picture>
+        <picture>https://files-p.topnlab.ru/eef84c02ccc1fe4c3e4081fcde1b387807bf5027f41fc973281938b805d60ed2</picture>
+        <picture>https://files-p.topnlab.ru/f760c2cc37d3361a323363aaffb4230e51c1420fd897da4786a7885331316169</picture>
+        <picture>https://files-p.topnlab.ru/26a765277161bea335ac6c7a6fc2dca4a506a60763c023c35d31d9256e9f77eb</picture>
+        <picture>https://files-p.topnlab.ru/bd09425a280d7e6309b6560cf23e17dabc562bd0ef133d5a4fe4cbe814c03282</picture>
+        <picture>https://files-p.topnlab.ru/90ee4f23636b0c5e068550c903c5e325c397b219f85ef9993dc5b761752cc9b8</picture>
+        <picture>https://files-p.topnlab.ru/49c3bc35960782f62450cac5b595940a0fb226f2634e6e598c43295f3a044ddf</picture>
+        <picture>https://files-p.topnlab.ru/bae8f37f9e3627cd746a98ead587b9d40aa19ab8d54c72b53fa59cd698a6fd6d</picture>
+        <picture>https://files-p.topnlab.ru/7cf0cdb5714a46c4ad912e8894e95ec604591b603e0d6e84903720c623766aca</picture>
+        <picture>https://files-p.topnlab.ru/da53be25b3bc153806a9d32aa004fe3b284b4258cd5d1b472ae6e62d4263baf8</picture>
+        <picture>https://files-p.topnlab.ru/32ffd441c98c604b733c78dc48d15d23ba0e2ed759f68db63d5b0b8502d66254</picture>
+        <picture>https://files-p.topnlab.ru/5299d7752f13ecff5523d738807357843e276c437ce0c6eeb91afe523331426c</picture>
+        <picture>https://files-p.topnlab.ru/91f5b6c016f8d142ec77c14fbdd72b007af4f9a8d6f0522ecfca706b305fe2a2</picture>
+        <picture>https://files-p.topnlab.ru/c4e3c0b56db9a7b6d2b21b0c01cf517e246941cf47d71e7f8fda5c8b495056f3</picture>
+        <picture>https://files-p.topnlab.ru/3119aa678d5ef26b332eb6147141c55ac644ba27a8b6a71575ad96064349a804</picture>
+        <picture>https://files-p.topnlab.ru/6c6e71b372001b61a674abb1fb9ce42c263f78b5a549fa7afcc6909766d9e4b3</picture>
+        <picture>https://files-p.topnlab.ru/bb0b15cd0cadfc5c7bcbd792de795bdef2b8c0a016e2993e7dcbc5f023de222d</picture>
+        <picture>https://files-p.topnlab.ru/147dd9827f74ee89b2af74c1b0c78b27930af3973da7b835c52b2c2ba5d93296</picture>
+        <picture>https://files-p.topnlab.ru/a8ea1acc3eee862963098f3f1df6694eb95b8b3785c3909c7180b74dab2b05db</picture>
+        <picture>https://files-p.topnlab.ru/d93c1ceaac2e35c6942aa09095ded3861f40597b00a2da316a40258445878c5f</picture>
+        <picture>https://files-p.topnlab.ru/ccee4a3aeb67b98c469273fc2297e0f903873f212599a7f3b0c92ba75d76d095</picture>
+        <picture>https://files-p.topnlab.ru/fb7521a984ea76f47be2f699b9753b37199ef210e18220c6e974232ca43b2be9</picture>
+        <picture>https://files-p.topnlab.ru/e1f9e58d2ec3011476e67861b46b090fdd77055d70c7440c27b1c4b47077cfec</picture>
+        <description>Липовой Рощи ул., 4, к 1. Добро пожаловать в мир комфорта и стиля! Представляем вашему вниманию уникальные однокомнатные апартаменты в современном ЖК "Спутник".&lt;br /&gt;
+&lt;br /&gt;
+Это идеальное предложение для тех, кто ценит время, качество и продуманный дизайн. &lt;br /&gt;
+Апартаменты с оптимальной планировкой: просторная жилая комната площадью 19 кв.м и уютная кухня 12.3 кв.м. &lt;br /&gt;
+Особое внимание уделено лоджии площадью 2.8 кв.м, которая утеплена и оборудована теплыми полами, что позволяет использовать ее круглый год как полноценную зону отдыха. &lt;br /&gt;
+Здесь выполнен эксклюзивный дизайнерский ремонт с использованием дорогих и качественных итальянских отделочных материалов, создающих атмосферу роскоши и уюта. &lt;br /&gt;
+Вам не придется беспокоиться о переезде – новым хозяевам остаются вся мебель и высококачественная встроенная бытовая техника. &lt;br /&gt;
+Прямо под окнами расположены зоны с детскими игровыми комплексами и уличными тренажерами для занятий спортом, обеспечивая удобство и безопасность для всей семьи.&lt;br /&gt;
+&lt;br /&gt;
+Развитая инфраструктура:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Транспортная доступность: К концу 2027 года всего в 400 метрах от подъезда запланировано открытие новой станции метро "Липовая Роща", что значительно улучшит транспортное сообщение. Уже сейчас в 290 метрах от дома находится ближайшая остановка общественного транспорта «По требованию». От остановок "ЖК Спутник" или "Липовая роща" курсируют автобусы и маршрутки до таких конечных точек, как Рублёво, ТЦ Европарк, Мякинино парк, Крылатское, Строгино и Щукинская. Автобус № 640 довезет до станций Трикотажная и Тушинская (остановка "Трамвайное депо").&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Магазины: Вам всегда будет доступно все необходимое в шаговой доступности. Прямо в здании по адресу ул. Липовой Рощи, 4, корп. 1 находится пункт выдачи "Яндекс Маркет", а буквально в 50-100 метрах расположены пекарня "Буханка" и супермаркеты "Мираторг" (ул. Липовой Рощи, 2, корп. 1, около 108 м) и "ВкусВилл" (ул. Липовой Рощи, 5, корп. 6). Также поблизости есть супермаркет "Дикси" (ул. Липовой Рощи, 6 к2). Хозяйственный магазин "МногоВсего" находится на ул. Липовой Рощи, 1 к1, примерно в 200 метрах.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Образование и развитие: В центре ЖК расположена частная школа "Самолетум" (ул. Тенистых Аллей, 2). Расстояние до нее составляет около 400 метров). Школа имеет высокий рейтинг 5.0/5. Отзывы родителей смешанные: отмечают высокое качество обучения, обширный выбор секций (бадминтон, баскетбол, джиу-джитсу, спортивно-бальные танцы, футбол, художественная гимнастика, шахматы, робототехника, курсы творчества) и хорошую атмосферу, а также профессионализм некоторых педагогов. Рядом расположены многочисленные детские сады: "Детский сад Полет" (ул. </description>
+        <param name="Общая площадь">39.1 м²</param>
+        <param name="Адрес">Липовой Рощи ул., 4, к 1</param>
       </offer>
       <offer id="143511227" available="true">
         <name>2-к квартира, 43.1 м², Красногорск г.</name>
@@ -785,31 +809,6 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
 Основание приобретени</description>
         <param name="Общая площадь">31.1 м²</param>
       </offer>
-      <offer id="144964832" available="true">
-        <name>Квартира, 14 м², Красногорск г.</name>
-        <price>9000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/889a44e2bbf8d86f2d8aa1c7f14851601ab2a9246e2a3d8d59330928170ee00c</picture>
-        <picture>https://files-p.topnlab.ru/6df25718cf1e08bf1f7ceafb8fc28b53b24ece62beabf4e70f5d03b2ab3c9f55</picture>
-        <picture>https://files-p.topnlab.ru/ec874b7d39a48c1e596c7ff6a0f2614e088d5df47e31e977a87ac6012226e1d8</picture>
-        <picture>https://files-p.topnlab.ru/0b66528e2590c7bc4b622cd5f5aae9c6ce257309c1053ee84ac12f6383d1d791</picture>
-        <description>Жуковского ул., 19. Сдается на зимний период (по май 2027 года включительно) машиноместо в ЖК Red Hills, площадь 14 кв.м.&lt;br /&gt;
-&lt;br /&gt;
-Почему выгодно выбрать именно это машиноместо?&lt;br /&gt;
-&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сухой и теплый подземный паркинг — защита от осадков и перепадов температур круглый год.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Безопасность и спокойствие — закрытая территория, видеонаблюдение, доступ только для владельцев.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Комфортный заезд и выезд — никакой суеты и пробок!&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Размер идеально подойдет для легкового автомобиля.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Выгодная цена: аренда всего 9 000 руб./мес.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Оплата при подписании договора - первый месяц + комиссия агентства (50% от одномесячного платежа). &lt;br /&gt;
-&lt;br /&gt;
-Звоните прямо сейчас и запишитесь на просмотр! Агентство "Самолет Плюс" — надежные сделки с проверенными объектами.</description>
-        <param name="Общая площадь">14 м²</param>
-        <param name="Адрес">Жуковского ул., 19</param>
-      </offer>
       <offer id="145040248" available="true">
         <name>1-к квартира, 31.6 м², Опалиха мкр</name>
         <price>40000</price>
@@ -907,82 +906,6 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
 &lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
 Выезд и счет сметы для вас бесплатен!</description>
         <param name="Общая площадь">150 м²</param>
-      </offer>
-      <offer id="132690959" available="true">
-        <name>4-к квартира, 90 м², Красногорск г.</name>
-        <price>8000000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/d485318cfff9b5b6de5c28e7dacf01fa45041b4fe083300ac32ddbbab8b5ce37</picture>
-        <description>. Занимаемся строительством домов из разных материалов. Проект дома может быть от наших партнеров или ваш. &lt;br /&gt;
-Из чего строим?&lt;ol&gt;&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Блок&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Брус&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кирпич&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Сендвич-панели&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="ordered"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Каркасные модули&lt;/li&gt;&lt;/ol&gt;&lt;br /&gt;
-Выезд и счет сметы для вас бесплатен!</description>
-        <param name="Общая площадь">90 м²</param>
-      </offer>
-      <offer id="143427335" available="true">
-        <name>1-к квартира, 39.1 м², Красногорск г.</name>
-        <price>15300000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/face5c5ce52014df306b7fa70b0e619717195b37eccb789ddbfeb458ee62d0e8</picture>
-        <picture>https://files-p.topnlab.ru/425fe32c612e88c2174844d436b647f35775e3f28c56f43eb25d86d7971fb010</picture>
-        <picture>https://files-p.topnlab.ru/293c0a36824e6cdca5e4c3bb105b8331d4e4ea25edb567240d0104c57dd59968</picture>
-        <picture>https://files-p.topnlab.ru/32082765be9368e1dda80ffef284d89f58942ddb5c1033683fc47cb42d378599</picture>
-        <picture>https://files-p.topnlab.ru/542746a1eb8d25c626161772bbb059d988f0f3c37f6bc3feb1d27d33f96646d3</picture>
-        <picture>https://files-p.topnlab.ru/edf2064b13232bfe05e480c2982e27d2b0c8ec78bea2a251f020a4de9bfdb0d8</picture>
-        <picture>https://files-p.topnlab.ru/16b5710f8c1e3e599bcb7666e84b28be9e1b758204f05c89fa2e96f30a44202b</picture>
-        <picture>https://files-p.topnlab.ru/56d1244da347b12be5a1aeb42caf249bdae1596be9000e6145ed5e711e8feae0</picture>
-        <picture>https://files-p.topnlab.ru/ed7aae7def0adde70619910273779cc061375fda39c93d031e6bd505de85731a</picture>
-        <picture>https://files-p.topnlab.ru/0ea0b6ad09d362937cef6d969120195fd6938e8b85bf7c679872b29820065111</picture>
-        <picture>https://files-p.topnlab.ru/20fc0799a11c4ca4b16e3ce07904633a77dcfcce46db1901223ef9d197bae907</picture>
-        <picture>https://files-p.topnlab.ru/db83d89e95e276cb95b4919d05d73997ace7bf88e3f2b6de621e0b9c529db58a</picture>
-        <picture>https://files-p.topnlab.ru/8137c66bd7e01f977c6bf7f23b8dfca30e3220c729855c11f8063603ddae3b49</picture>
-        <picture>https://files-p.topnlab.ru/79d0a6c205d4ab8f4f2626d061f082897f9eec404653efe1f9c4ccdf47919f6d</picture>
-        <picture>https://files-p.topnlab.ru/ac7dc12c9fa57796a7c962c1d725b69036aaef139f355aa5d5b2c67c32575a31</picture>
-        <picture>https://files-p.topnlab.ru/0b0db33edda856f3a571d550832c2865fcba2a0bfe8840b1ab2037af7710bb7a</picture>
-        <picture>https://files-p.topnlab.ru/2922f5e865338bb233e2cd6f647a1e667bb3ba94881da46042fd441aec501829</picture>
-        <picture>https://files-p.topnlab.ru/eef84c02ccc1fe4c3e4081fcde1b387807bf5027f41fc973281938b805d60ed2</picture>
-        <picture>https://files-p.topnlab.ru/f760c2cc37d3361a323363aaffb4230e51c1420fd897da4786a7885331316169</picture>
-        <picture>https://files-p.topnlab.ru/26a765277161bea335ac6c7a6fc2dca4a506a60763c023c35d31d9256e9f77eb</picture>
-        <picture>https://files-p.topnlab.ru/bd09425a280d7e6309b6560cf23e17dabc562bd0ef133d5a4fe4cbe814c03282</picture>
-        <picture>https://files-p.topnlab.ru/90ee4f23636b0c5e068550c903c5e325c397b219f85ef9993dc5b761752cc9b8</picture>
-        <picture>https://files-p.topnlab.ru/49c3bc35960782f62450cac5b595940a0fb226f2634e6e598c43295f3a044ddf</picture>
-        <picture>https://files-p.topnlab.ru/bae8f37f9e3627cd746a98ead587b9d40aa19ab8d54c72b53fa59cd698a6fd6d</picture>
-        <picture>https://files-p.topnlab.ru/7cf0cdb5714a46c4ad912e8894e95ec604591b603e0d6e84903720c623766aca</picture>
-        <picture>https://files-p.topnlab.ru/da53be25b3bc153806a9d32aa004fe3b284b4258cd5d1b472ae6e62d4263baf8</picture>
-        <picture>https://files-p.topnlab.ru/32ffd441c98c604b733c78dc48d15d23ba0e2ed759f68db63d5b0b8502d66254</picture>
-        <picture>https://files-p.topnlab.ru/5299d7752f13ecff5523d738807357843e276c437ce0c6eeb91afe523331426c</picture>
-        <picture>https://files-p.topnlab.ru/91f5b6c016f8d142ec77c14fbdd72b007af4f9a8d6f0522ecfca706b305fe2a2</picture>
-        <picture>https://files-p.topnlab.ru/c4e3c0b56db9a7b6d2b21b0c01cf517e246941cf47d71e7f8fda5c8b495056f3</picture>
-        <picture>https://files-p.topnlab.ru/3119aa678d5ef26b332eb6147141c55ac644ba27a8b6a71575ad96064349a804</picture>
-        <picture>https://files-p.topnlab.ru/6c6e71b372001b61a674abb1fb9ce42c263f78b5a549fa7afcc6909766d9e4b3</picture>
-        <picture>https://files-p.topnlab.ru/bb0b15cd0cadfc5c7bcbd792de795bdef2b8c0a016e2993e7dcbc5f023de222d</picture>
-        <picture>https://files-p.topnlab.ru/147dd9827f74ee89b2af74c1b0c78b27930af3973da7b835c52b2c2ba5d93296</picture>
-        <picture>https://files-p.topnlab.ru/a8ea1acc3eee862963098f3f1df6694eb95b8b3785c3909c7180b74dab2b05db</picture>
-        <picture>https://files-p.topnlab.ru/d93c1ceaac2e35c6942aa09095ded3861f40597b00a2da316a40258445878c5f</picture>
-        <picture>https://files-p.topnlab.ru/ccee4a3aeb67b98c469273fc2297e0f903873f212599a7f3b0c92ba75d76d095</picture>
-        <picture>https://files-p.topnlab.ru/fb7521a984ea76f47be2f699b9753b37199ef210e18220c6e974232ca43b2be9</picture>
-        <picture>https://files-p.topnlab.ru/e1f9e58d2ec3011476e67861b46b090fdd77055d70c7440c27b1c4b47077cfec</picture>
-        <description>Липовой Рощи ул., 4, к 1. Добро пожаловать в мир комфорта и стиля! Представляем вашему вниманию уникальные однокомнатные апартаменты в современном ЖК "Спутник".&lt;br /&gt;
-&lt;br /&gt;
-Это идеальное предложение для тех, кто ценит время, качество и продуманный дизайн. &lt;br /&gt;
-Апартаменты с оптимальной планировкой: просторная жилая комната площадью 19 кв.м и уютная кухня 12.3 кв.м. &lt;br /&gt;
-Особое внимание уделено лоджии площадью 2.8 кв.м, которая утеплена и оборудована теплыми полами, что позволяет использовать ее круглый год как полноценную зону отдыха. &lt;br /&gt;
-Здесь выполнен эксклюзивный дизайнерский ремонт с использованием дорогих и качественных итальянских отделочных материалов, создающих атмосферу роскоши и уюта. &lt;br /&gt;
-Вам не придется беспокоиться о переезде – новым хозяевам остаются вся мебель и высококачественная встроенная бытовая техника. &lt;br /&gt;
-Прямо под окнами расположены зоны с детскими игровыми комплексами и уличными тренажерами для занятий спортом, обеспечивая удобство и безопасность для всей семьи.&lt;br /&gt;
-&lt;br /&gt;
-Развитая инфраструктура:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Транспортная доступность: К концу 2027 года всего в 400 метрах от подъезда запланировано открытие новой станции метро "Липовая Роща", что значительно улучшит транспортное сообщение. Уже сейчас в 290 метрах от дома находится ближайшая остановка общественного транспорта «По требованию». От остановок "ЖК Спутник" или "Липовая роща" курсируют автобусы и маршрутки до таких конечных точек, как Рублёво, ТЦ Европарк, Мякинино парк, Крылатское, Строгино и Щукинская. Автобус № 640 довезет до станций Трикотажная и Тушинская (остановка "Трамвайное депо").&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Магазины: Вам всегда будет доступно все необходимое в шаговой доступности. Прямо в здании по адресу ул. Липовой Рощи, 4, корп. 1 находится пункт выдачи "Яндекс Маркет", а буквально в 50-100 метрах расположены пекарня "Буханка" и супермаркеты "Мираторг" (ул. Липовой Рощи, 2, корп. 1, около 108 м) и "ВкусВилл" (ул. Липовой Рощи, 5, корп. 6). Также поблизости есть супермаркет "Дикси" (ул. Липовой Рощи, 6 к2). Хозяйственный магазин "МногоВсего" находится на ул. Липовой Рощи, 1 к1, примерно в 200 метрах.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Образование и развитие: В центре ЖК расположена частная школа "Самолетум" (ул. Тенистых Аллей, 2). Расстояние до нее составляет около 400 метров). Школа имеет высокий рейтинг 5.0/5. Отзывы родителей смешанные: отмечают высокое качество обучения, обширный выбор секций (бадминтон, баскетбол, джиу-джитсу, спортивно-бальные танцы, футбол, художественная гимнастика, шахматы, робототехника, курсы творчества) и хорошую атмосферу, а также профессионализм некоторых педагогов. Рядом расположены многочисленные детские сады: "Детский сад Полет" (ул. </description>
-        <param name="Общая площадь">39.1 м²</param>
-        <param name="Адрес">Липовой Рощи ул., 4, к 1</param>
       </offer>
     </offers>
   </shop>
