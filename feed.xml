@@ -521,28 +521,6 @@ Sky Sputnik расположен рядом с Живописной бухтой
 Постройте дом мечты на Вашем участке! Мы предлагаем уникальную возможно</description>
         <param name="Адрес">Центральная ул.</param>
       </offer>
-      <offer id="145095472" available="true">
-        <name>Квартира, 29 м², Красногорск г.</name>
-        <price>25000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/1e6cf9dea05a86b752b88b8a943a95b34f5c115847ae43b363f7b21e6c7f49a3</picture>
-        <picture>https://files-p.topnlab.ru/dcf808c432fdca05cc67cfd3caf15a448d93f796de37eb4e48e799be84b3f2fc</picture>
-        <picture>https://files-p.topnlab.ru/6a0906d5dd1c723cb889c210e70da101e89cfff6c65231e8e26c632aecf695a5</picture>
-        <picture>https://files-p.topnlab.ru/efd9f970cc732c6525f6246f77ee73868720882e4badab4b38dcd0da3176ff78</picture>
-        <picture>https://files-p.topnlab.ru/0cae275179c6e2e77763c6600ba7120216a32397331d1f5267505be99abd1a63</picture>
-        <picture>https://files-p.topnlab.ru/10fd58f0afba7d0b78ca0427efcc1dec37d94882e9af7ee4278b5d4dcfdb1fd4</picture>
-        <description>Народного Ополчения ул., 2Б, к 1. Сдаётся семейное парковочное место для 2-x автомобилей + кладовка&lt;br /&gt;
-Удобный заезд и выезд &lt;br /&gt;
-Охраняемая тёплая парковка&lt;br /&gt;
-Отличный вариант для длительной аренды&lt;br /&gt;
-Стоимость: 25.000 за 2 места и кладовку&lt;br /&gt;
-Оплата 1 и последний месяц.&lt;br /&gt;
-Адрес: г. Красногорск, Народное Ополчение д. 2 Б к.1</description>
-        <param name="Общая площадь">29 м²</param>
-        <param name="Адрес">Народного Ополчения ул., 2Б, к 1</param>
-      </offer>
       <offer id="145633462" available="true">
         <name>Квартира, 52 м², Марьино д.</name>
         <price>120000</price>
@@ -783,6 +761,56 @@ Sky Sputnik расположен рядом с Живописной бухтой
         <param name="Общая площадь">46.5 м²</param>
         <param name="Адрес">Ильинское ш., 1</param>
       </offer>
+      <offer id="146139788" available="true">
+        <name>1-к квартира, 41.2 м², Красногорск г.</name>
+        <price>11100000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/1b58186229d4488c60f93d0264319dac2e757fb0ed1e3123c2cfabec3a6dbfb1</picture>
+        <picture>https://files-p.topnlab.ru/e8b5b057183b4ff55a728fc4ebcc778a5f6b7003e4ae6dc63203fe36e69edb30</picture>
+        <picture>https://files-p.topnlab.ru/095815282a9cd66a1d439771c9c485eac1ea5e4862ec394f8c2e058ab999a2fa</picture>
+        <picture>https://files-p.topnlab.ru/94fd93a683ce2ea902777422078636cee0d55dcfc0ce70c11a726ce18a7d95fa</picture>
+        <picture>https://files-p.topnlab.ru/49d4cd9e6146b9e8130d3a53eceff6210f8956d6e5cba631347ba2a385a8f4d6</picture>
+        <picture>https://files-p.topnlab.ru/49d1174e69cefb8a33bff598b4a2f7606fcc9e48323339cc2bf662609d88f8ce</picture>
+        <picture>https://files-p.topnlab.ru/5222657e11776535a1bbfd5b95b2484e66af95b89bb12b0cd4ea2bd70c6973ad</picture>
+        <picture>https://files-p.topnlab.ru/e00f7a7386bdb06e8ad5bbb7dcdc6dc592d8c53d4a3a440321da9b33ce8ddf52</picture>
+        <picture>https://files-p.topnlab.ru/28a6a49ea6809a03b4f425ad8cde62b4e142529eb56de68ee608e29126a3f35b</picture>
+        <picture>https://files-p.topnlab.ru/919aadc19685edc919d3631c5d9564ecd5a029c9dce4731bf0afa76ac42ef6b0</picture>
+        <picture>https://files-p.topnlab.ru/77ae71d35d8c7e8e2a79f0ef9c318507db001e38f297116ef29b394a98d5049e</picture>
+        <picture>https://files-p.topnlab.ru/bc8ea78e613dace7476835744fe098806fa79d13751cc40eabd9fe2379c403d0</picture>
+        <picture>https://files-p.topnlab.ru/8dcbbecf5557295d989a0c8666be4a0e4ed50b4101540574c122d4742edfb188</picture>
+        <picture>https://files-p.topnlab.ru/33d642d6e00e9dd3ef235f89883255475aa38b60829810a3eb53d67547731c92</picture>
+        <picture>https://files-p.topnlab.ru/b9d3e95077dc57f91230c6d8271d12f8dfdfd4a727d2fbe039c132205d721e6e</picture>
+        <picture>https://files-p.topnlab.ru/4b58b4bd80726ce087d0e86c87360fbca5754fed9982333e57c0f54b679bd1d8</picture>
+        <picture>https://files-p.topnlab.ru/46f77bf061bdee8af51578464f184f99304345856792886079c7e6eb9d1513fb</picture>
+        <picture>https://files-p.topnlab.ru/2376bc5bfac23b8afb4d1250c0e36f5d51007aa7ef5355ff8843cfbc1ffd78b7</picture>
+        <picture>https://files-p.topnlab.ru/3c281fefa90957492ef0131fab9b318754c86cd40c1a0e9cfc431cf9956d07b8</picture>
+        <picture>https://files-p.topnlab.ru/58d6851f750dc58962eb85bcf112e1ca5f53d3f8683afa336902fbfb19c99579</picture>
+        <picture>https://files-p.topnlab.ru/bb54d498489fdc37dcf9c72175a9787d4a181cfe4a458a77d9da24689abe62f5</picture>
+        <picture>https://files-p.topnlab.ru/864db0d372836fd924466596264e9adce1370dba782d90dddfa013d6a5b62e18</picture>
+        <picture>https://files-p.topnlab.ru/69dc7dd5db140ab847673e5cd396db167e74b0c26c3c4f6346a13c483d388e56</picture>
+        <picture>https://files-p.topnlab.ru/14e2713879e8a83b7735935e7d2f3f25546b083e14e02c3faae882d301d1e8b0</picture>
+        <picture>https://files-p.topnlab.ru/232ac20782756b53ee15a6690c4c6699d9bda06946b410749b7781c7025c791f</picture>
+        <picture>https://files-p.topnlab.ru/93098f3b5d8af014faa339b10bdae768d575bdc136766cea19a1ec30359fab0a</picture>
+        <picture>https://files-p.topnlab.ru/1dc5edb5201d5cacb9726adfbf32c348d0c9d263299fd6b5fb3fc0d5b78fa0d6</picture>
+        <description>Космонавтов б-р., 13. Ваша мечта ждет! Готовая к жизни 1-комнатная квартира с панорамным видом в ЖК "Изумрудные холмы".&lt;br /&gt;
+&lt;br /&gt;
+Представляем идеальное решение для тех, кто ценит комфорт и время! Эта просторная 1-комнатная квартира в престижном ЖК "Изумрудные холмы" продается со всей мебелью и бытовой техникой – вам останется только завезти личные вещи.&lt;br /&gt;
+&lt;br /&gt;
+Выгодные условия покупки:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ипотека: от 20,1% первоначального взноса (стандартные условия).&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Специальная ставка 12,25% на весь срок при первоначальном взносе от 30%.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Преимущества, которые вы оцените:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Вдохновляющие виды: Наслаждайтесь потрясающими закатами и панорамными видами с видового этажа.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Полностью укомплектована: Переезжайте без хлопот! Вся современная мебель и техника уже включены в стоимость.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Безопасная сделка: Свободная продажа, собственность с 2019 года, все документы проверены. Гарантия юридической чистоты от федерального агентства.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Инфраструктура "города в городе": ЖК "Изумрудные холмы" предлагает школы, детские сады, магазины, кафе и зоны отдыха прямо у дома.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Комфорт и безопасность: Закрытая, охраняемая территория, видеонаблюдение, консьерж и подземный паркинг для вашего спокойствия.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Не упустите возможность жить в квартире мечты! Звоните прямо сейчас, чтобы узнать подробности и договориться о просмотре!</description>
+        <param name="Общая площадь">41.2 м²</param>
+        <param name="Адрес">Космонавтов б-р., 13</param>
+      </offer>
       <offer id="109228151" available="true">
         <name>3-к квартира, 104.6 м², Красногорск г.</name>
         <price>23000000</price>
@@ -984,84 +1012,6 @@ Sky Sputnik расположен рядом с Живописной бухтой
         <param name="Общая площадь">43.1 м²</param>
         <param name="Адрес">Павшино в/г ул., 15</param>
       </offer>
-      <offer id="144103481" available="true">
-        <name>1-к квартира, 41.2 м², Красногорск г.</name>
-        <price>11000000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/7458f0f049f13a0fb2a7b8bbd472c202fa3d857ab86a48f855cab41570c39de9</picture>
-        <picture>https://files-p.topnlab.ru/2d5c535e112f1e3bcaadd74c1ab42898d4be22b09b75c0d208ce3133615fa9ec</picture>
-        <picture>https://files-p.topnlab.ru/dc9a5107a51052c90cec99ac062dc9265af0e25024c95df3bd7281259b77db5e</picture>
-        <picture>https://files-p.topnlab.ru/f65125c15b3f93485b4329d79a6d2f789e39bf1097b907395a3a0b475051c660</picture>
-        <picture>https://files-p.topnlab.ru/1a4ca000ab6f9794194474e971342ce15b35de23ffdec0ab58f5241d81f4273b</picture>
-        <picture>https://files-p.topnlab.ru/2fb66bec0858806a8120ede8dd048fd84a4d212f7500d7e2245f552bd620c764</picture>
-        <picture>https://files-p.topnlab.ru/0d2dfdedf7c6b35d5d790fd8f37ed93a5ee07dffec0a7db6a010bf954c2acbac</picture>
-        <picture>https://files-p.topnlab.ru/a8f1dccf83cf8d233cfe916043812ac4e0f4e8bcd519465ebefe0e5d9c0bcb36</picture>
-        <picture>https://files-p.topnlab.ru/d044703268e8cef3cd4fd488134bfc03dc847605db25f8ba46e7587d3463d560</picture>
-        <picture>https://files-p.topnlab.ru/493397c7a1b7b8ada3aa5e273a225b7ce09f44a579108b266d063168eab1e13f</picture>
-        <picture>https://files-p.topnlab.ru/93d1523a284668068bd853024c1712f1f2c22882b3634673cefd51d0b4aafaf2</picture>
-        <picture>https://files-p.topnlab.ru/86e75f6cdcbd8ffbe287bac2604ed60278d2839bd48cdc1e1af88a160991fffb</picture>
-        <picture>https://files-p.topnlab.ru/f85279d391ca2a488ac8c9aa62cc5e707c4d31051cde91e02e33d9b6ada432fa</picture>
-        <picture>https://files-p.topnlab.ru/0e3d744a151f307d9c5fb71c18e386d61bce514a3e2fb98e9840987ae168fc24</picture>
-        <picture>https://files-p.topnlab.ru/349f4383378507f5fc35a3835b21ebce1f2414b562a5821fd9bd87db3d0c9db0</picture>
-        <picture>https://files-p.topnlab.ru/3563ef7471ca53a102ddbaaa6499a125ef52acb33e93b01faff1c44dc5be6ccf</picture>
-        <picture>https://files-p.topnlab.ru/159a0de13fb01bf028ecc65fa386c7156a4937ef147302323dec2d62d7b02df8</picture>
-        <picture>https://files-p.topnlab.ru/9a0cbfcdbb4336d885fffb4ea694429549cd0c93a53479a23eaebf8a538a0537</picture>
-        <picture>https://files-p.topnlab.ru/bd02bf7348a37973c0b46b975b7487daf95b915ffb04422538aa6e4e40769dbb</picture>
-        <picture>https://files-p.topnlab.ru/e530d78d0936a64c8d7aa8f8968b365dee18970c751e42aecdefe2d6b6461123</picture>
-        <picture>https://files-p.topnlab.ru/2711600849d32f5f56b7c9e3b5909452c2727e9de2ad658e8240790eb33b2894</picture>
-        <picture>https://files-p.topnlab.ru/fb06a634f9df5717ccc27985876a3b3097af1dbdd30846b800d97012c9062326</picture>
-        <picture>https://files-p.topnlab.ru/432f5373da060da0dc3d98ea504a0d319629f4944aff5ae7e986761f2ab499e9</picture>
-        <picture>https://files-p.topnlab.ru/3ed71d7c685a1fec94386d08716fcc052ac8885825cfe83e148363ee84a532cc</picture>
-        <picture>https://files-p.topnlab.ru/85d27074b05478254716c58b97f13c0092ea4cb5f6fb3a4753d1239b98e085b1</picture>
-        <picture>https://files-p.topnlab.ru/17be8ad84c407faae8fa7191c3f24b2eb20413cc16989cd9c1112318227c824b</picture>
-        <picture>https://files-p.topnlab.ru/95bb43d09d1572921a686a10ab8dfeeec38bbcc7364537e86e4d1ab622499ee4</picture>
-        <picture>https://files-p.topnlab.ru/a666ffa543fe9e1b30f4d6e222cf45cdfb275a95b8502e1415ee21664e42cda9</picture>
-        <picture>https://files-p.topnlab.ru/c2f20762af169b3ba1ee3912c92ecbe5c686b2d7f2eaf64aad3c77d5239c4e15</picture>
-        <picture>https://files-p.topnlab.ru/5b88bc899b25b4247fdfd854036fe293133777edc72cda4844eec9e08d9da1c3</picture>
-        <picture>https://files-p.topnlab.ru/871ca70a4ac5c398e4ade6de5cc19b221bd1f5b90b2482380386c1bb25b26770</picture>
-        <picture>https://files-p.topnlab.ru/0facba3301a8de47a2bcdaf3ea943b9c666d326e4ee427d5defaab18ee2c84d8</picture>
-        <description>Космонавтов б-р., 13. Мечта ждет! Просторная 1-комнатная квартира с потрясающим видом в ЖК "Изумрудные холмы"!&lt;br /&gt;
-&lt;br /&gt;
-Эта квартира – готовое решение для комфортной жизни: вся мебель и бытовая техника остаются новому собственнику! Вам останется только завезти личные вещи и наслаждаться жизнью.&lt;br /&gt;
-&lt;br /&gt;
-ДАННЫЙ ОБЪЕКТ МОЖНО КУПИТЬ В ИПОТЕКУ на стандартных условиях с первоначальным взносом от 20,1%, &lt;br /&gt;
-ПО СТАВКЕ 12,25% НА ВЕСЬ СРОК с первоначальным взносом от 30%.&lt;br /&gt;
-&lt;br /&gt;
-Преимущества, которые Вы оцените:&lt;br /&gt;
-Видовой этаж: Ежедневно наслаждайтесь живописными закатами и панорамными видами из окон своей квартиры.&lt;br /&gt;
-Полностью укомплектована: Вся необходимая мебель и современная бытовая техника включены в стоимость – переезд без лишних хлопот!&lt;br /&gt;
-Юридическая чистота: Свободная продажа, собственность от января 2019 года, все документы проверены. Гарантия чистоты сделки от федерального агентства недвижимости обеспечивает Ваше спокойствие.&lt;br /&gt;
-Развитая инфраструктура: Жилой комплекс "Изумрудные холмы" — это полноценный город в городе с собственной развитой инфраструктурой, включая школы, детские сады, магазины, кафе и прогулочные зоны.&lt;br /&gt;
-Безопасность и комфорт: Закрытая, охраняемая территория, видеонаблюдение по периметру и в подъездах, консьерж, подземный паркинг.&lt;br /&gt;
-&lt;br /&gt;
-Транспортная доступность:&lt;br /&gt;
-Ближайшая станция МЦД: "Опалиха". Расстояние: 2750 метров (примерно 41 минута пешком). От станции МЦД "Опалиха" можно доехать на маршрутке № 120к (5 остановок) или на автобусе № 833 (6 остановок) до остановки "Госпиталь". От остановки "Госпиталь" до дома около 289 метров (4 минуты пешком).&lt;br /&gt;
-Автобусные маршруты в сторону Москвы:&lt;br /&gt;
-Маршрутка № 120к до станции метро "Тушинская" (13 остановок от остановки "Госпиталь", время в пути 25-30 минут).&lt;br /&gt;
-Автобус № 372 до станции метро "Тушинская" (14 остановок).&lt;br /&gt;
-Автобус № 542 до станции метро "Тушинская" (17 остановок).&lt;br /&gt;
-Маршрутка № 492к до станции метро "Митино" (19 остановок от остановки "Госпиталь", время в пути около 30 минут).&lt;br /&gt;
-&lt;br /&gt;
-Инфраструктура в шаговой доступности:&lt;br /&gt;
-Школы:&lt;br /&gt;
-Начальная школа №17 (бул. Космонавтов, 2): ~112 м.&lt;br /&gt;
-Начальная школа № 17, корпус № 2 (бул. Космонавтов, 15): ~112 м.&lt;br /&gt;
-Средняя общеобразовательная школа № 18 (бул. Космонавтов, 9): ~272 м.&lt;br /&gt;
-Детские сады:&lt;br /&gt;
-Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
-Виртуоз, академия искусств (бул. Космонавтов, 17): ~220 м. (также детский сад)&lt;br /&gt;
-Детский сад №8 (бул. Космонавтов, 3 и 5): ~233 м (бул. Космонавтов, 5) и ~710-740 м (бул. Космонавтов, 3).&lt;br /&gt;
-Развивайка (бул. Космонавтов, 7): ~400 м.&lt;br /&gt;
-Совенок (бул. Космонавтов, 1): ~220 м (на том же бульваре, что и Baby Land).&lt;br /&gt;
-Продуктовые магазины:&lt;br /&gt;
-Ярче! (бул. Космонавтов, 13): прямо в доме.&lt;br /&gt;
-Москвичка (ул. Игоря Мерлушкина, 8): ~100-200 м.&lt;br /&gt;
-Ермолино (бул. Космонавтов, 8Б): ~122 м.</description>
-        <param name="Общая площадь">41.2 м²</param>
-        <param name="Адрес">Космонавтов б-р., 13</param>
-      </offer>
       <offer id="144934772" available="true">
         <name>1-к квартира, 31.1 м², Инженерный 1 п.</name>
         <price>5500000</price>
@@ -1118,6 +1068,28 @@ Baby Land (бул. Космонавтов, 1): ~220 м.&lt;br /&gt;
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Недалеко находится историческая Усадьба Никольское-Урюпино – прекрасное место для культурного досуга. &lt;/li&gt; &lt;br /&gt;
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;В Красногорске (примерно 9 км) расположены крупные торговые центры, такие как "Крокус Экспо", "Box city", "Солнечный Рай" и "Клён", предлагающие широкий выбор маг</description>
         <param name="Общая площадь">31.1 м²</param>
+      </offer>
+      <offer id="145095472" available="true">
+        <name>Квартира, 29 м², Красногорск г.</name>
+        <price>25000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/1e6cf9dea05a86b752b88b8a943a95b34f5c115847ae43b363f7b21e6c7f49a3</picture>
+        <picture>https://files-p.topnlab.ru/dcf808c432fdca05cc67cfd3caf15a448d93f796de37eb4e48e799be84b3f2fc</picture>
+        <picture>https://files-p.topnlab.ru/6a0906d5dd1c723cb889c210e70da101e89cfff6c65231e8e26c632aecf695a5</picture>
+        <picture>https://files-p.topnlab.ru/efd9f970cc732c6525f6246f77ee73868720882e4badab4b38dcd0da3176ff78</picture>
+        <picture>https://files-p.topnlab.ru/0cae275179c6e2e77763c6600ba7120216a32397331d1f5267505be99abd1a63</picture>
+        <picture>https://files-p.topnlab.ru/10fd58f0afba7d0b78ca0427efcc1dec37d94882e9af7ee4278b5d4dcfdb1fd4</picture>
+        <description>Народного Ополчения ул., 2Б, к 1. Сдаётся семейное парковочное место для 2-x автомобилей + кладовка&lt;br /&gt;
+Удобный заезд и выезд &lt;br /&gt;
+Охраняемая тёплая парковка&lt;br /&gt;
+Отличный вариант для длительной аренды&lt;br /&gt;
+Стоимость: 25.000 за 2 места и кладовку&lt;br /&gt;
+Оплата 1 и последний месяц.&lt;br /&gt;
+Адрес: г. Красногорск, Народное Ополчение д. 2 Б к.1</description>
+        <param name="Общая площадь">29 м²</param>
+        <param name="Адрес">Народного Ополчения ул., 2Б, к 1</param>
       </offer>
     </offers>
   </shop>
