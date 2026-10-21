@@ -11,35 +11,6 @@
       <category id="1">Квартиры</category>
     </categories>
     <offers>
-      <offer id="66110152" available="true">
-        <name>4-к квартира, 219 м², Тимошкино д.</name>
-        <price>8500000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/9dc0a7a0173942ee6eb94426554b5f23d8d2fd2065b11d054ba3096086cc4cf2</picture>
-        <picture>https://files-p.topnlab.ru/e10925d9eba2eb8159ac8b25865f4cc513f299d3d9a7520e774e1f5956b481ef</picture>
-        <picture>https://files-p.topnlab.ru/88e5078baaa1fdfe8f989e946bee6a993dcf38bec5af71bf492bf2995f694ff5</picture>
-        <picture>https://files-p.topnlab.ru/77792d4f45815d96b08121622f786c4664ad6a6bbf5b1f24b18bc307de14c094</picture>
-        <picture>https://files-p.topnlab.ru/4b02e26f66be9ae279c5871726f6a2909faec865f8408d5eae6c45565fc1ecd6</picture>
-        <picture>https://files-p.topnlab.ru/ab88a39da77b062a28e26863f5e074a41711504bdb839342c1642666b9f93879</picture>
-        <picture>https://files-p.topnlab.ru/9432b14a69e16b9cae509cfda4b5feec472759cb1122e697e174514df78aee43</picture>
-        <picture>https://files-p.topnlab.ru/9cd717cb2797d789453fda81f913159e516c96304dfb27b2f4d72d8d9798a424</picture>
-        <picture>https://files-p.topnlab.ru/b797d12731010480bd67d3ee4b45590ae555c28774f7fe35ac8be49b02341544</picture>
-        <picture>https://files-p.topnlab.ru/2a121dddb8f4f68aaec38ce9a6c6e4d9f12f3ebecae31aa71936acc6366a17ec</picture>
-        <picture>https://files-p.topnlab.ru/32b05d8ce2a2f1b8abe14365e7898917336b3c1e6324bd28ea14dc33218151f2</picture>
-        <picture>https://files-p.topnlab.ru/a9f0712cc659a0194e31e3b0bee62926db0ddfb64ac998bd173b6661ebcb4bc1</picture>
-        <picture>https://files-p.topnlab.ru/26392b25ef0b4d19379ccd11f0f481da043cbf770e6a2c2e7423aa2628f37003</picture>
-        <picture>https://files-p.topnlab.ru/8f7425f9d1a11aa818af83a10d0788812b76965077c9bac1119665162c46a180</picture>
-        <picture>https://files-p.topnlab.ru/95021039045e6cb78629aa9864a98df6eac2de13fba00cd963347e5bce334e80</picture>
-        <picture>https://files-p.topnlab.ru/0be022cbf7fccbcd23a671ea91599ef1bd7e81fb8df221c28a0b908701a1a074</picture>
-        <picture>https://files-p.topnlab.ru/892f886c771874670e41032863a8a97522e18a8540af0af486b3b63f8833bc16</picture>
-        <description>. Продаю двухэтажный дом для круглогодичного проживания, 219кв.м на участке 6 соток в огороженном, охраняемом СНТ "Земля" вблизи д. Тимошкино Красногорского района Московской области, 20 км. от МКАД по Новорижскому и Ильинскому шоссе. Категория земли садоводство.&lt;br /&gt;
-Электричество есть, напряжение сети 220 В. Вода из колодца.&lt;br /&gt;
-Асфальтированный подъезд к СНТ, дорога к участку - асфальтовая крошка, зимой чистятся трактором, многие члены СНТ живут круглогодично, рядом деревня Тимошкино, магазин.&lt;br /&gt;
-1 км до реки Истра, в 10 минутах езды пляж на Москва река, 200 м до леса. Общественный транспорт от м. Тушинская, м. Молодежная, м. Крылатское, остановка в 5 минут пешком от СНТ. Остановка автобусного маршрута 34 до станции Павшино МЦД-2. Торг. Кадастровый номер участка 50:11:0050102:338.</description>
-        <param name="Общая площадь">219 м²</param>
-      </offer>
       <offer id="125186868" available="true">
         <name>Квартира, 14.7 м², Красногорск г.</name>
         <price>9000</price>
@@ -851,6 +822,73 @@ Sky Sputnik расположен рядом с Живописной бухтой
 Не упустите возможность жить в квартире мечты! Звоните прямо сейчас, чтобы узнать подробности и договориться о просмотре!</description>
         <param name="Общая площадь">41.2 м²</param>
         <param name="Адрес">Космонавтов б-р., 13</param>
+      </offer>
+      <offer id="146383536" available="true">
+        <name>1-к квартира, 49.2 м², Красногорск г.</name>
+        <price>15700000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/9d1cc6c89c9a453512d2f3d9d7444f60946573739e4bc25cb3935278da8e0d1b</picture>
+        <picture>https://files-p.topnlab.ru/29ff6e4ebed3f780183dcae835166da1f212beace595f580c75539081899cab5</picture>
+        <picture>https://files-p.topnlab.ru/613c9716a17e63d84dfcfb867ae0b2de83583d15666e657be76c3e4bb5ba4aeb</picture>
+        <picture>https://files-p.topnlab.ru/538517968f5bc2d897e6569b2557b905dd278e5ffa00941662bed731c26967bf</picture>
+        <picture>https://files-p.topnlab.ru/4f511ad6121f4875b0d5e363fcf3aaf6d2dc8a2e5cd41704b773218e1de0f16a</picture>
+        <picture>https://files-p.topnlab.ru/d87101840535437f32449001adf219acd3dc6e10f80618c4b6d5ec463de58a96</picture>
+        <picture>https://files-p.topnlab.ru/cffe49b5700789f7c71659677b9f744df79c6a8ad9832063b482f76350f1f424</picture>
+        <picture>https://files-p.topnlab.ru/8551ef9d792eb70e562303a9e3533b5a4ff31fa34127725ce202c57dd98dbca7</picture>
+        <picture>https://files-p.topnlab.ru/10614c4db00a8cca6af3c43cb5354a086216f7978d16ddac2613ad2795c4c62f</picture>
+        <picture>https://files-p.topnlab.ru/ed8724c3c5edacd4a1bf7147bcb7274f0b2a55f5a7adf6a80380324a602cc50d</picture>
+        <picture>https://files-p.topnlab.ru/ddc250dffa87792e0e869b4c3a171339d54944136c407708ea34ee22be005e6e</picture>
+        <picture>https://files-p.topnlab.ru/0664ddb1bd5f3b0934bbe9f38dd68c927962035b91dc8039638d9b3b24c5ae8e</picture>
+        <picture>https://files-p.topnlab.ru/b0d3850a0d63eca2bca7d7cd62fa95a05145b459debf0c7578e19f9f1c72e064</picture>
+        <picture>https://files-p.topnlab.ru/dc2b12f7a51dd5a3e81ee3126884bf3c88b56f1a145fda72d8527d1a809647ac</picture>
+        <picture>https://files-p.topnlab.ru/17d1df2a09a4cad60328d21d7dedacbdf26689382091658adb7050bc17f67f04</picture>
+        <picture>https://files-p.topnlab.ru/0208d6144b3e91a507325a101d21641b4fab4f98cac7c0a2684c99df23663d95</picture>
+        <picture>https://files-p.topnlab.ru/402678326cff99420d5830bd11236c1d5a5df2976f93d447a02e4a949c0aaa17</picture>
+        <picture>https://files-p.topnlab.ru/00bae6118f340431890ccb017faa75c3874f7ce16466781566ded15e30db2f1b</picture>
+        <picture>https://files-p.topnlab.ru/ece38ff261d795692dea39f59186943fe7f41a55e0fc05162edb20f457d9cf7b</picture>
+        <picture>https://files-p.topnlab.ru/ad5e49cb8ebb87e37291abaa6d4ea11d899ba5c9aaa1356950bac56565d3c6bd</picture>
+        <picture>https://files-p.topnlab.ru/785503c6314109149c59e25ed79fc24f2d9a557ddd8a99233c3e7a22abfea1cb</picture>
+        <picture>https://files-p.topnlab.ru/92a7931e90118a7b033b4c5758fbf67dc043278ff82bd7a58ca0515b0ee9e6ff</picture>
+        <picture>https://files-p.topnlab.ru/3dd0b3fd4ae0f6be66148c1fe20d065448ce3871b77daeea73c376e9306637fe</picture>
+        <picture>https://files-p.topnlab.ru/cdbc77270a1eb50eee71bdc3f51494227fcb90ef1a7fcf3c055be80ae81dce4e</picture>
+        <picture>https://files-p.topnlab.ru/5ea65594107fbd15900750487ba590e36dcc5c529e356edc1a80a400c9eedb55</picture>
+        <picture>https://files-p.topnlab.ru/ea2ac339b2fc65cc3ac0b969350c8a3ea69ca8d4e7852290957591bb76711c90</picture>
+        <picture>https://files-p.topnlab.ru/3deb763b26485ff2b21a7bf2a78e0d8ef207678fddcc1ae607ab0776ecfbfe2b</picture>
+        <picture>https://files-p.topnlab.ru/e62ed85dabfe292dbfc9025d88a3b54bba6c74a6b1d068fc56e3e6210687bd57</picture>
+        <picture>https://files-p.topnlab.ru/a610a45a5f5fc2c80930cc9fb7d79b8ae3ad485a2c0129a95dba70eac1e73cb0</picture>
+        <picture>https://files-p.topnlab.ru/4962f2ebcef5ddfdefe7f14f9477838d7157c9d59ee83d94f441b66c4c392e5a</picture>
+        <picture>https://files-p.topnlab.ru/0a2a74f1bd5728c82da9c239915967a0d321ce631d5b15676b1f37777000d121</picture>
+        <picture>https://files-p.topnlab.ru/7e3690e3c411b417a6e8faa5cf3ee03f5d7ef270b7a919fa23c7920ff6e9a8d9</picture>
+        <picture>https://files-p.topnlab.ru/3e6dbd04bd7ab0175d10e7480c5a5166bce6159dc433929fcd2a3c86454dc482</picture>
+        <picture>https://files-p.topnlab.ru/d991007512f82e9ac07ab456099ee3262759566b2cb7f8ba663bc0d83dfff521</picture>
+        <picture>https://files-p.topnlab.ru/5b7ec5d830c0310da62f3aec9c68018e49d36a346f7054daa54248e35aa509be</picture>
+        <picture>https://files-p.topnlab.ru/5455a42537f6eace2ff33afc1636d3317e5866b80a0be648a64e3ab6b7073972</picture>
+        <picture>https://files-p.topnlab.ru/39b14ef44f5de560f00091781644400e2505513ef052b1716c9c4e358a0ea91b</picture>
+        <picture>https://files-p.topnlab.ru/20c6374429ff4586e74d6547bdd1af3cd0afd3b18c858726da981caaa2913a71</picture>
+        <picture>https://files-p.topnlab.ru/8064d674cdd6d8476c6585c70def1c2e02aae2e8942824a4da1186418a041425</picture>
+        <picture>https://files-p.topnlab.ru/706904236321be7b25c607a0356cd1b7baaba5ce58fd8341d78fa0be617d3264</picture>
+        <picture>https://files-p.topnlab.ru/f2f19ce97293299ff7a8aa7bcc2b3ccd5d301e5fe1e6f163f0a7d1f2e616503e</picture>
+        <description>Красногорский б-р., 17. Светлая и просторная евро-однушка в современном Красногорске – заезжай и живи!&lt;br /&gt;
+&lt;br /&gt;
+Мечтаете о комфортной жизни в развитом районе с прекрасной транспортной доступностью и живописными видами? Ваша мечта становится реальностью!&lt;br /&gt;
+&lt;br /&gt;
+Представляем вашему вниманию светлую, просторную евро-однокомнатную квартиру общей площадью 49,2 кв.м. Эта квартира с продуманной современной планировкой идеально подойдет для тех, кто ценит функциональность и уют.&lt;br /&gt;
+&lt;br /&gt;
+Особенности квартиры, которые вас покорят:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Идеально для жизни: Квартира полностью укомплектована и готова к заселению новых жильцов. Вся мебель и бытовая техника остается новым собственникам – вам останется только расставить личные вещи!&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Видовые характеристики: Расположенная на видовом 16 этаже, квартира дарит панорамный обзор на внутренний двор, живописную набережную реки Москва и величественный Дом Правительства Московской области. Наслаждайтесь потрясающими закатами, не выходя из дома!&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Современная планировка: Формат "евро-однушки" с просторной кухней-гостиной и уютной спальней обеспечивает максимальный комфорт и эффективное использование каждого квадратного метра.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Расположение и инфраструктура – все под рукой:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Развитый район: Достаточно новый, но уже полностью обжитой район со сложившейся инфраструктурой. В шаговой доступности расположены сетевые супермаркеты, кафе, рестораны, фитнес-центры, аптеки, салоны красоты, детские сады и школы – все для комфортной повседневной жизни.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Транспортная доступность: До метро "Мякинино" всего около 15 минут пешком через удобный пешеходный Павшинский мост. Это идеальный вариант для тех, кто работает в Москве, но предпочитает жить в экологически чистом и спокойном районе Подмосковья. Быстрый выезд на Новорижское и Волоколамское шоссе.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Отдых и досуг: Набережная реки Москва – прекрасное место для прогулок, пробежек и отдыха на свежем воздухе. Рядом находится Крокус Сити Холл, океанариум и крупные торговые центры.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Юридическая чистота и гарантии:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Надежная сделка: Основание права собственности – договор купли-продажи от 2019 года. Один взрослый собственник. Документы проверены и полностью готовы к сделке, что гарантирует ее юридическую чистоту от федерального агентства недвижимости.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Не упустите св</description>
+        <param name="Общая площадь">49.2 м²</param>
+        <param name="Адрес">Красногорский б-р., 17</param>
       </offer>
       <offer id="68106418" available="true">
         <name>2-к квартира, 50 м², Шубино д.</name>
