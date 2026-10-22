@@ -11,6 +11,35 @@
       <category id="1">Квартиры</category>
     </categories>
     <offers>
+      <offer id="66110152" available="true">
+        <name>4-к квартира, 219 м², Тимошкино д.</name>
+        <price>8500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/9dc0a7a0173942ee6eb94426554b5f23d8d2fd2065b11d054ba3096086cc4cf2</picture>
+        <picture>https://files-p.topnlab.ru/e10925d9eba2eb8159ac8b25865f4cc513f299d3d9a7520e774e1f5956b481ef</picture>
+        <picture>https://files-p.topnlab.ru/88e5078baaa1fdfe8f989e946bee6a993dcf38bec5af71bf492bf2995f694ff5</picture>
+        <picture>https://files-p.topnlab.ru/77792d4f45815d96b08121622f786c4664ad6a6bbf5b1f24b18bc307de14c094</picture>
+        <picture>https://files-p.topnlab.ru/4b02e26f66be9ae279c5871726f6a2909faec865f8408d5eae6c45565fc1ecd6</picture>
+        <picture>https://files-p.topnlab.ru/ab88a39da77b062a28e26863f5e074a41711504bdb839342c1642666b9f93879</picture>
+        <picture>https://files-p.topnlab.ru/9432b14a69e16b9cae509cfda4b5feec472759cb1122e697e174514df78aee43</picture>
+        <picture>https://files-p.topnlab.ru/9cd717cb2797d789453fda81f913159e516c96304dfb27b2f4d72d8d9798a424</picture>
+        <picture>https://files-p.topnlab.ru/b797d12731010480bd67d3ee4b45590ae555c28774f7fe35ac8be49b02341544</picture>
+        <picture>https://files-p.topnlab.ru/2a121dddb8f4f68aaec38ce9a6c6e4d9f12f3ebecae31aa71936acc6366a17ec</picture>
+        <picture>https://files-p.topnlab.ru/32b05d8ce2a2f1b8abe14365e7898917336b3c1e6324bd28ea14dc33218151f2</picture>
+        <picture>https://files-p.topnlab.ru/a9f0712cc659a0194e31e3b0bee62926db0ddfb64ac998bd173b6661ebcb4bc1</picture>
+        <picture>https://files-p.topnlab.ru/26392b25ef0b4d19379ccd11f0f481da043cbf770e6a2c2e7423aa2628f37003</picture>
+        <picture>https://files-p.topnlab.ru/8f7425f9d1a11aa818af83a10d0788812b76965077c9bac1119665162c46a180</picture>
+        <picture>https://files-p.topnlab.ru/95021039045e6cb78629aa9864a98df6eac2de13fba00cd963347e5bce334e80</picture>
+        <picture>https://files-p.topnlab.ru/0be022cbf7fccbcd23a671ea91599ef1bd7e81fb8df221c28a0b908701a1a074</picture>
+        <picture>https://files-p.topnlab.ru/892f886c771874670e41032863a8a97522e18a8540af0af486b3b63f8833bc16</picture>
+        <description>. Продаю двухэтажный дом для круглогодичного проживания, 219кв.м на участке 6 соток в огороженном, охраняемом СНТ "Земля" вблизи д. Тимошкино Красногорского района Московской области, 20 км. от МКАД по Новорижскому и Ильинскому шоссе. Категория земли садоводство.&lt;br /&gt;
+Электричество есть, напряжение сети 220 В. Вода из колодца.&lt;br /&gt;
+Асфальтированный подъезд к СНТ, дорога к участку - асфальтовая крошка, зимой чистятся трактором, многие члены СНТ живут круглогодично, рядом деревня Тимошкино, магазин.&lt;br /&gt;
+1 км до реки Истра, в 10 минутах езды пляж на Москва река, 200 м до леса. Общественный транспорт от м. Тушинская, м. Молодежная, м. Крылатское, остановка в 5 минут пешком от СНТ. Остановка автобусного маршрута 34 до станции Павшино МЦД-2. Торг. Кадастровый номер участка 50:11:0050102:338.</description>
+        <param name="Общая площадь">219 м²</param>
+      </offer>
       <offer id="125186868" available="true">
         <name>Квартира, 14.7 м², Красногорск г.</name>
         <price>9000</price>
@@ -768,63 +797,6 @@ Sky Sputnik расположен рядом с Живописной бухтой
         <param name="Общая площадь">46.5 м²</param>
         <param name="Адрес">Ильинское ш., 1</param>
       </offer>
-      <offer id="146139788" available="true">
-        <name>1-к квартира, 41.2 м², Красногорск г.</name>
-        <price>11100000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/1b58186229d4488c60f93d0264319dac2e757fb0ed1e3123c2cfabec3a6dbfb1</picture>
-        <picture>https://files-p.topnlab.ru/e8b5b057183b4ff55a728fc4ebcc778a5f6b7003e4ae6dc63203fe36e69edb30</picture>
-        <picture>https://files-p.topnlab.ru/095815282a9cd66a1d439771c9c485eac1ea5e4862ec394f8c2e058ab999a2fa</picture>
-        <picture>https://files-p.topnlab.ru/94fd93a683ce2ea902777422078636cee0d55dcfc0ce70c11a726ce18a7d95fa</picture>
-        <picture>https://files-p.topnlab.ru/49d4cd9e6146b9e8130d3a53eceff6210f8956d6e5cba631347ba2a385a8f4d6</picture>
-        <picture>https://files-p.topnlab.ru/49d1174e69cefb8a33bff598b4a2f7606fcc9e48323339cc2bf662609d88f8ce</picture>
-        <picture>https://files-p.topnlab.ru/5d1250114134ae373b2e0a87f1332970f699ff94bc1a4187e5c5160e263af3ec</picture>
-        <picture>https://files-p.topnlab.ru/5222657e11776535a1bbfd5b95b2484e66af95b89bb12b0cd4ea2bd70c6973ad</picture>
-        <picture>https://files-p.topnlab.ru/b2ecae8ea54b35b6a6e04ee80163aa2d540c5a679f5c4d5dbb34f6fb09980c6a</picture>
-        <picture>https://files-p.topnlab.ru/e00f7a7386bdb06e8ad5bbb7dcdc6dc592d8c53d4a3a440321da9b33ce8ddf52</picture>
-        <picture>https://files-p.topnlab.ru/28a6a49ea6809a03b4f425ad8cde62b4e142529eb56de68ee608e29126a3f35b</picture>
-        <picture>https://files-p.topnlab.ru/919aadc19685edc919d3631c5d9564ecd5a029c9dce4731bf0afa76ac42ef6b0</picture>
-        <picture>https://files-p.topnlab.ru/77ae71d35d8c7e8e2a79f0ef9c318507db001e38f297116ef29b394a98d5049e</picture>
-        <picture>https://files-p.topnlab.ru/df5ef91f667a28f5dcbe375f4b383e15a29fec1f97abb4ff3f29900158adc2a1</picture>
-        <picture>https://files-p.topnlab.ru/bc8ea78e613dace7476835744fe098806fa79d13751cc40eabd9fe2379c403d0</picture>
-        <picture>https://files-p.topnlab.ru/8dcbbecf5557295d989a0c8666be4a0e4ed50b4101540574c122d4742edfb188</picture>
-        <picture>https://files-p.topnlab.ru/fd973259279c5798a0d4445fecec2b310a820e9f6c9d9362bdc8b219d6b72891</picture>
-        <picture>https://files-p.topnlab.ru/33d642d6e00e9dd3ef235f89883255475aa38b60829810a3eb53d67547731c92</picture>
-        <picture>https://files-p.topnlab.ru/b9d3e95077dc57f91230c6d8271d12f8dfdfd4a727d2fbe039c132205d721e6e</picture>
-        <picture>https://files-p.topnlab.ru/99e5aa0d825b1c0f203d5498653b45ab2ea1d883fff4f01402d07f4a2079b787</picture>
-        <picture>https://files-p.topnlab.ru/4b58b4bd80726ce087d0e86c87360fbca5754fed9982333e57c0f54b679bd1d8</picture>
-        <picture>https://files-p.topnlab.ru/46f77bf061bdee8af51578464f184f99304345856792886079c7e6eb9d1513fb</picture>
-        <picture>https://files-p.topnlab.ru/2376bc5bfac23b8afb4d1250c0e36f5d51007aa7ef5355ff8843cfbc1ffd78b7</picture>
-        <picture>https://files-p.topnlab.ru/3c281fefa90957492ef0131fab9b318754c86cd40c1a0e9cfc431cf9956d07b8</picture>
-        <picture>https://files-p.topnlab.ru/58d6851f750dc58962eb85bcf112e1ca5f53d3f8683afa336902fbfb19c99579</picture>
-        <picture>https://files-p.topnlab.ru/bb54d498489fdc37dcf9c72175a9787d4a181cfe4a458a77d9da24689abe62f5</picture>
-        <picture>https://files-p.topnlab.ru/864db0d372836fd924466596264e9adce1370dba782d90dddfa013d6a5b62e18</picture>
-        <picture>https://files-p.topnlab.ru/69dc7dd5db140ab847673e5cd396db167e74b0c26c3c4f6346a13c483d388e56</picture>
-        <picture>https://files-p.topnlab.ru/14e2713879e8a83b7735935e7d2f3f25546b083e14e02c3faae882d301d1e8b0</picture>
-        <picture>https://files-p.topnlab.ru/232ac20782756b53ee15a6690c4c6699d9bda06946b410749b7781c7025c791f</picture>
-        <picture>https://files-p.topnlab.ru/93098f3b5d8af014faa339b10bdae768d575bdc136766cea19a1ec30359fab0a</picture>
-        <picture>https://files-p.topnlab.ru/1dc5edb5201d5cacb9726adfbf32c348d0c9d263299fd6b5fb3fc0d5b78fa0d6</picture>
-        <description>Космонавтов б-р., 13. Внимание!!! За квартиру внесен аванс до 12 ноября, идет подготовка к сделке - показы не проводятся!&lt;br /&gt;
-&lt;br /&gt;
-Ваша мечта ждет! Готовая к жизни 1-комнатная квартира с панорамным видом в ЖК "Изумрудные холмы".&lt;br /&gt;
-&lt;br /&gt;
-Представляем идеальное решение для тех, кто ценит комфорт и время! Эта просторная 1-комнатная квартира в престижном ЖК "Изумрудные холмы" продается со всей мебелью и бытовой техникой – вам останется только завезти личные вещи.&lt;br /&gt;
-&lt;br /&gt;
-Выгодные условия покупки:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ипотека: от 20,1% первоначального взноса (стандартные условия).&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Специальная ставка 12,25% на весь срок при первоначальном взносе от 30%.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Преимущества, которые вы оцените:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Вдохновляющие виды: Наслаждайтесь потрясающими закатами и панорамными видами с видового этажа.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Полностью укомплектована: Переезжайте без хлопот! Вся современная мебель и техника уже включены в стоимость.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Безопасная сделка: Свободная продажа, собственность с 2019 года, все документы проверены. Гарантия юридической чистоты от федерального агентства.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Инфраструктура "города в городе": ЖК "Изумрудные холмы" предлагает школы, детские сады, магазины, кафе и зоны отдыха прямо у дома.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Комфорт и безопасность: Закрытая, охраняемая территория, видеонаблюдение, консьерж и подземный паркинг для вашего спокойствия.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Не упустите возможность жить в квартире мечты! Звоните прямо сейчас, чтобы узнать подробности и договориться о просмотре!</description>
-        <param name="Общая площадь">41.2 м²</param>
-        <param name="Адрес">Космонавтов б-р., 13</param>
-      </offer>
       <offer id="146383536" available="true">
         <name>1-к квартира, 49.2 м², Красногорск г.</name>
         <price>15700000</price>
@@ -1090,6 +1062,63 @@ Sky Sputnik расположен рядом с Живописной бухтой
 Адрес: г. Красногорск, Народное Ополчение д. 2 Б к.1</description>
         <param name="Общая площадь">29 м²</param>
         <param name="Адрес">Народного Ополчения ул., 2Б, к 1</param>
+      </offer>
+      <offer id="146139788" available="true">
+        <name>1-к квартира, 41.2 м², Красногорск г.</name>
+        <price>11100000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/1b58186229d4488c60f93d0264319dac2e757fb0ed1e3123c2cfabec3a6dbfb1</picture>
+        <picture>https://files-p.topnlab.ru/e8b5b057183b4ff55a728fc4ebcc778a5f6b7003e4ae6dc63203fe36e69edb30</picture>
+        <picture>https://files-p.topnlab.ru/095815282a9cd66a1d439771c9c485eac1ea5e4862ec394f8c2e058ab999a2fa</picture>
+        <picture>https://files-p.topnlab.ru/94fd93a683ce2ea902777422078636cee0d55dcfc0ce70c11a726ce18a7d95fa</picture>
+        <picture>https://files-p.topnlab.ru/49d4cd9e6146b9e8130d3a53eceff6210f8956d6e5cba631347ba2a385a8f4d6</picture>
+        <picture>https://files-p.topnlab.ru/49d1174e69cefb8a33bff598b4a2f7606fcc9e48323339cc2bf662609d88f8ce</picture>
+        <picture>https://files-p.topnlab.ru/5d1250114134ae373b2e0a87f1332970f699ff94bc1a4187e5c5160e263af3ec</picture>
+        <picture>https://files-p.topnlab.ru/5222657e11776535a1bbfd5b95b2484e66af95b89bb12b0cd4ea2bd70c6973ad</picture>
+        <picture>https://files-p.topnlab.ru/b2ecae8ea54b35b6a6e04ee80163aa2d540c5a679f5c4d5dbb34f6fb09980c6a</picture>
+        <picture>https://files-p.topnlab.ru/e00f7a7386bdb06e8ad5bbb7dcdc6dc592d8c53d4a3a440321da9b33ce8ddf52</picture>
+        <picture>https://files-p.topnlab.ru/28a6a49ea6809a03b4f425ad8cde62b4e142529eb56de68ee608e29126a3f35b</picture>
+        <picture>https://files-p.topnlab.ru/919aadc19685edc919d3631c5d9564ecd5a029c9dce4731bf0afa76ac42ef6b0</picture>
+        <picture>https://files-p.topnlab.ru/77ae71d35d8c7e8e2a79f0ef9c318507db001e38f297116ef29b394a98d5049e</picture>
+        <picture>https://files-p.topnlab.ru/df5ef91f667a28f5dcbe375f4b383e15a29fec1f97abb4ff3f29900158adc2a1</picture>
+        <picture>https://files-p.topnlab.ru/bc8ea78e613dace7476835744fe098806fa79d13751cc40eabd9fe2379c403d0</picture>
+        <picture>https://files-p.topnlab.ru/8dcbbecf5557295d989a0c8666be4a0e4ed50b4101540574c122d4742edfb188</picture>
+        <picture>https://files-p.topnlab.ru/fd973259279c5798a0d4445fecec2b310a820e9f6c9d9362bdc8b219d6b72891</picture>
+        <picture>https://files-p.topnlab.ru/33d642d6e00e9dd3ef235f89883255475aa38b60829810a3eb53d67547731c92</picture>
+        <picture>https://files-p.topnlab.ru/b9d3e95077dc57f91230c6d8271d12f8dfdfd4a727d2fbe039c132205d721e6e</picture>
+        <picture>https://files-p.topnlab.ru/99e5aa0d825b1c0f203d5498653b45ab2ea1d883fff4f01402d07f4a2079b787</picture>
+        <picture>https://files-p.topnlab.ru/4b58b4bd80726ce087d0e86c87360fbca5754fed9982333e57c0f54b679bd1d8</picture>
+        <picture>https://files-p.topnlab.ru/46f77bf061bdee8af51578464f184f99304345856792886079c7e6eb9d1513fb</picture>
+        <picture>https://files-p.topnlab.ru/2376bc5bfac23b8afb4d1250c0e36f5d51007aa7ef5355ff8843cfbc1ffd78b7</picture>
+        <picture>https://files-p.topnlab.ru/3c281fefa90957492ef0131fab9b318754c86cd40c1a0e9cfc431cf9956d07b8</picture>
+        <picture>https://files-p.topnlab.ru/58d6851f750dc58962eb85bcf112e1ca5f53d3f8683afa336902fbfb19c99579</picture>
+        <picture>https://files-p.topnlab.ru/bb54d498489fdc37dcf9c72175a9787d4a181cfe4a458a77d9da24689abe62f5</picture>
+        <picture>https://files-p.topnlab.ru/864db0d372836fd924466596264e9adce1370dba782d90dddfa013d6a5b62e18</picture>
+        <picture>https://files-p.topnlab.ru/69dc7dd5db140ab847673e5cd396db167e74b0c26c3c4f6346a13c483d388e56</picture>
+        <picture>https://files-p.topnlab.ru/14e2713879e8a83b7735935e7d2f3f25546b083e14e02c3faae882d301d1e8b0</picture>
+        <picture>https://files-p.topnlab.ru/232ac20782756b53ee15a6690c4c6699d9bda06946b410749b7781c7025c791f</picture>
+        <picture>https://files-p.topnlab.ru/93098f3b5d8af014faa339b10bdae768d575bdc136766cea19a1ec30359fab0a</picture>
+        <picture>https://files-p.topnlab.ru/1dc5edb5201d5cacb9726adfbf32c348d0c9d263299fd6b5fb3fc0d5b78fa0d6</picture>
+        <description>Космонавтов б-р., 13. Внимание!!! За квартиру внесен аванс до 12 ноября, идет подготовка к сделке - показы не проводятся!&lt;br /&gt;
+&lt;br /&gt;
+Ваша мечта ждет! Готовая к жизни 1-комнатная квартира с панорамным видом в ЖК "Изумрудные холмы".&lt;br /&gt;
+&lt;br /&gt;
+Представляем идеальное решение для тех, кто ценит комфорт и время! Эта просторная 1-комнатная квартира в престижном ЖК "Изумрудные холмы" продается со всей мебелью и бытовой техникой – вам останется только завезти личные вещи.&lt;br /&gt;
+&lt;br /&gt;
+Выгодные условия покупки:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ипотека: от 20,1% первоначального взноса (стандартные условия).&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Специальная ставка 12,25% на весь срок при первоначальном взносе от 30%.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Преимущества, которые вы оцените:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Вдохновляющие виды: Наслаждайтесь потрясающими закатами и панорамными видами с видового этажа.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Полностью укомплектована: Переезжайте без хлопот! Вся современная мебель и техника уже включены в стоимость.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Безопасная сделка: Свободная продажа, собственность с 2019 года, все документы проверены. Гарантия юридической чистоты от федерального агентства.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Инфраструктура "города в городе": ЖК "Изумрудные холмы" предлагает школы, детские сады, магазины, кафе и зоны отдыха прямо у дома.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Комфорт и безопасность: Закрытая, охраняемая территория, видеонаблюдение, консьерж и подземный паркинг для вашего спокойствия.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Не упустите возможность жить в квартире мечты! Звоните прямо сейчас, чтобы узнать подробности и договориться о просмотре!</description>
+        <param name="Общая площадь">41.2 м²</param>
+        <param name="Адрес">Космонавтов б-р., 13</param>
       </offer>
     </offers>
   </shop>
