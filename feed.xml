@@ -411,28 +411,6 @@ Sky Sputnik расположен рядом с Живописной бухтой
 Постройте дом мечты на Вашем участке! Мы предлагаем уникальную возможно</description>
         <param name="Адрес">Центральная ул.</param>
       </offer>
-      <offer id="145095472" available="true">
-        <name>Квартира, 29 м², Красногорск г.</name>
-        <price>25000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/1e6cf9dea05a86b752b88b8a943a95b34f5c115847ae43b363f7b21e6c7f49a3</picture>
-        <picture>https://files-p.topnlab.ru/dcf808c432fdca05cc67cfd3caf15a448d93f796de37eb4e48e799be84b3f2fc</picture>
-        <picture>https://files-p.topnlab.ru/6a0906d5dd1c723cb889c210e70da101e89cfff6c65231e8e26c632aecf695a5</picture>
-        <picture>https://files-p.topnlab.ru/efd9f970cc732c6525f6246f77ee73868720882e4badab4b38dcd0da3176ff78</picture>
-        <picture>https://files-p.topnlab.ru/0cae275179c6e2e77763c6600ba7120216a32397331d1f5267505be99abd1a63</picture>
-        <picture>https://files-p.topnlab.ru/10fd58f0afba7d0b78ca0427efcc1dec37d94882e9af7ee4278b5d4dcfdb1fd4</picture>
-        <description>Народного Ополчения ул., 2Б, к 1. Сдаётся семейное парковочное место для 2-x автомобилей + кладовка&lt;br /&gt;
-Удобный заезд и выезд &lt;br /&gt;
-Охраняемая тёплая парковка&lt;br /&gt;
-Отличный вариант для длительной аренды&lt;br /&gt;
-Стоимость: 25.000 за 2 места и кладовку&lt;br /&gt;
-Оплата 1 и последний месяц.&lt;br /&gt;
-Адрес: г. Красногорск, Народное Ополчение д. 2 Б к.1</description>
-        <param name="Общая площадь">29 м²</param>
-        <param name="Адрес">Народного Ополчения ул., 2Б, к 1</param>
-      </offer>
       <offer id="145633462" available="true">
         <name>Квартира, 52 м², Марьино д.</name>
         <price>120000</price>
@@ -613,7 +591,7 @@ Sky Sputnik расположен рядом с Живописной бухтой
       </offer>
       <offer id="146051555" available="true">
         <name>2-к квартира, 46.5 м², Красногорск г.</name>
-        <price>59000</price>
+        <price>58000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
         <url>https://yandex.ru</url>
@@ -790,6 +768,64 @@ Sky Sputnik расположен рядом с Живописной бухтой
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Автобус № 1109: следует до станции метро "Тушинская". (Конечная остановка: Метро Тушинская)&lt;/li&gt; &lt;br /&gt;</description>
         <param name="Общая площадь">30.1 м²</param>
         <param name="Адрес">Романовская ул., 5</param>
+      </offer>
+      <offer id="146896990" available="true">
+        <name>1-к квартира, 40.1 м², Путилково д.</name>
+        <price>45000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/80a85b7bbe71621e4ab71e245d4062a0a22035ebb3b6d526c9fea0b056c359a0</picture>
+        <picture>https://files-p.topnlab.ru/e206ffcdcc467f48e527756f61107a73ead98ff2b178e8fd4894b45e438fa905</picture>
+        <picture>https://files-p.topnlab.ru/3d39b9aa2d561d701d3fd333387b20f9ad9baaca3e329835c4b8335a8bb97e20</picture>
+        <picture>https://files-p.topnlab.ru/1aa7c6ca94eada222e8ddfbc905be620c7052b8a146ea57bc9ee731756a9f759</picture>
+        <picture>https://files-p.topnlab.ru/11ac176bcf2501c5057ab89ba813892a6ce8b0f1c76a79ea1fdbb11495fd2b71</picture>
+        <picture>https://files-p.topnlab.ru/487e2a46d4a681fb3f7283d496cd892ce370ddd39b8948a77322093326142407</picture>
+        <picture>https://files-p.topnlab.ru/0c8bea3bb6f84a5da977bff6a5d2646c87d382d473a9d7b3a0e51a6dc32ef3f3</picture>
+        <picture>https://files-p.topnlab.ru/435629e7402664d34dd677b5c37105637ab15e6d9b237fcbe692615a729c90c5</picture>
+        <picture>https://files-p.topnlab.ru/25f92346af331ae4fd2eff542b3f13a4e922baec059694e2d7fc0e2bbf88b06d</picture>
+        <picture>https://files-p.topnlab.ru/d5e130a7e1d50178769b10a0ea84d9c1d279fc7d8b33c1c662034136dfc782d6</picture>
+        <picture>https://files-p.topnlab.ru/fddabd73ebc21c11d69e0f34fc846607a840b6693bfbdd2131768d87ad8ea12d</picture>
+        <picture>https://files-p.topnlab.ru/a837539ddc6e4e302767a12c7ee6bb7546e79d1105f1d64238144146396f90f5</picture>
+        <picture>https://files-p.topnlab.ru/c61d659e32188ec29d3e74e548a34530f85d6d0eba75fcb8f5b5b11e674615c6</picture>
+        <picture>https://files-p.topnlab.ru/8ce2177552096aae7e5ab1bf6a1f7434db45765cfd66c26ca400c846b57aec8f</picture>
+        <picture>https://files-p.topnlab.ru/cbc181011dddedb4027a22f92a4773361126d40837f482b1cba9a5380f5f265c</picture>
+        <picture>https://files-p.topnlab.ru/b29cd4841f4fc4f31e2ef5bf5bf75037739e8aee4800559a5bda18d4220cd707</picture>
+        <picture>https://files-p.topnlab.ru/e523c1fc89a1074b19d3e95ac8076756862c38a30a1b2bbb10c0a1b7fcf39ca3</picture>
+        <picture>https://files-p.topnlab.ru/f8431d24fc7ddd895b8a5be23563d41cd9f85dcaaf790f7f458fbbc560ad0ff2</picture>
+        <picture>https://files-p.topnlab.ru/78ca1f6b3a0dff2b02be4cf2b846954e96319aabfd4d5315cf49b589c8f5a97f</picture>
+        <picture>https://files-p.topnlab.ru/ba758d6865e7719f3f9206b3efef7ec26d739d7b6f2998f103da126a0fe56a7b</picture>
+        <picture>https://files-p.topnlab.ru/8d9d23303f99a6666e4e97272a5b1ffce4f0a4854d942f1e8dbd92bff052e5b6</picture>
+        <picture>https://files-p.topnlab.ru/1580976b11d226ab48feae9f2a243b451fa7ef79e83eb2e0ba5f9d2c2fbe8725</picture>
+        <picture>https://files-p.topnlab.ru/830d86db22ecc59fe7fe73aefd8e9547c4a9e18d0402435f497f9748267f5a1d</picture>
+        <picture>https://files-p.topnlab.ru/593441474801a97b7ef929fbbf189a8f5477524e9b3c82e1b6ccfd589384a472</picture>
+        <picture>https://files-p.topnlab.ru/0610bc611f07688e17c767f589522a53415ef57698e94eb1a9df8208fbaae4c8</picture>
+        <picture>https://files-p.topnlab.ru/fe32d95326837738fe660768e1ed8a0317a288f3c168b63a73a7a571530a78ca</picture>
+        <picture>https://files-p.topnlab.ru/0c8fdafdc15e17f9f8de68117e4637bf247d46a341afb50eb62c0adfffcf2111</picture>
+        <picture>https://files-p.topnlab.ru/6fe90f9f10374be1dc53808f6939b9507890a7747ecb2fbf65f8e2872c19565b</picture>
+        <picture>https://files-p.topnlab.ru/3e837ecf1f5f87526ad2b80fa1226e4c338bdf677ba4a041d870c11a621563d0</picture>
+        <picture>https://files-p.topnlab.ru/4fd0ef72dcda7fa1f14cf9e2b31b043697d6a920441550088ae35ab010ff5c26</picture>
+        <picture>https://files-p.topnlab.ru/8bed53f238769968dd1ffa952fda519acc68029c2083ba099b1018f2da87d7b6</picture>
+        <picture>https://files-p.topnlab.ru/af42f712d9f859aa606b723f426e96ebcc038bb7cd51741a53233de6dac029ee</picture>
+        <picture>https://files-p.topnlab.ru/b1fe4b612a93f238d36da3508db438cc56fef501dd148ee98c6b16797a15f335</picture>
+        <description>Новотушинская ул., 4. Представляем вашему вниманию уютную 1-комнатную квартиру, расположенную в престижном районе Московской области!&lt;br /&gt;
+&lt;br /&gt;
+Эта светлая квартира на 17-м видовом этаже с линейной планировкой предлагает спокойствие и комфорт, ведь её окна выходят в тихий двор. Здесь есть всё для вашей комфортной жизни: полностью оборудованная кухня с варочной панелью, духовым шкафом, холодильником и посудомоечной машиной, а также стиральная машина, телевизор и сплит-система для поддержания идеального микроклимата.&lt;br /&gt;
+&lt;br /&gt;
+Локация и удобства района: Путилково – это динамично развивающийся район с отличной транспортной доступностью до Москвы. Рядом находятся крупные торговые центры, такие как "Лента", "Вэйпарк", "Крокус Сити Молл", где вы найдете магазины, рестораны и развлечения на любой вкус. Для прогулок и отдыха на свежем воздухе поблизости есть Алешкинский лес. Развитая инфраструктура включает школы, детские сады, поликлиники и фитнес-центры, обеспечивая комфортную жизнь для всех жителей. Удобный выезд на МКАД позволит быстро добраться в любую точку города.&lt;br /&gt;
+&lt;br /&gt;
+Идеальный вариант для: Одиноких женщин и семейных пар без детей, ценящих чистоту, порядок и комфорт.&lt;br /&gt;
+&lt;br /&gt;
+Важные условия аренды:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Строго некурящие.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Строго без домашних животных.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Чистоплотность, платежеспособность и бережное отношение к имуществу собственника.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;При заселении оплачивается первый месяц, комиссия агентства (50% от одномесячного платежа) и залог (равен одномесячному платежу; возможность разделить его внесение  на два месяца - обсуждается).&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+У собственника могут быть дополнительные требования к арендаторам, которые лучше уточнить по телефону или в переписке&lt;br /&gt;
+&lt;br /&gt;
+Не упустите возможность снять эту замечательную квартиру в прекрасном районе! Свяжитесь с нами для организации просмотра и получения дополнительной информации.</description>
+        <param name="Общая площадь">40.1 м²</param>
+        <param name="Адрес">Новотушинская ул., 4</param>
       </offer>
       <offer id="109228151" available="true">
         <name>3-к квартира, 104.6 м², Красногорск г.</name>
@@ -1004,6 +1040,28 @@ Sky Sputnik расположен рядом с Живописной бухтой
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui</description>
         <param name="Общая площадь">55.9 м²</param>
         <param name="Адрес">Центральная ул., 114</param>
+      </offer>
+      <offer id="145095472" available="true">
+        <name>Квартира, 29 м², Красногорск г.</name>
+        <price>25000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <url>https://yandex.ru</url>
+        <picture>https://files-p.topnlab.ru/1e6cf9dea05a86b752b88b8a943a95b34f5c115847ae43b363f7b21e6c7f49a3</picture>
+        <picture>https://files-p.topnlab.ru/dcf808c432fdca05cc67cfd3caf15a448d93f796de37eb4e48e799be84b3f2fc</picture>
+        <picture>https://files-p.topnlab.ru/6a0906d5dd1c723cb889c210e70da101e89cfff6c65231e8e26c632aecf695a5</picture>
+        <picture>https://files-p.topnlab.ru/efd9f970cc732c6525f6246f77ee73868720882e4badab4b38dcd0da3176ff78</picture>
+        <picture>https://files-p.topnlab.ru/0cae275179c6e2e77763c6600ba7120216a32397331d1f5267505be99abd1a63</picture>
+        <picture>https://files-p.topnlab.ru/10fd58f0afba7d0b78ca0427efcc1dec37d94882e9af7ee4278b5d4dcfdb1fd4</picture>
+        <description>Народного Ополчения ул., 2Б, к 1. Сдаётся семейное парковочное место для 2-x автомобилей + кладовка&lt;br /&gt;
+Удобный заезд и выезд &lt;br /&gt;
+Охраняемая тёплая парковка&lt;br /&gt;
+Отличный вариант для длительной аренды&lt;br /&gt;
+Стоимость: 25.000 за 2 места и кладовку&lt;br /&gt;
+Оплата 1 и последний месяц.&lt;br /&gt;
+Адрес: г. Красногорск, Народное Ополчение д. 2 Б к.1</description>
+        <param name="Общая площадь">29 м²</param>
+        <param name="Адрес">Народного Ополчения ул., 2Б, к 1</param>
       </offer>
       <offer id="146762830" available="true">
         <name>2-к квартира, 53.6 м², Красногорск г.</name>
