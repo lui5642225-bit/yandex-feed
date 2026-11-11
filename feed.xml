@@ -263,52 +263,48 @@ Sky Sputnik расположен рядом с Живописной бухтой
         <param name="Общая площадь">24.88 м²</param>
         <param name="Адрес">Тенистых Аллей ул., 20</param>
       </offer>
-      <offer id="143651362" available="true">
-        <name>Квартира, 43.8 м², Марьино д.</name>
-        <price>60000</price>
+      <offer id="144017114" available="true">
+        <name>Квартира,  м², Чащь д.</name>
+        <price>1300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
         <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/890ce7b29d877ae141eab8e75fe3b7809987eae0ab4b7202206869d4b0ae9134</picture>
-        <picture>https://files-p.topnlab.ru/b9b398446c7374972681f8e71925a5de8c8f97cb25b0c0ee55ae9d9ec49316ea</picture>
-        <picture>https://files-p.topnlab.ru/a5216143224b317cd8bb9db597884bf80f3ca99b40fddf849fe3154e45b0efc1</picture>
-        <picture>https://files-p.topnlab.ru/910b3d7d730ca018cfe318ccca370aceafaeac394b4609919f73eea3bf5338f4</picture>
-        <picture>https://files-p.topnlab.ru/bac934b57a43231451fee3933fea33838661de7721558a22e6e15cee71f56d5c</picture>
-        <picture>https://files-p.topnlab.ru/fa7ec0688476eb182aa708e58cd0b72d8285ea9b99f87a1a6090c93361ffd62a</picture>
-        <picture>https://files-p.topnlab.ru/20765dcd604edab8d50bc687b29678ec30311af78f8d07d3d9fa71aca6d45aa1</picture>
-        <picture>https://files-p.topnlab.ru/aabae4b68e0401d662c527374f0e6d15cb433311ccd767c6c7dd6ee51ee99bd8</picture>
-        <picture>https://files-p.topnlab.ru/fd29e6d7687a7a53b581d94eff64ad9475eb754005c721cf14fa62c9e038b996</picture>
-        <picture>https://files-p.topnlab.ru/48e467b9677cf064c07cff4941fcc95ef7253f92bbeffe834c5412d2bd9ee0a5</picture>
-        <picture>https://files-p.topnlab.ru/b651764db0e4612ba0758cad6d1ee6d9ff942467e0968b0013d93ba76fddeee9</picture>
-        <picture>https://files-p.topnlab.ru/4f53ba2bb722a7f4134e33b1cfde05a1b6f9b52ddd31069063e39fb12b89e8c6</picture>
-        <picture>https://files-p.topnlab.ru/17cf6df450d057096ea1507665cca7aa0290991efc8aeea1c7aa3871c7a44a2c</picture>
-        <picture>https://files-p.topnlab.ru/413db0c167743fb606253e54275d18f159ad9c19f30a032541a7c5fb3524d9f4</picture>
-        <picture>https://files-p.topnlab.ru/bc4aec04dfeb9c3aab6f9f4365ece537e95c03ed2d9287bc9863f0ffd46492ca</picture>
-        <picture>https://files-p.topnlab.ru/1b74243e1736943adad07c3af71be6aca514a20f23b1c36bef594872f5945a24</picture>
-        <picture>https://files-p.topnlab.ru/79887a78ce3c54ce71d455d7c8f012b6939580926e9c111fb891533c1a1ba68a</picture>
-        <picture>https://files-p.topnlab.ru/d96f2009d511666ef9e0d682b55fc8156590ffd384f00c592c680f8066a23b39</picture>
-        <description>Родниковая ул., 1. Аренда коммерческого помещения в Клубном Доме Бизнес-Класса "Отрада на Реке"!&lt;br /&gt;
+        <picture>https://files-p.topnlab.ru/7554c61c07fcbf18f0d6e495b354ef3c7d1ce6bb6767664207bb867a17c44405</picture>
+        <picture>https://files-p.topnlab.ru/094fcc1cb35d5a70c02ac8437208a7a8d54ef2535493ff3b2c8569989d0435f3</picture>
+        <picture>https://files-p.topnlab.ru/8a57131ca0bd55bed1aed8e5d6906342b5dd2777698c1b717369a82a054625ab</picture>
+        <picture>https://files-p.topnlab.ru/36a94557332b3efc4ab5c2db3bc7026707916be86dde8885f75f901f1f1e94ac</picture>
+        <picture>https://files-p.topnlab.ru/14cc1f38f4e484b06d1fc84498ddd3f056564512e2e4dccab196c3fa19569636</picture>
+        <picture>https://files-p.topnlab.ru/d08e8bf424ae64dd616f81ad98b302070813fd323dd4ff09d850a083da4bf191</picture>
+        <picture>https://files-p.topnlab.ru/0160551a457c24a3b1c854e1bf5e9b658addc1d9704dc0c514e4ae8339c3963b</picture>
+        <picture>https://files-p.topnlab.ru/77375bb3f3e01bbaa8b4d18f52598fada6ec4333ce9422726ae0ccb5619894be</picture>
+        <picture>https://files-p.topnlab.ru/e5cceac9f6ff7f8417b2d1e26214f22b258a62b9d7a260b2c2b8af54726d8f33</picture>
+        <picture>https://files-p.topnlab.ru/db322f377a89e9afb04e6f96e3233e6094a0ab428c8687141ce1f75c6aa4bbfa</picture>
+        <picture>https://files-p.topnlab.ru/a5e38a162f3c0b61526be1ad73d35f157a947ab2a79e59a8a116507be5c477e3</picture>
+        <picture>https://files-p.topnlab.ru/8419e9a1d68140feda1a95d045b2ddb4593e4d0c9f36db4a5abdfb2ba7c2bd86</picture>
+        <picture>https://files-p.topnlab.ru/01a0e93ca91486e849b579d645f07ad8021d629443d242929ed9f82a9ca1e4a2</picture>
+        <picture>https://files-p.topnlab.ru/9225b5bc1903029f6badbed3543e03e13dc030ee642aea04b003034f5edaa007</picture>
+        <picture>https://files-p.topnlab.ru/48926b643f3393db258a8ecabc772a4cc1358c9b740bac6af7e349999afa9a9d</picture>
+        <picture>https://files-p.topnlab.ru/cb1542c578bc848c4f53dbf14b2b920c4ee960a4cfcb171f6c5deef09449236c</picture>
+        <picture>https://files-p.topnlab.ru/8f15c4a9888a34b0f61027ea62c9cfeb3bf29d8b0d718fbc5bef2028ceccc6be</picture>
+        <description>Центральная ул.. Предлагаем Вашему вниманию земельный участок правильной прямоугольной формы в обжитом коттеджном поселке в экологически чистом районе Московской области!&lt;br /&gt;
 &lt;br /&gt;
-Не упустите уникальную возможность открыть свой бизнес в престижном клубном доме бизнес-класса "Отрада на Реке"! Здание уже введено в эксплуатацию, активно идут ремонты и заселение, что обеспечивает отличную проходимость и постоянный поток потенциальных клиентов.&lt;br /&gt;
+На участке расположена бытовка на винтовых сваях с толщиной стен 150 мм: жилая часть общей площадью 16.5 кв.м, и просторная открытая веранда площадью более 11 кв.м. Со стороны внутрипоселковой дороги участок огорожен забором из профнастила с въездными воротами и калиткой. Электричество - 15 кВт, ящик со счетчиком расположен на столбе рядом с участком, подключение оплачено, оформлено, но на участок не заведено.&lt;br /&gt;
 &lt;br /&gt;
-Преимущества помещения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Расположение: Угловое помещение с отдельным входом и витринными окнами, обеспечивающими высокую заметность.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Площадь: 30.23 кв.м. основной площади + просторная терраса 13.57 кв.м.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Высокие потолки: Высота потолка в черновом варианте 3.3 м, что даёт простор для реализации любых дизайнерских решений.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Состояние: Помещение свободного назначения, без отделки, что позволяет создать интерьер, идеально соответствующий концепции вашего бизнеса.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Привлекательное окружение: Закрытый двор-патио и статус бизнес-класса привлекают платежеспособную аудиторию.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-Идеально подходит для:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кафе, кофейни, другого общепита&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Офиса&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Магазина (продукты, промышленные/хозтовары, цветы и ландшафтные растения)&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Аптеки&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Пункта выдачи заказов (Wildberries, Ozon, Яндекс.Маркет, СДЭК)&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Салона красоты (маникюр/педикюр/парикмахерская)&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-Рассмотрим также Ваши предложения!&lt;br /&gt;
+Преимущества расположения: Коттеджный поселок "Рижские дворики 2" — это обжитое место, где многие соседи проживают круглогодично. Отличное расположение в 111 км по Новорижскому шоссе гарантирует идеальные условия для тихой загородной жизни.&lt;br /&gt;
+Инфраструктура и дополнительные возможности для комфортной жизни:&lt;br /&gt;
 &lt;br /&gt;
-Условия аренды: Арендная плата + коммунальные услуги (по счетчикам). Предоставляются арендные каникулы до 2 месяцев, чтобы вы могли спокойно подготовить помещение к открытию.&lt;br /&gt;
+Магазины:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ближайшие продуктовые и хозяйственные магазины, а также аптеки расположены в селе Теряево, примерно в 1500 метрах от поселка.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
 &lt;br /&gt;
-Торопитесь! Не упустите уникальную возможность открыть свою точку для бизнеса раньше конкурентов!</description>
-        <param name="Общая площадь">43.8 м²</param>
-        <param name="Адрес">Родниковая ул., 1</param>
+Образовательные учреждения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Детский сад и общеобразовательная школа находятся в селе Теряево, на расстоянии около 1500 метров.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Общественный транспорт:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Остановка общественного транспорта "Чащь" находится в деревне Чащь. От КП "Рижские дворики 2" до остановки примерно 1,2 км пешком. Через остановку проходит автобус №31. Он следует до села Теряево и до города Волоколамска.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Иная значимая информация:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Природа и экология: Поселок расположен в живописном месте, в окружении хвойного леса заповедника "Завидово", который является природной территорией федерального значения со статусом национального парка. Также неподалеку протекает река Локнаш и находятся Теряевские пруды, являющиеся природным заказником.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Исторические достопримечательности: Рядом с поселком расположен древний Иосифо-Волоцкий монастырь, основанный в 1479 году, который считается одним из красивейших архитектурных памятников.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Отдых и развлечения: В деревне Чащь работает охотничье-рыболовное хозяйство, предлагающее соответствующие услуги, включая размещение в коттеджных домах и трассы для любителей снегоходов и квадроциклов. В деревне также есть двухэтажный дореволюционный особняк — местная достопримечательность.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+&lt;br /&gt;
+Постройте дом мечты на Вашем участке! Мы предлагаем уникальную возможно</description>
+        <param name="Адрес">Центральная ул.</param>
       </offer>
       <offer id="145095472" available="true">
         <name>Квартира, 29 м², Красногорск г.</name>
@@ -586,7 +582,9 @@ Sky Sputnik расположен рядом с Живописной бухтой
         <picture>https://files-p.topnlab.ru/8064d674cdd6d8476c6585c70def1c2e02aae2e8942824a4da1186418a041425</picture>
         <picture>https://files-p.topnlab.ru/706904236321be7b25c607a0356cd1b7baaba5ce58fd8341d78fa0be617d3264</picture>
         <picture>https://files-p.topnlab.ru/f2f19ce97293299ff7a8aa7bcc2b3ccd5d301e5fe1e6f163f0a7d1f2e616503e</picture>
-        <description>Красногорский б-р., 17. Светлая и просторная евро-однушка в современном Красногорске – заезжай и живи!&lt;br /&gt;
+        <description>Красногорский б-р., 17. Внимание, за квартиру внесен аванс до 10.12.2026, показы не проводятся, идет подготовка к сделке!&lt;br /&gt;
+&lt;br /&gt;
+Светлая и просторная евро-однушка в современном Красногорске – заезжай и живи!&lt;br /&gt;
 &lt;br /&gt;
 Мечтаете о комфортной жизни в развитом районе с прекрасной транспортной доступностью и живописными видами? Ваша мечта становится реальностью!&lt;br /&gt;
 &lt;br /&gt;
@@ -600,9 +598,7 @@ Sky Sputnik расположен рядом с Живописной бухтой
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Транспортная доступность: До метро "Мякинино" всего около 15 минут пешком через удобный пешеходный Павшинский мост. Это идеальный вариант для тех, кто работает в Москве, но предпочитает жить в экологически чистом и спокойном районе Подмосковья. Быстрый выезд на Новорижское и Волоколамское шоссе.&lt;/li&gt; &lt;br /&gt;
 &lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Отдых и досуг: Набережная реки Москва – прекрасное место для прогулок, пробежек и отдыха на свежем воздухе. Рядом находится Крокус Сити Холл, океанариум и крупные торговые центры.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
 &lt;br /&gt;
-Юридическая чистота и гарантии:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Надежная сделка: Основание права собственности – договор купли-продажи от 2019 года. Один взрослый собственник. Документы проверены и полностью готовы к сделке, что гарантирует ее юридическую чистоту от федерального агентства недвижимости.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Не упустите св</description>
+Юридическая чистота и гарантии:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Надежная сделка: Основание права собственности – договор купли-продажи от 2019 года. Один взрослый собственник. Документы проверены и полностью готовы к сделке, что г</description>
         <param name="Общая площадь">49.2 м²</param>
         <param name="Адрес">Красногорский б-р., 17</param>
       </offer>
@@ -1074,48 +1070,52 @@ Sky Sputnik расположен рядом с Живописной бухтой
         <param name="Общая площадь">55.9 м²</param>
         <param name="Адрес">Центральная ул., 114</param>
       </offer>
-      <offer id="144017114" available="true">
-        <name>Квартира,  м², Чащь д.</name>
-        <price>1300000</price>
+      <offer id="143651362" available="true">
+        <name>Квартира, 43.8 м², Марьино д.</name>
+        <price>65000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
         <url>https://yandex.ru</url>
-        <picture>https://files-p.topnlab.ru/7554c61c07fcbf18f0d6e495b354ef3c7d1ce6bb6767664207bb867a17c44405</picture>
-        <picture>https://files-p.topnlab.ru/094fcc1cb35d5a70c02ac8437208a7a8d54ef2535493ff3b2c8569989d0435f3</picture>
-        <picture>https://files-p.topnlab.ru/8a57131ca0bd55bed1aed8e5d6906342b5dd2777698c1b717369a82a054625ab</picture>
-        <picture>https://files-p.topnlab.ru/36a94557332b3efc4ab5c2db3bc7026707916be86dde8885f75f901f1f1e94ac</picture>
-        <picture>https://files-p.topnlab.ru/14cc1f38f4e484b06d1fc84498ddd3f056564512e2e4dccab196c3fa19569636</picture>
-        <picture>https://files-p.topnlab.ru/d08e8bf424ae64dd616f81ad98b302070813fd323dd4ff09d850a083da4bf191</picture>
-        <picture>https://files-p.topnlab.ru/0160551a457c24a3b1c854e1bf5e9b658addc1d9704dc0c514e4ae8339c3963b</picture>
-        <picture>https://files-p.topnlab.ru/77375bb3f3e01bbaa8b4d18f52598fada6ec4333ce9422726ae0ccb5619894be</picture>
-        <picture>https://files-p.topnlab.ru/e5cceac9f6ff7f8417b2d1e26214f22b258a62b9d7a260b2c2b8af54726d8f33</picture>
-        <picture>https://files-p.topnlab.ru/db322f377a89e9afb04e6f96e3233e6094a0ab428c8687141ce1f75c6aa4bbfa</picture>
-        <picture>https://files-p.topnlab.ru/a5e38a162f3c0b61526be1ad73d35f157a947ab2a79e59a8a116507be5c477e3</picture>
-        <picture>https://files-p.topnlab.ru/8419e9a1d68140feda1a95d045b2ddb4593e4d0c9f36db4a5abdfb2ba7c2bd86</picture>
-        <picture>https://files-p.topnlab.ru/01a0e93ca91486e849b579d645f07ad8021d629443d242929ed9f82a9ca1e4a2</picture>
-        <picture>https://files-p.topnlab.ru/9225b5bc1903029f6badbed3543e03e13dc030ee642aea04b003034f5edaa007</picture>
-        <picture>https://files-p.topnlab.ru/48926b643f3393db258a8ecabc772a4cc1358c9b740bac6af7e349999afa9a9d</picture>
-        <picture>https://files-p.topnlab.ru/cb1542c578bc848c4f53dbf14b2b920c4ee960a4cfcb171f6c5deef09449236c</picture>
-        <picture>https://files-p.topnlab.ru/8f15c4a9888a34b0f61027ea62c9cfeb3bf29d8b0d718fbc5bef2028ceccc6be</picture>
-        <description>Центральная ул.. Предлагаем Вашему вниманию земельный участок правильной прямоугольной формы в обжитом коттеджном поселке в экологически чистом районе Московской области!&lt;br /&gt;
+        <picture>https://files-p.topnlab.ru/890ce7b29d877ae141eab8e75fe3b7809987eae0ab4b7202206869d4b0ae9134</picture>
+        <picture>https://files-p.topnlab.ru/b9b398446c7374972681f8e71925a5de8c8f97cb25b0c0ee55ae9d9ec49316ea</picture>
+        <picture>https://files-p.topnlab.ru/a5216143224b317cd8bb9db597884bf80f3ca99b40fddf849fe3154e45b0efc1</picture>
+        <picture>https://files-p.topnlab.ru/910b3d7d730ca018cfe318ccca370aceafaeac394b4609919f73eea3bf5338f4</picture>
+        <picture>https://files-p.topnlab.ru/bac934b57a43231451fee3933fea33838661de7721558a22e6e15cee71f56d5c</picture>
+        <picture>https://files-p.topnlab.ru/fa7ec0688476eb182aa708e58cd0b72d8285ea9b99f87a1a6090c93361ffd62a</picture>
+        <picture>https://files-p.topnlab.ru/20765dcd604edab8d50bc687b29678ec30311af78f8d07d3d9fa71aca6d45aa1</picture>
+        <picture>https://files-p.topnlab.ru/aabae4b68e0401d662c527374f0e6d15cb433311ccd767c6c7dd6ee51ee99bd8</picture>
+        <picture>https://files-p.topnlab.ru/fd29e6d7687a7a53b581d94eff64ad9475eb754005c721cf14fa62c9e038b996</picture>
+        <picture>https://files-p.topnlab.ru/48e467b9677cf064c07cff4941fcc95ef7253f92bbeffe834c5412d2bd9ee0a5</picture>
+        <picture>https://files-p.topnlab.ru/b651764db0e4612ba0758cad6d1ee6d9ff942467e0968b0013d93ba76fddeee9</picture>
+        <picture>https://files-p.topnlab.ru/4f53ba2bb722a7f4134e33b1cfde05a1b6f9b52ddd31069063e39fb12b89e8c6</picture>
+        <picture>https://files-p.topnlab.ru/17cf6df450d057096ea1507665cca7aa0290991efc8aeea1c7aa3871c7a44a2c</picture>
+        <picture>https://files-p.topnlab.ru/413db0c167743fb606253e54275d18f159ad9c19f30a032541a7c5fb3524d9f4</picture>
+        <picture>https://files-p.topnlab.ru/bc4aec04dfeb9c3aab6f9f4365ece537e95c03ed2d9287bc9863f0ffd46492ca</picture>
+        <picture>https://files-p.topnlab.ru/1b74243e1736943adad07c3af71be6aca514a20f23b1c36bef594872f5945a24</picture>
+        <picture>https://files-p.topnlab.ru/79887a78ce3c54ce71d455d7c8f012b6939580926e9c111fb891533c1a1ba68a</picture>
+        <picture>https://files-p.topnlab.ru/d96f2009d511666ef9e0d682b55fc8156590ffd384f00c592c680f8066a23b39</picture>
+        <description>Родниковая ул., 1. Аренда коммерческого помещения в Клубном Доме Бизнес-Класса "Отрада на Реке"!&lt;br /&gt;
 &lt;br /&gt;
-На участке расположена бытовка на винтовых сваях с толщиной стен 150 мм: жилая часть общей площадью 16.5 кв.м, и просторная открытая веранда площадью более 11 кв.м. Со стороны внутрипоселковой дороги участок огорожен забором из профнастила с въездными воротами и калиткой. Электричество - 15 кВт, ящик со счетчиком расположен на столбе рядом с участком, подключение оплачено, оформлено, но на участок не заведено.&lt;br /&gt;
+Не упустите уникальную возможность открыть свой бизнес в престижном клубном доме бизнес-класса "Отрада на Реке"! Здание уже введено в эксплуатацию, активно идут ремонты и заселение, что обеспечивает отличную проходимость и постоянный поток потенциальных клиентов.&lt;br /&gt;
 &lt;br /&gt;
-Преимущества расположения: Коттеджный поселок "Рижские дворики 2" — это обжитое место, где многие соседи проживают круглогодично. Отличное расположение в 111 км по Новорижскому шоссе гарантирует идеальные условия для тихой загородной жизни.&lt;br /&gt;
-Инфраструктура и дополнительные возможности для комфортной жизни:&lt;br /&gt;
+Преимущества помещения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Расположение: Угловое помещение с отдельным входом и витринными окнами, обеспечивающими высокую заметность.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Площадь: 30.23 кв.м. основной площади + просторная терраса 13.57 кв.м.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Высокие потолки: Высота потолка в черновом варианте 3.3 м, что даёт простор для реализации любых дизайнерских решений.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Состояние: Помещение свободного назначения, без отделки, что позволяет создать интерьер, идеально соответствующий концепции вашего бизнеса.&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Привлекательное окружение: Закрытый двор-патио и статус бизнес-класса привлекают платежеспособную аудиторию.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Идеально подходит для:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Кафе, кофейни, другого общепита&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Офиса&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Магазина (продукты, промышленные/хозтовары, цветы и ландшафтные растения)&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Аптеки&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Пункта выдачи заказов (Wildberries, Ozon, Яндекс.Маркет, СДЭК)&lt;/li&gt; &lt;br /&gt;
+&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Салона красоты (маникюр/педикюр/парикмахерская)&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Рассмотрим также Ваши предложения!&lt;br /&gt;
 &lt;br /&gt;
-Магазины:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Ближайшие продуктовые и хозяйственные магазины, а также аптеки расположены в селе Теряево, примерно в 1500 метрах от поселка.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
+Условия аренды: Арендная плата + коммунальные услуги (по счетчикам). Предоставляются арендные каникулы до 2 месяцев, чтобы вы могли спокойно подготовить помещение к открытию.&lt;br /&gt;
 &lt;br /&gt;
-Образовательные учреждения:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Детский сад и общеобразовательная школа находятся в селе Теряево, на расстоянии около 1500 метров.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Общественный транспорт:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Остановка общественного транспорта "Чащь" находится в деревне Чащь. От КП "Рижские дворики 2" до остановки примерно 1,2 км пешком. Через остановку проходит автобус №31. Он следует до села Теряево и до города Волоколамска.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Иная значимая информация:&lt;ul&gt;&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Природа и экология: Поселок расположен в живописном месте, в окружении хвойного леса заповедника "Завидово", который является природной территорией федерального значения со статусом национального парка. Также неподалеку протекает река Локнаш и находятся Теряевские пруды, являющиеся природным заказником.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Исторические достопримечательности: Рядом с поселком расположен древний Иосифо-Волоцкий монастырь, основанный в 1479 году, который считается одним из красивейших архитектурных памятников.&lt;/li&gt; &lt;br /&gt;
-&lt;li data-list="bullet"&gt;&lt;span class="ql-ui" contenteditable="false"&gt;&lt;/span&gt;Отдых и развлечения: В деревне Чащь работает охотничье-рыболовное хозяйство, предлагающее соответствующие услуги, включая размещение в коттеджных домах и трассы для любителей снегоходов и квадроциклов. В деревне также есть двухэтажный дореволюционный особняк — местная достопримечательность.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;
-&lt;br /&gt;
-Постройте дом мечты на Вашем участке! Мы предлагаем уникальную возможно</description>
-        <param name="Адрес">Центральная ул.</param>
+Торопитесь! Не упустите уникальную возможность открыть свою точку для бизнеса раньше конкурентов!</description>
+        <param name="Общая площадь">43.8 м²</param>
+        <param name="Адрес">Родниковая ул., 1</param>
       </offer>
       <offer id="145634330" available="true">
         <name>1-к квартира, 3.5 м², Красногорск г.</name>
